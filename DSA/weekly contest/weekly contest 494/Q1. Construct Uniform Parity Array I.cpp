@@ -1,3 +1,5 @@
+// problem link:- https://leetcode.com/problems/construct-uniform-parity-array-i/description/
+
 #include<bits/stdc++.h>
 using namespace std;
 

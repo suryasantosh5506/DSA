@@ -1,3 +1,5 @@
+// problem link:- https://leetcode.com/problems/count-good-subarrays/description/
+
 #include<bits/stdc++.h>
 using namespace std;
 

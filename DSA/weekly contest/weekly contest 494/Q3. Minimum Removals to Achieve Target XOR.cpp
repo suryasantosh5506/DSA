@@ -1,3 +1,5 @@
+// problem link:- https://leetcode.com/problems/minimum-removals-to-achieve-target-xor/description/
+
 #include<bits/stdc++.h>
 using namespace std;
 
