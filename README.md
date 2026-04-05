@@ -13,11 +13,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/suryasantosh5506/DSA/tree/master/0657-robot-return-to-origin) |
+| [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/suryasantosh5506/DSA/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2833-furthest-point-from-origin](https://github.com/suryasantosh5506/DSA/tree/master/2833-furthest-point-from-origin) |
 ## Simulation
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/suryasantosh5506/DSA/tree/master/0657-robot-return-to-origin) |
+| [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/suryasantosh5506/DSA/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
 ## Counting
 |  |
 | ------- |
