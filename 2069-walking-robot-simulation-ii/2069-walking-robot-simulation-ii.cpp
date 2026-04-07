@@ -14,7 +14,7 @@ public:
         int cycle = 2 * (n + m - 2);
         int steps = num % cycle;
 
-        if (steps == 0 && num > 0) {
+        if (steps == 0) {
             steps = cycle;
         }
 
