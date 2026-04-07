@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/suryasantosh5506/DSA/tree/master/0657-robot-return-to-origin) |
 | [0874-walking-robot-simulation](https://github.com/suryasantosh5506/DSA/tree/master/0874-walking-robot-simulation) |
+| [2069-walking-robot-simulation-ii](https://github.com/suryasantosh5506/DSA/tree/master/2069-walking-robot-simulation-ii) |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/suryasantosh5506/DSA/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
 ## Counting
 |  |
@@ -33,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0874-walking-robot-simulation](https://github.com/suryasantosh5506/DSA/tree/master/0874-walking-robot-simulation) |
+## Design
+|  |
+| ------- |
+| [2069-walking-robot-simulation-ii](https://github.com/suryasantosh5506/DSA/tree/master/2069-walking-robot-simulation-ii) |
 <!---LeetCode Topics End-->
