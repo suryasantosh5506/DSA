@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/suryasantosh5506/DSA/tree/master/0874-walking-robot-simulation) |
 | [2942-find-words-containing-character](https://github.com/suryasantosh5506/DSA/tree/master/2942-find-words-containing-character) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/suryasantosh5506/DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/suryasantosh5506/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0874-walking-robot-simulation](https://github.com/suryasantosh5506/DSA/tree/master/0874-walking-robot-simulation) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/suryasantosh5506/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Design
 |  |
 | ------- |
