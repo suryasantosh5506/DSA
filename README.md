@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/suryasantosh5506/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0806-number-of-lines-to-write-string](https://github.com/suryasantosh5506/DSA/tree/master/0806-number-of-lines-to-write-string) |
 | [0874-walking-robot-simulation](https://github.com/suryasantosh5506/DSA/tree/master/0874-walking-robot-simulation) |
 | [1643-kth-smallest-instructions](https://github.com/suryasantosh5506/DSA/tree/master/1643-kth-smallest-instructions) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/suryasantosh5506/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/suryasantosh5506/DSA/tree/master/0058-length-of-last-word) |
 | [0657-robot-return-to-origin](https://github.com/suryasantosh5506/DSA/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/suryasantosh5506/DSA/tree/master/0709-to-lower-case) |
+| [0806-number-of-lines-to-write-string](https://github.com/suryasantosh5506/DSA/tree/master/0806-number-of-lines-to-write-string) |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/suryasantosh5506/DSA/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/suryasantosh5506/DSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/suryasantosh5506/DSA/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
