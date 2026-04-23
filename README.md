@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1643-kth-smallest-instructions](https://github.com/suryasantosh5506/DSA/tree/master/1643-kth-smallest-instructions) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/suryasantosh5506/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/suryasantosh5506/DSA/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
+| [2615-sum-of-distances](https://github.com/suryasantosh5506/DSA/tree/master/2615-sum-of-distances) |
 | [2942-find-words-containing-character](https://github.com/suryasantosh5506/DSA/tree/master/2942-find-words-containing-character) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/suryasantosh5506/DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/suryasantosh5506/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0874-walking-robot-simulation](https://github.com/suryasantosh5506/DSA/tree/master/0874-walking-robot-simulation) |
+| [2615-sum-of-distances](https://github.com/suryasantosh5506/DSA/tree/master/2615-sum-of-distances) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/suryasantosh5506/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/suryasantosh5506/DSA/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Design
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/suryasantosh5506/DSA/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
+| [2615-sum-of-distances](https://github.com/suryasantosh5506/DSA/tree/master/2615-sum-of-distances) |
 ## Math
 |  |
 | ------- |
