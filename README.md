@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/suryasantosh5506/DSA/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/suryasantosh5506/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/suryasantosh5506/DSA/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/suryasantosh5506/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0806-number-of-lines-to-write-string](https://github.com/suryasantosh5506/DSA/tree/master/0806-number-of-lines-to-write-string) |
 | [0874-walking-robot-simulation](https://github.com/suryasantosh5506/DSA/tree/master/0874-walking-robot-simulation) |
 | [1643-kth-smallest-instructions](https://github.com/suryasantosh5506/DSA/tree/master/1643-kth-smallest-instructions) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/suryasantosh5506/DSA/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/suryasantosh5506/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/suryasantosh5506/DSA/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/suryasantosh5506/DSA/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/suryasantosh5506/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0874-walking-robot-simulation](https://github.com/suryasantosh5506/DSA/tree/master/0874-walking-robot-simulation) |
 | [2615-sum-of-distances](https://github.com/suryasantosh5506/DSA/tree/master/2615-sum-of-distances) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/suryasantosh5506/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -98,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/suryasantosh5506/DSA/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/suryasantosh5506/DSA/tree/master/0147-insertion-sort-list) |
+| [0349-intersection-of-two-arrays](https://github.com/suryasantosh5506/DSA/tree/master/0349-intersection-of-two-arrays) |
 ## Greedy
 |  |
 | ------- |
@@ -111,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/suryasantosh5506/DSA/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/suryasantosh5506/DSA/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/suryasantosh5506/DSA/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/suryasantosh5506/DSA/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
