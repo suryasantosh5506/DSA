@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/suryasantosh5506/DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/suryasantosh5506/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/suryasantosh5506/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0485-max-consecutive-ones](https://github.com/suryasantosh5506/DSA/tree/master/0485-max-consecutive-ones) |
 | [0806-number-of-lines-to-write-string](https://github.com/suryasantosh5506/DSA/tree/master/0806-number-of-lines-to-write-string) |
 | [0874-walking-robot-simulation](https://github.com/suryasantosh5506/DSA/tree/master/0874-walking-robot-simulation) |
 | [1643-kth-smallest-instructions](https://github.com/suryasantosh5506/DSA/tree/master/1643-kth-smallest-instructions) |
