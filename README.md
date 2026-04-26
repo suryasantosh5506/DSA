@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/suryasantosh5506/DSA/tree/master/0060-permutation-sequence) |
 | [0189-rotate-array](https://github.com/suryasantosh5506/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/suryasantosh5506/DSA/tree/master/0268-missing-number) |
 | [1643-kth-smallest-instructions](https://github.com/suryasantosh5506/DSA/tree/master/1643-kth-smallest-instructions) |
@@ -154,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/suryasantosh5506/DSA/tree/master/1004-max-consecutive-ones-iii) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/suryasantosh5506/DSA/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
