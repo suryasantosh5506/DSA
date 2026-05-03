@@ -12,16 +12,24 @@
 class Solution {
 public:
 
-    void solution(TreeNode* root,vector<int>&ans){
-        if(root==nullptr) return;
-        ans.emplace_back(root->val);
-        solution(root->left,ans);
-        solution(root->right,ans);
-    }
-
     vector<int> preorderTraversal(TreeNode* root) {
         vector<int>ans;
-        solution(root,ans);
+        stack<TreeNode*>st;
+        if(root==nullptr) return ans;
+
+        while(true){
+            if(root!=nullptr){
+                st.push(root);
+                ans.emplace_back(root->val);
+                root=root->left;
+            }else{
+                if(st.empty()) break;
+                root=st.top();
+                st.pop();
+                root=root->right;
+            }
+
+        }
         return ans;
     }
 };
