@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/suryasantosh5506/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/suryasantosh5506/DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 ## Breadth-First Search
 |  |
@@ -197,4 +198,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/suryasantosh5506/DSA/tree/master/1137-n-th-tribonacci-number) |
+## Stack
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/suryasantosh5506/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/suryasantosh5506/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/suryasantosh5506/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
