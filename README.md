@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/suryasantosh5506/DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/suryasantosh5506/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/suryasantosh5506/DSA/tree/master/2208-minimum-operations-to-halve-array-sum) |
+| [2261-k-divisible-elements-subarrays](https://github.com/suryasantosh5506/DSA/tree/master/2261-k-divisible-elements-subarrays) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/suryasantosh5506/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2326-spiral-matrix-iv](https://github.com/suryasantosh5506/DSA/tree/master/2326-spiral-matrix-iv) |
 | [2334-subarray-with-elements-greater-than-varying-threshold](https://github.com/suryasantosh5506/DSA/tree/master/2334-subarray-with-elements-greater-than-varying-threshold) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/suryasantosh5506/DSA/tree/master/0454-4sum-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/suryasantosh5506/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0874-walking-robot-simulation](https://github.com/suryasantosh5506/DSA/tree/master/0874-walking-robot-simulation) |
+| [2261-k-divisible-elements-subarrays](https://github.com/suryasantosh5506/DSA/tree/master/2261-k-divisible-elements-subarrays) |
 | [2615-sum-of-distances](https://github.com/suryasantosh5506/DSA/tree/master/2615-sum-of-distances) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/suryasantosh5506/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/suryasantosh5506/DSA/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -302,4 +304,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2334-subarray-with-elements-greater-than-varying-threshold](https://github.com/suryasantosh5506/DSA/tree/master/2334-subarray-with-elements-greater-than-varying-threshold) |
+## Trie
+|  |
+| ------- |
+| [2261-k-divisible-elements-subarrays](https://github.com/suryasantosh5506/DSA/tree/master/2261-k-divisible-elements-subarrays) |
+## Rolling Hash
+|  |
+| ------- |
+| [2261-k-divisible-elements-subarrays](https://github.com/suryasantosh5506/DSA/tree/master/2261-k-divisible-elements-subarrays) |
+## Hash Function
+|  |
+| ------- |
+| [2261-k-divisible-elements-subarrays](https://github.com/suryasantosh5506/DSA/tree/master/2261-k-divisible-elements-subarrays) |
+## Enumeration
+|  |
+| ------- |
+| [2261-k-divisible-elements-subarrays](https://github.com/suryasantosh5506/DSA/tree/master/2261-k-divisible-elements-subarrays) |
 <!---LeetCode Topics End-->
