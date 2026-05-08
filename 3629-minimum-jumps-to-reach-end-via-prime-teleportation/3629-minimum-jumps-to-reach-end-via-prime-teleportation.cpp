@@ -45,9 +45,7 @@ public:
                 int p = sieve[x];
 
                 factors.insert(p);
-
-                while (x % p == 0)
-                    x /= p;
+                x /= p;
             }
 
             for (auto p : factors) {
