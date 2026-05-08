@@ -60,18 +60,9 @@ class Solution {
             while(x > 1){
 
                 int p = sieve[x];
-
-                factors.add(p);
-
-                x /= p;
-            }
-
-            for(int p : factors){
-
-                mpp.putIfAbsent(p,
-                        new ArrayList<>());
-
+                mpp.putIfAbsent(p,new ArrayList<>());
                 mpp.get(p).add(i);
+                x /= p;
             }
         }
 
