@@ -43,14 +43,8 @@ public:
             while (x > 1) {
 
                 int p = sieve[x];
-
-                factors.insert(p);
+                mpp[p].emplace_back(i);
                 x /= p;
-            }
-
-            for (auto p : factors) {
-
-                mpp[p].push_back(i);
             }
         }
 
