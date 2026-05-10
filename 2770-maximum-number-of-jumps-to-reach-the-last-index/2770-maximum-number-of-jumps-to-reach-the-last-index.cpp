@@ -1,25 +1,28 @@
 class Solution {
 public:
 
-    int maximumJumps(vector<int>& nums, int target) {
-        int n=nums.size();
-        vector<int>dp(n,INT_MIN);
+    int n;
+    vector<int>dp;
 
-        dp[n-1]=0;
+    int solution(int i,int tgt,vector<int>&nums){
+        if(i==n-1) return 0;
+        if(dp[i]!=-1) return dp[i];
 
-        for(int i=n-2;i>=0;i--){
-            int maxi=INT_MIN;
-            for(int j=i+1;j<n;j++){
-                int val=nums[j]-nums[i];
-                if(val >= -target && val <= target){
-                    int next=dp[j];
-                    if(next!=INT_MIN) maxi=max(maxi,1+next);
-                }
+        int maxi=INT_MIN;
+        for(int j=i+1;j<n;j++){
+            int val=nums[j]-nums[i];
+            if(val >= -tgt && val <= tgt){
+                int next=solution(j,tgt,nums);
+                if(next!=INT_MIN) maxi=max(maxi,1+next);
             }
-            dp[i]=maxi;
         }
+        return dp[i]=maxi;
+    }
 
-        int ans=dp[0];
+    int maximumJumps(vector<int>& nums, int target) {
+        n=nums.size();
+        dp.assign(n,-1);
+        int ans=solution(0,target,nums);
         return (ans==INT_MIN)?-1:ans;
     }
 };
