@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/suryasantosh5506/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/suryasantosh5506/DSA/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/suryasantosh5506/DSA/tree/master/2208-minimum-operations-to-halve-array-sum) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/suryasantosh5506/DSA/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2261-k-divisible-elements-subarrays](https://github.com/suryasantosh5506/DSA/tree/master/2261-k-divisible-elements-subarrays) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/suryasantosh5506/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/suryasantosh5506/DSA/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2069-walking-robot-simulation-ii](https://github.com/suryasantosh5506/DSA/tree/master/2069-walking-robot-simulation-ii) |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/suryasantosh5506/DSA/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/suryasantosh5506/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/suryasantosh5506/DSA/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2326-spiral-matrix-iv](https://github.com/suryasantosh5506/DSA/tree/master/2326-spiral-matrix-iv) |
 | [2553-separate-the-digits-in-an-array](https://github.com/suryasantosh5506/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/suryasantosh5506/DSA/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/suryasantosh5506/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/suryasantosh5506/DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/suryasantosh5506/DSA/tree/master/2195-append-k-integers-with-minimal-sum) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/suryasantosh5506/DSA/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/suryasantosh5506/DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3875-construct-uniform-parity-array-i](https://github.com/suryasantosh5506/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1643-kth-smallest-instructions](https://github.com/suryasantosh5506/DSA/tree/master/1643-kth-smallest-instructions) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/suryasantosh5506/DSA/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Linked List
 |  |
 | ------- |
@@ -433,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/suryasantosh5506/DSA/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/suryasantosh5506/DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## String Matching
 |  |
