@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/suryasantosh5506/DSA/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/suryasantosh5506/DSA/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/suryasantosh5506/DSA/tree/master/2530-maximal-score-after-applying-k-operations) |
+| [2553-separate-the-digits-in-an-array](https://github.com/suryasantosh5506/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/suryasantosh5506/DSA/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2615-sum-of-distances](https://github.com/suryasantosh5506/DSA/tree/master/2615-sum-of-distances) |
 | [2643-row-with-maximum-ones](https://github.com/suryasantosh5506/DSA/tree/master/2643-row-with-maximum-ones) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/suryasantosh5506/DSA/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/suryasantosh5506/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2326-spiral-matrix-iv](https://github.com/suryasantosh5506/DSA/tree/master/2326-spiral-matrix-iv) |
+| [2553-separate-the-digits-in-an-array](https://github.com/suryasantosh5506/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/suryasantosh5506/DSA/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/suryasantosh5506/DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Counting
