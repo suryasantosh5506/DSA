@@ -5,9 +5,8 @@ class Solution {
         if(r==0) return 1;
         long long ans=1;
         for(int i=1;i<=r;i++){
-            ans*=n;
+            ans*=(n-i+1);
             ans/=i;
-            n--;
         }
         return ans;
     }
