@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/suryasantosh5506/DSA/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/suryasantosh5506/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/suryasantosh5506/DSA/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/suryasantosh5506/DSA/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/suryasantosh5506/DSA/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/suryasantosh5506/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/suryasantosh5506/DSA/tree/master/0268-missing-number) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/suryasantosh5506/DSA/tree/master/0060-permutation-sequence) |
 | [0069-sqrtx](https://github.com/suryasantosh5506/DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/suryasantosh5506/DSA/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/suryasantosh5506/DSA/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/suryasantosh5506/DSA/tree/master/0268-missing-number) |
 | [1137-n-th-tribonacci-number](https://github.com/suryasantosh5506/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1643-kth-smallest-instructions](https://github.com/suryasantosh5506/DSA/tree/master/1643-kth-smallest-instructions) |
@@ -450,10 +452,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/suryasantosh5506/DSA/tree/master/0204-count-primes) |
 | [2261-k-divisible-elements-subarrays](https://github.com/suryasantosh5506/DSA/tree/master/2261-k-divisible-elements-subarrays) |
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/suryasantosh5506/DSA/tree/master/0204-count-primes) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/suryasantosh5506/DSA/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/suryasantosh5506/DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## String Matching
