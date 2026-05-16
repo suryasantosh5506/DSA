@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/suryasantosh5506/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/suryasantosh5506/DSA/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/suryasantosh5506/DSA/tree/master/0402-remove-k-digits) |
+| [0424-longest-repeating-character-replacement](https://github.com/suryasantosh5506/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0657-robot-return-to-origin](https://github.com/suryasantosh5506/DSA/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/suryasantosh5506/DSA/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/suryasantosh5506/DSA/tree/master/0796-rotate-string) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/suryasantosh5506/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/suryasantosh5506/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/suryasantosh5506/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/suryasantosh5506/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0454-4sum-ii](https://github.com/suryasantosh5506/DSA/tree/master/0454-4sum-ii) |
 | [0525-contiguous-array](https://github.com/suryasantosh5506/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/suryasantosh5506/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/suryasantosh5506/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/suryasantosh5506/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/suryasantosh5506/DSA/tree/master/0904-fruit-into-baskets) |
 | [0978-longest-turbulent-subarray](https://github.com/suryasantosh5506/DSA/tree/master/0978-longest-turbulent-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/suryasantosh5506/DSA/tree/master/1004-max-consecutive-ones-iii) |
