@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/suryasantosh5506/DSA/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/suryasantosh5506/DSA/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/suryasantosh5506/DSA/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/suryasantosh5506/DSA/tree/master/0342-power-of-four) |
 | [1137-n-th-tribonacci-number](https://github.com/suryasantosh5506/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/suryasantosh5506/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1643-kth-smallest-instructions](https://github.com/suryasantosh5506/DSA/tree/master/1643-kth-smallest-instructions) |
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/suryasantosh5506/DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/suryasantosh5506/DSA/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/suryasantosh5506/DSA/tree/master/0342-power-of-four) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/suryasantosh5506/DSA/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/suryasantosh5506/DSA/tree/master/2433-find-the-original-array-of-prefix-xor) |
 ## Sliding Window
@@ -447,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/suryasantosh5506/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/suryasantosh5506/DSA/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/suryasantosh5506/DSA/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/suryasantosh5506/DSA/tree/master/0342-power-of-four) |
 ## Depth-First Search
 |  |
 | ------- |
