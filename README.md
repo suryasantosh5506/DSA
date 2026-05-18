@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/suryasantosh5506/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0377-combination-sum-iv](https://github.com/suryasantosh5506/DSA/tree/master/0377-combination-sum-iv) |
 | [0410-split-array-largest-sum](https://github.com/suryasantosh5506/DSA/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/suryasantosh5506/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0454-4sum-ii](https://github.com/suryasantosh5506/DSA/tree/master/0454-4sum-ii) |
 | [0455-assign-cookies](https://github.com/suryasantosh5506/DSA/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/suryasantosh5506/DSA/tree/master/0485-max-consecutive-ones) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/suryasantosh5506/DSA/tree/master/0152-maximum-product-subarray) |
 | [0377-combination-sum-iv](https://github.com/suryasantosh5506/DSA/tree/master/0377-combination-sum-iv) |
 | [0410-split-array-largest-sum](https://github.com/suryasantosh5506/DSA/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/suryasantosh5506/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/suryasantosh5506/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/suryasantosh5506/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [0978-longest-turbulent-subarray](https://github.com/suryasantosh5506/DSA/tree/master/0978-longest-turbulent-subarray) |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/suryasantosh5506/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/suryasantosh5506/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/suryasantosh5506/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0435-non-overlapping-intervals](https://github.com/suryasantosh5506/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/suryasantosh5506/DSA/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/suryasantosh5506/DSA/tree/master/0621-task-scheduler) |
 | [0948-bag-of-tokens](https://github.com/suryasantosh5506/DSA/tree/master/0948-bag-of-tokens) |
@@ -360,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/suryasantosh5506/DSA/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/suryasantosh5506/DSA/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/suryasantosh5506/DSA/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/suryasantosh5506/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/suryasantosh5506/DSA/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/suryasantosh5506/DSA/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/suryasantosh5506/DSA/tree/master/0678-valid-parenthesis-string) |
