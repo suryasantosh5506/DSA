@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/suryasantosh5506/DSA/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2615-sum-of-distances](https://github.com/suryasantosh5506/DSA/tree/master/2615-sum-of-distances) |
 | [2643-row-with-maximum-ones](https://github.com/suryasantosh5506/DSA/tree/master/2643-row-with-maximum-ones) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/suryasantosh5506/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/suryasantosh5506/DSA/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2874-maximum-value-of-an-ordered-triplet-ii](https://github.com/suryasantosh5506/DSA/tree/master/2874-maximum-value-of-an-ordered-triplet-ii) |
 | [2909-minimum-sum-of-mountain-triplets-ii](https://github.com/suryasantosh5506/DSA/tree/master/2909-minimum-sum-of-mountain-triplets-ii) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/suryasantosh5506/DSA/tree/master/2540-minimum-common-value) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/suryasantosh5506/DSA/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2615-sum-of-distances](https://github.com/suryasantosh5506/DSA/tree/master/2615-sum-of-distances) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/suryasantosh5506/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/suryasantosh5506/DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/suryasantosh5506/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/suryasantosh5506/DSA/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -441,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/suryasantosh5506/DSA/tree/master/0342-power-of-four) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/suryasantosh5506/DSA/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/suryasantosh5506/DSA/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/suryasantosh5506/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Sliding Window
 |  |
 | ------- |
