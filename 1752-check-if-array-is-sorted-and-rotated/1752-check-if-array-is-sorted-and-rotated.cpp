@@ -1,14 +1,12 @@
 class Solution {
 public:
     bool check(vector<int>& nums) {
+        int bp=0;
         int n=nums.size();
-        int bps=0;
         for(int i=1;i<n;i++){
-            if(nums[i]<nums[i-1]) bps++;
+            if(nums[i]<nums[i-1]) bp++;
         }
-
-        if(nums[0]<nums[n-1]) bps++;
-
-        return bps<=1;
+        if(nums[0]<nums[n-1]) bp++;
+        return bp<=1;
     }
 };
