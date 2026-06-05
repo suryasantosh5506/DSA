@@ -1,13 +1,13 @@
 class Solution {
 public:
 
-    vector<int>solution(int row){
-        int ele=1;
+    vector<int> solution(int row){
         vector<int>ans;
-        ans.emplace_back(ele);
-        for(int i=0;i<row;i++){
-            ele*=(row-i);
-            ele/=i+1;
+        ans.emplace_back(1);
+        int ele=1;
+        for(int col=0;col<row;col++){
+            ele=ele*(row-col);
+            ele/=(col+1);
             ans.emplace_back(ele);
         }
         return ans;
