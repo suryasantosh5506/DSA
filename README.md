@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/suryasantosh5506/DSA/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/suryasantosh5506/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/suryasantosh5506/DSA/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2596-check-knight-tour-configuration](https://github.com/suryasantosh5506/DSA/tree/master/2596-check-knight-tour-configuration) |
 | [2615-sum-of-distances](https://github.com/suryasantosh5506/DSA/tree/master/2615-sum-of-distances) |
 | [2643-row-with-maximum-ones](https://github.com/suryasantosh5506/DSA/tree/master/2643-row-with-maximum-ones) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/suryasantosh5506/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-find-triangular-sum-of-an-array](https://github.com/suryasantosh5506/DSA/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2326-spiral-matrix-iv](https://github.com/suryasantosh5506/DSA/tree/master/2326-spiral-matrix-iv) |
 | [2553-separate-the-digits-in-an-array](https://github.com/suryasantosh5506/DSA/tree/master/2553-separate-the-digits-in-an-array) |
+| [2596-check-knight-tour-configuration](https://github.com/suryasantosh5506/DSA/tree/master/2596-check-knight-tour-configuration) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/suryasantosh5506/DSA/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/suryasantosh5506/DSA/tree/master/3612-process-string-with-special-operations-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/suryasantosh5506/DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -548,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-number-of-operations-to-make-network-connected](https://github.com/suryasantosh5506/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/suryasantosh5506/DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/suryasantosh5506/DSA/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
+| [2596-check-knight-tour-configuration](https://github.com/suryasantosh5506/DSA/tree/master/2596-check-knight-tour-configuration) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/suryasantosh5506/DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Breadth-First Search
 |  |
@@ -564,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/suryasantosh5506/DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/suryasantosh5506/DSA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/suryasantosh5506/DSA/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
+| [2596-check-knight-tour-configuration](https://github.com/suryasantosh5506/DSA/tree/master/2596-check-knight-tour-configuration) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/suryasantosh5506/DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Union-Find
 |  |
@@ -593,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/suryasantosh5506/DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/suryasantosh5506/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2326-spiral-matrix-iv](https://github.com/suryasantosh5506/DSA/tree/master/2326-spiral-matrix-iv) |
+| [2596-check-knight-tour-configuration](https://github.com/suryasantosh5506/DSA/tree/master/2596-check-knight-tour-configuration) |
 | [2643-row-with-maximum-ones](https://github.com/suryasantosh5506/DSA/tree/master/2643-row-with-maximum-ones) |
 | [3148-maximum-difference-score-in-a-grid](https://github.com/suryasantosh5506/DSA/tree/master/3148-maximum-difference-score-in-a-grid) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/suryasantosh5506/DSA/tree/master/3742-maximum-path-score-in-a-grid) |
