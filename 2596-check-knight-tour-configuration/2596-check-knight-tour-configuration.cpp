@@ -6,26 +6,20 @@ public:
 
         if(grid[0][0]!=0) return false;
 
-        priority_queue<vector<int>,vector<vector<int>>,greater<vector<int>>>pq;
-        // {ind,row,col}
+        vector<pair<int,int>>arr(n*m);
 
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
-                pq.push({grid[i][j],i,j});
+                arr[grid[i][j]]={i,j};
             }
         }
 
-        vector<int>prev=pq.top();
-        pq.pop();
-
-        while(!pq.empty()){
-            vector<int>curr=pq.top();
-            pq.pop();
-            if(curr[0]!=prev[0]+1) return false;
-            bool cond1=abs(curr[1]-prev[1])==2 && abs(curr[2]-prev[2])==1;
-            bool cond2=abs(curr[1]-prev[1])==1 && abs(curr[2]-prev[2])==2;
+        for(int i=1;i<n*m;i++){
+            bool cond1=abs(arr[i].first-arr[i-1].first)==2 && 
+                        abs(arr[i].second-arr[i-1].second)==1;
+            bool cond2=abs(arr[i].first-arr[i-1].first)==1 && 
+                        abs(arr[i].second-arr[i-1].second)==2;
             if(!cond1 && !cond2) return false;
-            prev=curr;
         }
         return true;
     }
