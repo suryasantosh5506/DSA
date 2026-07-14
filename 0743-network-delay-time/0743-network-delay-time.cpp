@@ -5,31 +5,29 @@ public:
         for(auto it:times){
             graph[it[0]].emplace_back(it[1],it[2]);
         }
-        vector<int>distanceTracer(n+1,1e9);
-        distanceTracer[k]=0;
-
-        priority_queue<pair<int,int>,vector<pair<int,int>>,greater<pair<int,int>>>pq;
-        // {time,node};
+        vector<int>distanceTracer(n+1,INT_MAX);
+        priority_queue<vector<int>,vector<vector<int>>,greater<vector<int>>>pq;
         pq.push({0,k});
+        distanceTracer[k]=0;
 
         while(!pq.empty()){
             auto top=pq.top();
             pq.pop();
 
-            int node=top.second;
-            int time=top.first;
+            int dist=top[0];
+            int node=top[1];
+
+            if(dist>distanceTracer[node]) continue;
 
             for(auto it:graph[node]){
-                int v=it.first;
-                int d=it.second;
-
-                if(distanceTracer[v]>time+d){
-                    distanceTracer[v]=time+d;
-                    pq.push({distanceTracer[v],v});
+                if(distanceTracer[it.first]>dist+it.second){
+                    distanceTracer[it.first]=dist+it.second;
+                    pq.push({distanceTracer[it.first],it.first});
                 }
             }
         }
-        int ans=*max_element(distanceTracer.begin()+1,distanceTracer.end());
-        return (ans==1e9)?-1:ans;
+
+        if(count(distanceTracer.begin()+1,distanceTracer.end(),INT_MAX)!=0) return -1;
+        return *max_element(distanceTracer.begin()+1,distanceTracer.end());
     }
 };
