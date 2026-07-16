@@ -1,30 +1,31 @@
 class DisJointSet{
-public:
-    vector<int>parent,rank;
-
+    public:
+    vector<int>rank;
+    vector<int>parent;
+    
     DisJointSet(int n){
+        rank.resize(n+1,0);
         parent.resize(n+1);
-        rank.resize(n+1);
         for(int i=0;i<=n;i++) parent[i]=i;
     }
-
-    int findUltimateParent(int node){
-        if(node==parent[node]) return node;
-        return parent[node]=findUltimateParent(parent[node]);
+    
+    int findUltimateParent(int n){
+        if(parent[n]==n) return n;
+        return parent[n]=findUltimateParent(parent[n]);
     }
-
+    
     void unionByRank(int u,int v){
         int pu=findUltimateParent(u);
         int pv=findUltimateParent(v);
-
+        
         if(pu==pv) return;
-        if(rank[pu]<rank[pv]){
-            parent[pu]=pv;
-        }else if(rank[pu]>rank[pv]){
+        if(rank[pu]>rank[pv]){
             parent[pv]=pu;
-        }else{
+        }else if(rank[pv]>rank[pu]){
             parent[pu]=pv;
-            rank[pv]++;
+        }else{
+           parent[pv]=pu;
+           rank[pu]++;
         }
     }
 };
@@ -33,25 +34,19 @@ class Solution {
 public:
     int makeConnected(int n, vector<vector<int>>& connections) {
         DisJointSet ds(n);
-        int extraEdges=0;
-
+        int extraedges=0;
         for(auto it:connections){
-            int u=it[0];
-            int v=it[1];
-
-            if(ds.findUltimateParent(u)!=ds.findUltimateParent(v)){
-                ds.unionByRank(u,v);
+            if(ds.findUltimateParent(it[0])!=ds.findUltimateParent(it[1])){
+                ds.unionByRank(it[0],it[1]);
             }else{
-                extraEdges++;
+                extraedges++;
             }
         }
 
-        int noOfComponents=0;
-
+        int Noofcomponents=0;
         for(int i=0;i<n;i++){
-            if(ds.parent[i]==i) noOfComponents++;
+            if(ds.parent[i]==i) Noofcomponents++;
         }
-
-        return (extraEdges>=(noOfComponents-1))?noOfComponents-1:-1;
+        return (extraedges>=Noofcomponents-1)?Noofcomponents-1:-1;
     }
 };
