@@ -9,8 +9,8 @@ public class Solution {
             else high=mid-1;
         }
         if(high==-1) return k;
-        int missing=arr[high]-(high+1);
-        int req=k-missing;
+        int miss=arr[high]-(high+1);
+        int req=k-miss;
         return arr[high]+req;
     }
 }
