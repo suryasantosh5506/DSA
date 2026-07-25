@@ -391,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/suryasantosh5506/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/suryasantosh5506/DSA/tree/master/0152-maximum-product-subarray) |
 | [0377-combination-sum-iv](https://github.com/suryasantosh5506/DSA/tree/master/0377-combination-sum-iv) |
+| [0397-integer-replacement](https://github.com/suryasantosh5506/DSA/tree/master/0397-integer-replacement) |
 | [0410-split-array-largest-sum](https://github.com/suryasantosh5506/DSA/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/suryasantosh5506/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/suryasantosh5506/DSA/tree/master/0678-valid-parenthesis-string) |
@@ -476,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/suryasantosh5506/DSA/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/suryasantosh5506/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/suryasantosh5506/DSA/tree/master/0135-candy) |
+| [0397-integer-replacement](https://github.com/suryasantosh5506/DSA/tree/master/0397-integer-replacement) |
 | [0402-remove-k-digits](https://github.com/suryasantosh5506/DSA/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/suryasantosh5506/DSA/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/suryasantosh5506/DSA/tree/master/0435-non-overlapping-intervals) |
@@ -557,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/suryasantosh5506/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/suryasantosh5506/DSA/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/suryasantosh5506/DSA/tree/master/0342-power-of-four) |
+| [0397-integer-replacement](https://github.com/suryasantosh5506/DSA/tree/master/0397-integer-replacement) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/suryasantosh5506/DSA/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/suryasantosh5506/DSA/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/suryasantosh5506/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -681,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/suryasantosh5506/DSA/tree/master/0070-climbing-stairs) |
+| [0397-integer-replacement](https://github.com/suryasantosh5506/DSA/tree/master/0397-integer-replacement) |
 | [1137-n-th-tribonacci-number](https://github.com/suryasantosh5506/DSA/tree/master/1137-n-th-tribonacci-number) |
 ## Stack
 |  |
