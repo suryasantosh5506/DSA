@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/suryasantosh5506/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/suryasantosh5506/DSA/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/suryasantosh5506/DSA/tree/master/0624-maximum-distance-in-arrays) |
+| [0641-design-circular-deque](https://github.com/suryasantosh5506/DSA/tree/master/0641-design-circular-deque) |
 | [0704-binary-search](https://github.com/suryasantosh5506/DSA/tree/master/0704-binary-search) |
 | [0731-my-calendar-ii](https://github.com/suryasantosh5506/DSA/tree/master/0731-my-calendar-ii) |
 | [0735-asteroid-collision](https://github.com/suryasantosh5506/DSA/tree/master/0735-asteroid-collision) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/suryasantosh5506/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0303-range-sum-query-immutable](https://github.com/suryasantosh5506/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/suryasantosh5506/DSA/tree/master/0307-range-sum-query-mutable) |
+| [0641-design-circular-deque](https://github.com/suryasantosh5506/DSA/tree/master/0641-design-circular-deque) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/suryasantosh5506/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0707-design-linked-list](https://github.com/suryasantosh5506/DSA/tree/master/0707-design-linked-list) |
 | [0731-my-calendar-ii](https://github.com/suryasantosh5506/DSA/tree/master/0731-my-calendar-ii) |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/suryasantosh5506/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/suryasantosh5506/DSA/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/suryasantosh5506/DSA/tree/master/0237-delete-node-in-a-linked-list) |
+| [0641-design-circular-deque](https://github.com/suryasantosh5506/DSA/tree/master/0641-design-circular-deque) |
 | [0707-design-linked-list](https://github.com/suryasantosh5506/DSA/tree/master/0707-design-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/suryasantosh5506/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2326-spiral-matrix-iv](https://github.com/suryasantosh5506/DSA/tree/master/2326-spiral-matrix-iv) |
@@ -874,4 +877,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/suryasantosh5506/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/suryasantosh5506/DSA/tree/master/0210-course-schedule-ii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/suryasantosh5506/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Queue
+|  |
+| ------- |
+| [0641-design-circular-deque](https://github.com/suryasantosh5506/DSA/tree/master/0641-design-circular-deque) |
 <!---LeetCode Topics End-->
