@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/suryasantosh5506/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/suryasantosh5506/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/suryasantosh5506/DSA/tree/master/0621-task-scheduler) |
+| [0624-maximum-distance-in-arrays](https://github.com/suryasantosh5506/DSA/tree/master/0624-maximum-distance-in-arrays) |
 | [0704-binary-search](https://github.com/suryasantosh5506/DSA/tree/master/0704-binary-search) |
 | [0731-my-calendar-ii](https://github.com/suryasantosh5506/DSA/tree/master/0731-my-calendar-ii) |
 | [0735-asteroid-collision](https://github.com/suryasantosh5506/DSA/tree/master/0735-asteroid-collision) |
@@ -486,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/suryasantosh5506/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/suryasantosh5506/DSA/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/suryasantosh5506/DSA/tree/master/0621-task-scheduler) |
+| [0624-maximum-distance-in-arrays](https://github.com/suryasantosh5506/DSA/tree/master/0624-maximum-distance-in-arrays) |
 | [0678-valid-parenthesis-string](https://github.com/suryasantosh5506/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/suryasantosh5506/DSA/tree/master/0860-lemonade-change) |
 | [0948-bag-of-tokens](https://github.com/suryasantosh5506/DSA/tree/master/0948-bag-of-tokens) |
