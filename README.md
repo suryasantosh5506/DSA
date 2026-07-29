@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/suryasantosh5506/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/suryasantosh5506/DSA/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/suryasantosh5506/DSA/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/suryasantosh5506/DSA/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/suryasantosh5506/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/suryasantosh5506/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/suryasantosh5506/DSA/tree/master/0119-pascals-triangle-ii) |
@@ -606,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/suryasantosh5506/DSA/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/suryasantosh5506/DSA/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/suryasantosh5506/DSA/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/suryasantosh5506/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/suryasantosh5506/DSA/tree/master/0268-missing-number) |
@@ -850,6 +852,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/suryasantosh5506/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/suryasantosh5506/DSA/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/suryasantosh5506/DSA/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/suryasantosh5506/DSA/tree/master/0090-subsets-ii) |
 | [0473-matchsticks-to-square](https://github.com/suryasantosh5506/DSA/tree/master/0473-matchsticks-to-square) |
 | [1219-path-with-maximum-gold](https://github.com/suryasantosh5506/DSA/tree/master/1219-path-with-maximum-gold) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/suryasantosh5506/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
