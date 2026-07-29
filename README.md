@@ -387,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1643-kth-smallest-instructions](https://github.com/suryasantosh5506/DSA/tree/master/1643-kth-smallest-instructions) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/suryasantosh5506/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/suryasantosh5506/DSA/tree/master/1903-largest-odd-number-in-string) |
+| [1922-count-good-numbers](https://github.com/suryasantosh5506/DSA/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/suryasantosh5506/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/suryasantosh5506/DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2063-vowels-of-all-substrings](https://github.com/suryasantosh5506/DSA/tree/master/2063-vowels-of-all-substrings) |
@@ -635,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/suryasantosh5506/DSA/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/suryasantosh5506/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/suryasantosh5506/DSA/tree/master/0342-power-of-four) |
+| [1922-count-good-numbers](https://github.com/suryasantosh5506/DSA/tree/master/1922-count-good-numbers) |
 ## Depth-First Search
 |  |
 | ------- |
