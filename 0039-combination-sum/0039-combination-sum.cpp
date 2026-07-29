@@ -1,26 +1,27 @@
 class Solution {
 public:
 
-    void solution(int i,int tgt,vector<int>seq,vector<int>&candidates,vector<vector<int>>&ans){
-        if(i==candidates.size()){
-            if(tgt==0){
-                ans.emplace_back(seq);
-            }
+    vector<vector<int>>ans;
+    vector<int>seq;
+    int n;
+
+    void solution(int i,vector<int>&arr,int tgt){
+        if(i==n){
+            if(tgt==0) ans.emplace_back(seq);
             return;
         }
 
         if(tgt<0) return;
 
-        seq.emplace_back(candidates[i]);
-        solution(i,tgt-candidates[i],seq,candidates,ans);
+        seq.emplace_back(arr[i]);
+        solution(i,arr,tgt-arr[i]);
         seq.pop_back();
-        solution(i+1,tgt,seq,candidates,ans);
+        solution(i+1,arr,tgt);
     }
 
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
-        vector<vector<int>>ans;
-        vector<int>seq;
-        solution(0,target,seq,candidates,ans);
+        n=candidates.size();
+        solution(0,candidates,target);
         return ans;
     }
 };
