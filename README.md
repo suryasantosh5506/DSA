@@ -368,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/suryasantosh5506/DSA/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/suryasantosh5506/DSA/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/suryasantosh5506/DSA/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/suryasantosh5506/DSA/tree/master/0060-permutation-sequence) |
 | [0069-sqrtx](https://github.com/suryasantosh5506/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/suryasantosh5506/DSA/tree/master/0070-climbing-stairs) |
@@ -627,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/suryasantosh5506/DSA/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/suryasantosh5506/DSA/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/suryasantosh5506/DSA/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/suryasantosh5506/DSA/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/suryasantosh5506/DSA/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/suryasantosh5506/DSA/tree/master/0231-power-of-two) |
