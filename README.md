@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/suryasantosh5506/DSA/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/suryasantosh5506/DSA/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/suryasantosh5506/DSA/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/suryasantosh5506/DSA/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/suryasantosh5506/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/suryasantosh5506/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/suryasantosh5506/DSA/tree/master/0242-valid-anagram) |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/suryasantosh5506/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/suryasantosh5506/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/suryasantosh5506/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0131-palindrome-partitioning](https://github.com/suryasantosh5506/DSA/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/suryasantosh5506/DSA/tree/master/0152-maximum-product-subarray) |
 | [0377-combination-sum-iv](https://github.com/suryasantosh5506/DSA/tree/master/0377-combination-sum-iv) |
 | [0397-integer-replacement](https://github.com/suryasantosh5506/DSA/tree/master/0397-integer-replacement) |
@@ -860,6 +862,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/suryasantosh5506/DSA/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/suryasantosh5506/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/suryasantosh5506/DSA/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/suryasantosh5506/DSA/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/suryasantosh5506/DSA/tree/master/0216-combination-sum-iii) |
 | [0473-matchsticks-to-square](https://github.com/suryasantosh5506/DSA/tree/master/0473-matchsticks-to-square) |
 | [1219-path-with-maximum-gold](https://github.com/suryasantosh5506/DSA/tree/master/1219-path-with-maximum-gold) |
