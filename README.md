@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/suryasantosh5506/DSA/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2833-furthest-point-from-origin](https://github.com/suryasantosh5506/DSA/tree/master/2833-furthest-point-from-origin) |
 | [2942-find-words-containing-character](https://github.com/suryasantosh5506/DSA/tree/master/2942-find-words-containing-character) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/suryasantosh5506/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/suryasantosh5506/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/suryasantosh5506/DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/suryasantosh5506/DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2063-vowels-of-all-substrings](https://github.com/suryasantosh5506/DSA/tree/master/2063-vowels-of-all-substrings) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/suryasantosh5506/DSA/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/suryasantosh5506/DSA/tree/master/2221-find-triangular-sum-of-an-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/suryasantosh5506/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/suryasantosh5506/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/suryasantosh5506/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/suryasantosh5506/DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -545,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/suryasantosh5506/DSA/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/suryasantosh5506/DSA/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/suryasantosh5506/DSA/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/suryasantosh5506/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/suryasantosh5506/DSA/tree/master/3689-maximum-total-subarray-value-i) |
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/suryasantosh5506/DSA/tree/master/3767-maximize-points-after-choosing-k-tasks) |
 ## Heap (Priority Queue)
