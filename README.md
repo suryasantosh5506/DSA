@@ -633,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/suryasantosh5506/DSA/tree/master/0397-integer-replacement) |
 | [0473-matchsticks-to-square](https://github.com/suryasantosh5506/DSA/tree/master/0473-matchsticks-to-square) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/suryasantosh5506/DSA/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/suryasantosh5506/DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/suryasantosh5506/DSA/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/suryasantosh5506/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/suryasantosh5506/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
