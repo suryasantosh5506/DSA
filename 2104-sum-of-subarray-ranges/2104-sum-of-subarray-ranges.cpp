@@ -1,77 +1,80 @@
+typedef long long ll;
 class Solution {
 public:
 
-    vector<int> prevGreatestEqualEle(vector<int>&arr){
-        int n=arr.size();
-        vector<int>ans(n);
-        stack<int>st;
-        for(int i=0;i<n;i++){
-            while(!st.empty() && arr[st.top()]<arr[i]) st.pop();
-            ans[i]=st.empty()?-1:st.top();
-            st.push(i);
-        }
-        return ans;
-    }
+    const int mod=1e9+7;
+    vector<int>psee;
+    int n;
+    vector<int>nse;
 
-    vector<int> nextGreatestEle(vector<int>&arr){
-        int n=arr.size();
-        vector<int>ans(n);
-        stack<int>st;
-        for(int i=n-1;i>=0;i--){
-            while(!st.empty() && arr[st.top()]<=arr[i]) st.pop();
-            ans[i]=st.empty()?n:st.top();
-            st.push(i);
-        }
-        return ans;
-    }
-
-    long long subArrayMaxs(vector<int>&arr){
-        vector<int>pgee=prevGreatestEqualEle(arr);
-        vector<int>nge=nextGreatestEle(arr);
-        int n=arr.size();
-        long long total=0;
-        for(int i=0;i<n;i++){
-            total+=1ll*(i-pgee[i])*(nge[i]-i)*arr[i];
-        }
-        return total;
-    }
-
-    vector<int> prevSmallestEqualEle(vector<int>&arr){
-        int n=arr.size();
-        vector<int>ans(n);
+    void prevSmallEqual(vector<int>&arr){
         stack<int>st;
         for(int i=0;i<n;i++){
             while(!st.empty() && arr[st.top()]>arr[i]) st.pop();
-            ans[i]=st.empty()?-1:st.top();
+            psee[i]=(st.empty())?-1:st.top();
             st.push(i);
         }
-        return ans;
     }
 
-    vector<int> nextSmallestEle(vector<int>&arr){
-        int n=arr.size();
-        vector<int>ans(n);
+    void nextSmall(vector<int>&arr){
         stack<int>st;
         for(int i=n-1;i>=0;i--){
             while(!st.empty() && arr[st.top()]>=arr[i]) st.pop();
-            ans[i]=st.empty()?n:st.top();
+            nse[i]=(st.empty())?n:st.top();
             st.push(i);
+        }
+    }
+
+    ll sumSubarrayMins(vector<int>& arr) {
+        n=arr.size();
+        psee.resize(n);
+        nse.resize(n);
+        prevSmallEqual(arr);
+        nextSmall(arr);
+        ll ans=0;
+        for(int i=0;i<n;i++){
+            ans += 1LL * (i - psee[i]) * (nse[i] - i) * arr[i];
         }
         return ans;
     }
 
-    long long subArrayMins(vector<int>&arr){
-        vector<int>psee=prevSmallestEqualEle(arr);
-        vector<int>nse=nextSmallestEle(arr);
-        int n=arr.size();
-        long long total=0;
+
+    vector<int>pgee;
+    vector<int>nge;
+
+    void prevGreatEqual(vector<int>&arr){
+        stack<int>st;
         for(int i=0;i<n;i++){
-           total+=1ll*(i-psee[i])*1LL*(nse[i]-i)*arr[i];
+            while(!st.empty() && arr[st.top()]<arr[i]) st.pop();
+            pgee[i]=(st.empty())?-1:st.top();
+            st.push(i);
         }
-        return total;
     }
 
+    void nextGreat(vector<int>&arr){
+        stack<int>st;
+        for(int i=n-1;i>=0;i--){
+            while(!st.empty() && arr[st.top()]<=arr[i]) st.pop();
+            nge[i]=(st.empty())?n:st.top();
+            st.push(i);
+        }
+    }
+
+    ll sumSubarrayMaxs(vector<int>& arr) {
+        n=arr.size();
+        pgee.resize(n);
+        nge.resize(n);
+        prevGreatEqual(arr);
+        nextGreat(arr);
+        ll ans=0;
+        for(int i=0;i<n;i++){
+            ans += 1LL * (i - pgee[i]) * (nge[i] - i) * arr[i];
+        }
+        return ans;
+    }
+
+
     long long subArrayRanges(vector<int>& nums) {
-        return subArrayMaxs(nums)-subArrayMins(nums);
+        return sumSubarrayMaxs(nums)-sumSubarrayMins(nums);
     }
 };
