@@ -1,50 +1,46 @@
 class Solution {
 public:
 
-    int solution(vector<int>&arr){
-        int n=arr.size();
-        int maxi=0;
+    int solution(vector<int>& heights) {
+        int ans=0;
         stack<int>st;
-
+        int n=heights.size();
         for(int i=0;i<n;i++){
-            while(!st.empty() && arr[st.top()]>arr[i]){
-                int nse=i;
-                int ele=arr[st.top()];
+            while(!st.empty() && heights[st.top()]>=heights[i]){
+                int ele=heights[st.top()];
                 st.pop();
+                int nse=i;
                 int pse=(st.empty())?-1:st.top();
-                maxi=max(maxi,ele*(nse-pse-1));
+                ans=max(ans,ele*(nse-pse-1));
             }
             st.push(i);
         }
-                
+
         while(!st.empty()){
-            int nse=n;
-            int ele=arr[st.top()];
+            int ele=heights[st.top()];
             st.pop();
+            int nse=n;
             int pse=(st.empty())?-1:st.top();
-            maxi=max(maxi,ele*(nse-pse-1));
+            ans=max(ans,ele*(nse-pse-1));
         }
-        return maxi;
+        return ans;
     }
 
     int maximalRectangle(vector<vector<char>>& matrix) {
-        int n=matrix.size();
-        int m=matrix[0].size();
+        int n=matrix.size(),m=matrix[0].size();
         vector<vector<int>>arr(n,vector<int>(m,0));
-        
         for(int j=0;j<m;j++){
-            int sum=0;
+            int ele=0;
             for(int i=0;i<n;i++){
-                if(matrix[i][j]=='1') sum++;
-                else sum=0;
-                arr[i][j]=sum;
+                if(matrix[i][j]=='1') ele++;
+                else ele=0;
+                arr[i][j]=ele;
             }
         }
-
-        int maxi=0;
+        int ans=0;
         for(int i=0;i<n;i++){
-            maxi=max(maxi,solution(arr[i]));
+            ans=max(ans,solution(arr[i]));
         }
-        return maxi;
+        return ans;
     }
 };
