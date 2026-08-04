@@ -1,19 +1,20 @@
 class Solution {
 public:
     int candy(vector<int>& ratings) {
-        int n=ratings.size();
-        int i=1;
         int ans=1;
+        int i=1;
+        int n=ratings.size();
         while(i<n){
-            while(i<n && ratings[i]==ratings[i-1]){
+            if(ratings[i]==ratings[i-1]){
                 ans++;
                 i++;
+                continue;
             }
 
-            int peak=1;
+            int top=1;
             while(i<n && ratings[i]>ratings[i-1]){
-                peak++;
-                ans+=peak;
+                top++;
+                ans+=top;
                 i++;
             }
             int down=1;
@@ -22,7 +23,7 @@ public:
                 down++;
                 i++;
             }
-            if(down>peak) ans+=down-peak;
+            if(down>top) ans+=down-top;
         }
         return ans;
     }
