@@ -1031,4 +1031,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/suryasantosh5506/DSA/tree/master/0239-sliding-window-maximum) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/suryasantosh5506/DSA/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
