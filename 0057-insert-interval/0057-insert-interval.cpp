@@ -2,9 +2,12 @@ class Solution {
 public:
     vector<vector<int>> insert(vector<vector<int>>& intervals, vector<int>& newInterval) {
         vector<vector<int>>ans;
-        int i=0,n=intervals.size();
+        int i=0;
+        int n=intervals.size();
 
-        while(i<n && intervals[i][1]<newInterval[0]) ans.emplace_back(intervals[i++]);
+        while(i<n && intervals[i][1]<newInterval[0]){
+            ans.emplace_back(intervals[i++]);
+        }
 
         while(i<n && newInterval[1]>=intervals[i][0]){
             newInterval[0]=min(newInterval[0],intervals[i][0]);
@@ -14,7 +17,9 @@ public:
 
         ans.emplace_back(newInterval);
 
-        while(i<n) ans.emplace_back(intervals[i++]);
+        while(i<n){
+            ans.emplace_back(intervals[i++]);
+        }
         return ans;
     }
 };
