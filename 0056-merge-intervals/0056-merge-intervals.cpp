@@ -3,12 +3,14 @@ public:
     vector<vector<int>> merge(vector<vector<int>>& intervals) {
         vector<vector<int>>ans;
         sort(intervals.begin(),intervals.end());
-        for(auto x:intervals){
-            if(!ans.empty() && ans.back()[1]>=x[0]){
-                ans.back()[0]=min(ans.back()[0],x[0]);
-                ans.back()[1]=max(ans.back()[1],x[1]);
+        for(auto it:intervals){
+            if(ans.empty()){
+                ans.emplace_back(it);
+            }else if(ans.back()[1]>=it[0]){
+                ans.back()[0]=min(ans.back()[0],it[0]);
+                ans.back()[1]=max(ans.back()[1],it[1]);
             }else{
-                ans.emplace_back(x);
+                ans.emplace_back(it);
             }
         }
         return ans;
