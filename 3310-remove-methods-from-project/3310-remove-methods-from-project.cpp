@@ -34,19 +34,20 @@ public:
         }
         dfs(k);
         vector<int>ans;
-        for(int i=0;i<n;i++){
-            if(!visited[i]) ans.emplace_back(i);
-        }
 
         for(int i=0;i<n;i++){
             if(!visited[i]){
                 if(canInvoke(i)){
-                    ans.clear();
                     for(int i=0;i<n;i++) ans.emplace_back(i);
                     return ans;
                 }
             }
         }
+
+        for(int i=0;i<n;i++){
+            if(!visited[i]) ans.emplace_back(i);
+        }
+        
         return ans;
     }
 };
