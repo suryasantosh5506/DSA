@@ -709,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/suryasantosh5506/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/suryasantosh5506/DSA/tree/master/0210-course-schedule-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/suryasantosh5506/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/suryasantosh5506/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/suryasantosh5506/DSA/tree/master/0547-number-of-provinces) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/suryasantosh5506/DSA/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/suryasantosh5506/DSA/tree/master/0590-n-ary-tree-postorder-traversal) |
@@ -839,6 +840,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/suryasantosh5506/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/suryasantosh5506/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/suryasantosh5506/DSA/tree/master/0429-n-ary-tree-level-order-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/suryasantosh5506/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/suryasantosh5506/DSA/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/suryasantosh5506/DSA/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/suryasantosh5506/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -858,6 +860,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/suryasantosh5506/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/suryasantosh5506/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/suryasantosh5506/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/suryasantosh5506/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/suryasantosh5506/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/suryasantosh5506/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/suryasantosh5506/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -1035,4 +1038,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/suryasantosh5506/DSA/tree/master/0056-merge-intervals) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/suryasantosh5506/DSA/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
