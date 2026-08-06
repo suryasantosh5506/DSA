@@ -21,21 +21,22 @@ public:
     // Inorder: 4 2 5 1 6 3 7
     // Postorder: 4 5 2 6 7 3 1
 
-    TreeNode* solution(int prestart,int preend,vector<int>&preorder,int instart,int inend,vector<int>&inorder,unordered_map<int,int>&inordermap){
+    unordered_map<int,int>inordermap;
+
+    TreeNode* solution(int prestart,int preend,vector<int>& preorder,int instart,int inend,vector<int>& inorder){
         if(prestart>preend || instart>inend) return nullptr;
-        int rootval=preorder[prestart];
-        TreeNode* root=new TreeNode(rootval);
-        int index=inordermap[rootval];
-        int noofele=index-instart;
-        root->left=solution(prestart+1,prestart+noofele,preorder,instart,index-1,inorder,inordermap);
-        root->right=solution(prestart+noofele+1,preend,preorder,index+1,inend,inorder,inordermap);
+        int rootind=inordermap[preorder[prestart]];
+        int remele=rootind-instart;
+        TreeNode* root=new TreeNode(preorder[prestart]);
+
+        root->left=solution(prestart+1,prestart+remele,preorder,instart,rootind-1,inorder);
+        root->right=solution(prestart+remele+1,preend,preorder,rootind+1,inend,inorder);
         return root;
     }
 
     TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
-        unordered_map<int,int>inordermap;
-        int n =inorder.size();
+        int n=inorder.size();
         for(int i=0;i<n;i++) inordermap[inorder[i]]=i;
-        return solution(0,n-1,preorder,0,n-1,inorder,inordermap);
+        return solution(0,n-1,preorder,0,n-1,inorder);
     }
 };
