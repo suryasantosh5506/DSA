@@ -11,19 +11,20 @@
  */
 class Solution {
 public:
-
-    TreeNode* prev=nullptr;
-
-    void solution(TreeNode* root){
-        if(!root) return;
-        solution(root->right);
-        solution(root->left);
-        root->right=prev;
-        root->left=nullptr;
-        prev=root;
-    }
-
     void flatten(TreeNode* root) {
-        solution(root);
+        if(!root) return;
+        stack<TreeNode*>st;
+        st.push(root);
+
+        while(!st.empty()){
+            auto top=st.top();
+            st.pop();
+
+            if(top->right) st.push(top->right);
+            if(top->left) st.push(top->left);
+
+            top->left=nullptr;
+            top->right=(st.empty())?nullptr:st.top();
+        }
     }
 };
