@@ -1,10 +1,9 @@
 class Solution {
 public:
 
-    vector<int>visited;
-    vector<int>pathVisited;
     vector<vector<int>>graph;
-    vector<int>ans;
+    vector<int>pathVisited;
+    vector<int>visited;
     stack<int>st;
 
     bool dfs(int node){
@@ -16,32 +15,32 @@ public:
                 if(dfs(it)) return true;
             }else if(pathVisited[it]) return true;
         }
+
         pathVisited[node]=0;
         st.push(node);
         return false;
     }
 
     vector<int> findOrder(int numCourses, vector<vector<int>>& prerequisites) {
-        int n=numCourses;
-        visited.resize(n,0);
-        pathVisited.resize(n,0);
-        graph.resize(n);
+        graph.resize(numCourses);
+        pathVisited.resize(numCourses);
+        visited.resize(numCourses);
 
         for(auto it:prerequisites){
             graph[it[1]].emplace_back(it[0]);
         }
 
-        for(int i=0;i<n;i++){
+        for(int i=0;i<numCourses;i++){
             if(!visited[i]){
-                if(dfs(i)) return ans;
+                if(dfs(i)) return {};
             }
         }
 
+        vector<int>ans;
         while(!st.empty()){
             ans.emplace_back(st.top());
             st.pop();
         }
-
         return ans;
     }
 };
