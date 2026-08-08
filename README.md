@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/suryasantosh5506/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0978-longest-turbulent-subarray](https://github.com/suryasantosh5506/DSA/tree/master/0978-longest-turbulent-subarray) |
 | [0992-subarrays-with-k-different-integers](https://github.com/suryasantosh5506/DSA/tree/master/0992-subarrays-with-k-different-integers) |
+| [0994-rotting-oranges](https://github.com/suryasantosh5506/DSA/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/suryasantosh5506/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/suryasantosh5506/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/suryasantosh5506/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -768,6 +769,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/suryasantosh5506/DSA/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/suryasantosh5506/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/suryasantosh5506/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/suryasantosh5506/DSA/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/suryasantosh5506/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1306-jump-game-iii](https://github.com/suryasantosh5506/DSA/tree/master/1306-jump-game-iii) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/suryasantosh5506/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -809,6 +811,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/suryasantosh5506/DSA/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/suryasantosh5506/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0778-swim-in-rising-water](https://github.com/suryasantosh5506/DSA/tree/master/0778-swim-in-rising-water) |
+| [0994-rotting-oranges](https://github.com/suryasantosh5506/DSA/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/suryasantosh5506/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1219-path-with-maximum-gold](https://github.com/suryasantosh5506/DSA/tree/master/1219-path-with-maximum-gold) |
 | [1301-number-of-paths-with-max-score](https://github.com/suryasantosh5506/DSA/tree/master/1301-number-of-paths-with-max-score) |
