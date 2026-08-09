@@ -5,29 +5,28 @@ public:
         for(auto it:times){
             graph[it[0]].emplace_back(it[1],it[2]);
         }
-        vector<int>distanceTracer(n+1,INT_MAX);
-        priority_queue<vector<int>,vector<vector<int>>,greater<vector<int>>>pq;
+        priority_queue<pair<int,int>,vector<pair<int,int>>,greater<pair<int,int>>>pq;
         pq.push({0,k});
-        distanceTracer[k]=0;
+        vector<int>dist(n+1,INT_MAX);
+        dist[k]=0;
 
         while(!pq.empty()){
             auto top=pq.top();
             pq.pop();
 
-            int dist=top[0];
-            int node=top[1];
+            int d=top.first;
+            int node=top.second;
 
-            if(dist>distanceTracer[node]) continue;
+            if(d>dist[node]) continue;
 
             for(auto it:graph[node]){
-                if(distanceTracer[it.first]>dist+it.second){
-                    distanceTracer[it.first]=dist+it.second;
-                    pq.push({distanceTracer[it.first],it.first});
+                if(dist[it.first]>d+it.second){
+                    dist[it.first]=d+it.second;
+                    pq.push({d+it.second,it.first});
                 }
             }
         }
-
-        if(count(distanceTracer.begin()+1,distanceTracer.end(),INT_MAX)!=0) return -1;
-        return *max_element(distanceTracer.begin()+1,distanceTracer.end());
+        int maxi=*max_element(dist.begin()+1,dist.end());
+        return maxi==INT_MAX?-1:maxi;
     }
 };
