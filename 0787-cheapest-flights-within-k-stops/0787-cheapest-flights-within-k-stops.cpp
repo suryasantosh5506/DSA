@@ -1,35 +1,34 @@
 class Solution {
 public:
     int findCheapestPrice(int n, vector<vector<int>>& flights, int src, int dst, int k) {
-        vector<int>disTracer(n,INT_MAX);
+        vector<int>dist(n,INT_MAX);
         vector<vector<pair<int,int>>>graph(n);
-        queue<vector<int>>q;
 
         for(auto it:flights){
             graph[it[0]].emplace_back(it[1],it[2]);
         }
 
-        disTracer[src]=0;
-        q.push({0,0,src});
-        // {stops,dist,node}
+        priority_queue<vector<int>,vector<vector<int>>,greater<vector<int>>>pq;
+        pq.push({0,0,src});
+        // {stops,dist,src}
+        dist[src]=0;
 
-        while(!q.empty()){
-            auto top=q.front();
-            q.pop();
+        while(!pq.empty()){
+            auto top=pq.top();
+            pq.pop();
 
             int stops=top[0];
-            int dist=top[1];
+            int d=top[1];
             int node=top[2];
-
             if(stops>k) continue;
 
             for(auto it:graph[node]){
-                if(disTracer[it.first]>it.second+dist && stops<=k){
-                    disTracer[it.first]=it.second+dist;
-                    q.push({stops+1,disTracer[it.first],it.first});
+                if(dist[it.first]>d+it.second && stops<=k){
+                    dist[it.first]=d+it.second;
+                    pq.push({stops+1,d+it.second,it.first});
                 }
             }
         }
-        return (disTracer[dst]==INT_MAX)?-1:disTracer[dst];
+        return dist[dst]==INT_MAX?-1:dist[dst];
     }
 };
