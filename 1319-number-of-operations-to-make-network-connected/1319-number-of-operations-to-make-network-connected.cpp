@@ -1,31 +1,33 @@
 class DisJointSet{
-    public:
+public:
     vector<int>rank;
     vector<int>parent;
-    
     DisJointSet(int n){
         rank.resize(n+1,0);
         parent.resize(n+1);
-        for(int i=0;i<=n;i++) parent[i]=i;
+        for(int i=0;i<=n;i++){
+            parent[i]=i;
+        }
     }
     
-    int findUltimateParent(int n){
-        if(parent[n]==n) return n;
-        return parent[n]=findUltimateParent(parent[n]);
+    int fup(int u){
+        if(u==parent[u]) return u;
+        return parent[u]=fup(parent[u]);
     }
     
     void unionByRank(int u,int v){
-        int pu=findUltimateParent(u);
-        int pv=findUltimateParent(v);
+        int pu=fup(u);
+        int pv=fup(v);
         
         if(pu==pv) return;
-        if(rank[pu]>rank[pv]){
-            parent[pv]=pu;
-        }else if(rank[pv]>rank[pu]){
+        
+        if(rank[pu]<rank[pv]){
             parent[pu]=pv;
+        }else if(rank[pv]<rank[pu]){
+            parent[pv]=pu;
         }else{
-           parent[pv]=pu;
-           rank[pu]++;
+            parent[pv]=pu;
+            rank[pu]++;
         }
     }
 };
@@ -33,20 +35,20 @@ class DisJointSet{
 class Solution {
 public:
     int makeConnected(int n, vector<vector<int>>& connections) {
-        DisJointSet ds(n);
-        int extraedges=0;
+        DisJointSet ds(n+1);
+        int extra=0;
         for(auto it:connections){
-            if(ds.findUltimateParent(it[0])!=ds.findUltimateParent(it[1])){
+            if(ds.fup(it[0])!=ds.fup(it[1])){
                 ds.unionByRank(it[0],it[1]);
             }else{
-                extraedges++;
+                extra++;
             }
         }
 
-        int Noofcomponents=0;
+        int total=0;
         for(int i=0;i<n;i++){
-            if(ds.parent[i]==i) Noofcomponents++;
+            if(ds.parent[i]==i) total++;
         }
-        return (extraedges>=Noofcomponents-1)?Noofcomponents-1:-1;
+        return (extra>=total-1)?total-1:-1;
     }
 };
