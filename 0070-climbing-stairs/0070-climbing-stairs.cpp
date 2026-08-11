@@ -1,16 +1,17 @@
 class Solution {
 public:
 
-    int solution(int i,vector<int>&dp){
-        if(i==0) return 1;
-        if(i<0) return 0;
-        if(dp[i]!=-1) return dp[i];
+    vector<int>dp;
 
-        return dp[i]=solution(i-1,dp)+solution(i-2,dp);
+    int solution(int n){
+        if(n==0) return 1;
+        if(n<=0) return 0;
+        if(dp[n]!=-1) return dp[n];
+        return dp[n]=solution(n-1)+solution(n-2);
     }
 
     int climbStairs(int n) {
-        vector<int>dp(n+1,-1);
-        return solution(n,dp);
+        dp.assign(n+1,-1);
+        return solution(n);
     }
 };
