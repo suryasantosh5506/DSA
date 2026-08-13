@@ -1242,4 +1242,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/suryasantosh5506/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/suryasantosh5506/DSA/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
