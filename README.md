@@ -449,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/suryasantosh5506/DSA/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/suryasantosh5506/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/suryasantosh5506/DSA/tree/master/0342-power-of-four) |
+| [0343-integer-break](https://github.com/suryasantosh5506/DSA/tree/master/0343-integer-break) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/suryasantosh5506/DSA/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0507-perfect-number](https://github.com/suryasantosh5506/DSA/tree/master/0507-perfect-number) |
 | [0539-minimum-time-difference](https://github.com/suryasantosh5506/DSA/tree/master/0539-minimum-time-difference) |
@@ -501,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/suryasantosh5506/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/suryasantosh5506/DSA/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/suryasantosh5506/DSA/tree/master/0322-coin-change) |
+| [0343-integer-break](https://github.com/suryasantosh5506/DSA/tree/master/0343-integer-break) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/suryasantosh5506/DSA/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0376-wiggle-subsequence](https://github.com/suryasantosh5506/DSA/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/suryasantosh5506/DSA/tree/master/0377-combination-sum-iv) |
