@@ -449,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/suryasantosh5506/DSA/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/suryasantosh5506/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/suryasantosh5506/DSA/tree/master/0342-power-of-four) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/suryasantosh5506/DSA/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0507-perfect-number](https://github.com/suryasantosh5506/DSA/tree/master/0507-perfect-number) |
 | [0539-minimum-time-difference](https://github.com/suryasantosh5506/DSA/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/suryasantosh5506/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -500,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/suryasantosh5506/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/suryasantosh5506/DSA/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/suryasantosh5506/DSA/tree/master/0322-coin-change) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/suryasantosh5506/DSA/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0376-wiggle-subsequence](https://github.com/suryasantosh5506/DSA/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/suryasantosh5506/DSA/tree/master/0377-combination-sum-iv) |
 | [0397-integer-replacement](https://github.com/suryasantosh5506/DSA/tree/master/0397-integer-replacement) |
@@ -1192,6 +1194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/suryasantosh5506/DSA/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0877-stone-game](https://github.com/suryasantosh5506/DSA/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/suryasantosh5506/DSA/tree/master/1406-stone-game-iii) |
 ## Monotonic Queue
@@ -1280,4 +1283,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/suryasantosh5506/DSA/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/suryasantosh5506/DSA/tree/master/0518-coin-change-ii) |
+## Minimax
+|  |
+| ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/suryasantosh5506/DSA/tree/master/0375-guess-number-higher-or-lower-ii) |
 <!---LeetCode Topics End-->
