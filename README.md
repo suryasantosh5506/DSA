@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/suryasantosh5506/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/suryasantosh5506/DSA/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/suryasantosh5506/DSA/tree/master/1345-jump-game-iv) |
+| [1386-cinema-seat-allocation](https://github.com/suryasantosh5506/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/suryasantosh5506/DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1406-stone-game-iii](https://github.com/suryasantosh5506/DSA/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/suryasantosh5506/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/suryasantosh5506/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/suryasantosh5506/DSA/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/suryasantosh5506/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1386-cinema-seat-allocation](https://github.com/suryasantosh5506/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/suryasantosh5506/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/suryasantosh5506/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2261-k-divisible-elements-subarrays](https://github.com/suryasantosh5506/DSA/tree/master/2261-k-divisible-elements-subarrays) |
@@ -639,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-most-profit-assigning-work](https://github.com/suryasantosh5506/DSA/tree/master/0826-most-profit-assigning-work) |
 | [0860-lemonade-change](https://github.com/suryasantosh5506/DSA/tree/master/0860-lemonade-change) |
 | [0948-bag-of-tokens](https://github.com/suryasantosh5506/DSA/tree/master/0948-bag-of-tokens) |
+| [1386-cinema-seat-allocation](https://github.com/suryasantosh5506/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1833-maximum-ice-cream-bars](https://github.com/suryasantosh5506/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/suryasantosh5506/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1903-largest-odd-number-in-string](https://github.com/suryasantosh5506/DSA/tree/master/1903-largest-odd-number-in-string) |
@@ -731,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/suryasantosh5506/DSA/tree/master/0397-integer-replacement) |
 | [0473-matchsticks-to-square](https://github.com/suryasantosh5506/DSA/tree/master/0473-matchsticks-to-square) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/suryasantosh5506/DSA/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
+| [1386-cinema-seat-allocation](https://github.com/suryasantosh5506/DSA/tree/master/1386-cinema-seat-allocation) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/suryasantosh5506/DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/suryasantosh5506/DSA/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/suryasantosh5506/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
