@@ -371,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/suryasantosh5506/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/suryasantosh5506/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/suryasantosh5506/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1797-design-authentication-manager](https://github.com/suryasantosh5506/DSA/tree/master/1797-design-authentication-manager) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/suryasantosh5506/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2261-k-divisible-elements-subarrays](https://github.com/suryasantosh5506/DSA/tree/master/2261-k-divisible-elements-subarrays) |
 | [2540-minimum-common-value](https://github.com/suryasantosh5506/DSA/tree/master/2540-minimum-common-value) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0707-design-linked-list](https://github.com/suryasantosh5506/DSA/tree/master/0707-design-linked-list) |
 | [0731-my-calendar-ii](https://github.com/suryasantosh5506/DSA/tree/master/0731-my-calendar-ii) |
 | [0901-online-stock-span](https://github.com/suryasantosh5506/DSA/tree/master/0901-online-stock-span) |
+| [1797-design-authentication-manager](https://github.com/suryasantosh5506/DSA/tree/master/1797-design-authentication-manager) |
 | [2069-walking-robot-simulation-ii](https://github.com/suryasantosh5506/DSA/tree/master/2069-walking-robot-simulation-ii) |
 ## Divide and Conquer
 |  |
@@ -568,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0707-design-linked-list](https://github.com/suryasantosh5506/DSA/tree/master/0707-design-linked-list) |
 | [1669-merge-in-between-linked-lists](https://github.com/suryasantosh5506/DSA/tree/master/1669-merge-in-between-linked-lists) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/suryasantosh5506/DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [1797-design-authentication-manager](https://github.com/suryasantosh5506/DSA/tree/master/1797-design-authentication-manager) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/suryasantosh5506/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2326-spiral-matrix-iv](https://github.com/suryasantosh5506/DSA/tree/master/2326-spiral-matrix-iv) |
 ## Sorting
@@ -1306,4 +1309,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/suryasantosh5506/DSA/tree/master/0432-all-oone-data-structure) |
+| [1797-design-authentication-manager](https://github.com/suryasantosh5506/DSA/tree/master/1797-design-authentication-manager) |
 <!---LeetCode Topics End-->
