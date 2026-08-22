@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/suryasantosh5506/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/suryasantosh5506/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [1563-stone-game-v](https://github.com/suryasantosh5506/DSA/tree/master/1563-stone-game-v) |
+| [1599-maximum-profit-of-operating-a-centennial-wheel](https://github.com/suryasantosh5506/DSA/tree/master/1599-maximum-profit-of-operating-a-centennial-wheel) |
 | [1631-path-with-minimum-effort](https://github.com/suryasantosh5506/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1643-kth-smallest-instructions](https://github.com/suryasantosh5506/DSA/tree/master/1643-kth-smallest-instructions) |
 | [1649-create-sorted-array-through-instructions](https://github.com/suryasantosh5506/DSA/tree/master/1649-create-sorted-array-through-instructions) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/suryasantosh5506/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/suryasantosh5506/DSA/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/suryasantosh5506/DSA/tree/master/1535-find-the-winner-of-an-array-game) |
+| [1599-maximum-profit-of-operating-a-centennial-wheel](https://github.com/suryasantosh5506/DSA/tree/master/1599-maximum-profit-of-operating-a-centennial-wheel) |
 | [1914-cyclically-rotating-a-grid](https://github.com/suryasantosh5506/DSA/tree/master/1914-cyclically-rotating-a-grid) |
 | [2069-walking-robot-simulation-ii](https://github.com/suryasantosh5506/DSA/tree/master/2069-walking-robot-simulation-ii) |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/suryasantosh5506/DSA/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
