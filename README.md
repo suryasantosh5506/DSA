@@ -890,6 +890,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/suryasantosh5506/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/suryasantosh5506/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/suryasantosh5506/DSA/tree/master/1020-number-of-enclaves) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/suryasantosh5506/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1306-jump-game-iii](https://github.com/suryasantosh5506/DSA/tree/master/1306-jump-game-iii) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/suryasantosh5506/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/suryasantosh5506/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -1079,6 +1080,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/suryasantosh5506/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/suryasantosh5506/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/suryasantosh5506/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/suryasantosh5506/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/suryasantosh5506/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/suryasantosh5506/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/suryasantosh5506/DSA/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
@@ -1117,6 +1119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/suryasantosh5506/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/suryasantosh5506/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/suryasantosh5506/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/suryasantosh5506/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/suryasantosh5506/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/suryasantosh5506/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/suryasantosh5506/DSA/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
@@ -1205,6 +1208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/suryasantosh5506/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/suryasantosh5506/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/suryasantosh5506/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/suryasantosh5506/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/suryasantosh5506/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/suryasantosh5506/DSA/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Binary Indexed Tree
