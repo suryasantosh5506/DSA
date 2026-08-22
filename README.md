@@ -398,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0432-all-oone-data-structure](https://github.com/suryasantosh5506/DSA/tree/master/0432-all-oone-data-structure) |
 | [0454-4sum-ii](https://github.com/suryasantosh5506/DSA/tree/master/0454-4sum-ii) |
 | [0496-next-greater-element-i](https://github.com/suryasantosh5506/DSA/tree/master/0496-next-greater-element-i) |
+| [0508-most-frequent-subtree-sum](https://github.com/suryasantosh5506/DSA/tree/master/0508-most-frequent-subtree-sum) |
 | [0525-contiguous-array](https://github.com/suryasantosh5506/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/suryasantosh5506/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/suryasantosh5506/DSA/tree/master/0621-task-scheduler) |
@@ -871,6 +872,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/suryasantosh5506/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/suryasantosh5506/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/suryasantosh5506/DSA/tree/master/0449-serialize-and-deserialize-bst) |
+| [0508-most-frequent-subtree-sum](https://github.com/suryasantosh5506/DSA/tree/master/0508-most-frequent-subtree-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/suryasantosh5506/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/suryasantosh5506/DSA/tree/master/0547-number-of-provinces) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/suryasantosh5506/DSA/tree/master/0589-n-ary-tree-preorder-traversal) |
@@ -1064,6 +1066,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0429-n-ary-tree-level-order-traversal](https://github.com/suryasantosh5506/DSA/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0449-serialize-and-deserialize-bst](https://github.com/suryasantosh5506/DSA/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/suryasantosh5506/DSA/tree/master/0450-delete-node-in-a-bst) |
+| [0508-most-frequent-subtree-sum](https://github.com/suryasantosh5506/DSA/tree/master/0508-most-frequent-subtree-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/suryasantosh5506/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/suryasantosh5506/DSA/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/suryasantosh5506/DSA/tree/master/0590-n-ary-tree-postorder-traversal) |
@@ -1102,6 +1105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/suryasantosh5506/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/suryasantosh5506/DSA/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/suryasantosh5506/DSA/tree/master/0450-delete-node-in-a-bst) |
+| [0508-most-frequent-subtree-sum](https://github.com/suryasantosh5506/DSA/tree/master/0508-most-frequent-subtree-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/suryasantosh5506/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/suryasantosh5506/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/suryasantosh5506/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -1321,6 +1325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/suryasantosh5506/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0508-most-frequent-subtree-sum](https://github.com/suryasantosh5506/DSA/tree/master/0508-most-frequent-subtree-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/suryasantosh5506/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/suryasantosh5506/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Lifting
