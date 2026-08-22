@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1962-remove-stones-to-minimize-the-total](https://github.com/suryasantosh5506/DSA/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/suryasantosh5506/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/suryasantosh5506/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/suryasantosh5506/DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/suryasantosh5506/DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2050-parallel-courses-iii](https://github.com/suryasantosh5506/DSA/tree/master/2050-parallel-courses-iii) |
 | [2104-sum-of-subarray-ranges](https://github.com/suryasantosh5506/DSA/tree/master/2104-sum-of-subarray-ranges) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/suryasantosh5506/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/suryasantosh5506/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/suryasantosh5506/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/suryasantosh5506/DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2063-vowels-of-all-substrings](https://github.com/suryasantosh5506/DSA/tree/master/2063-vowels-of-all-substrings) |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/suryasantosh5506/DSA/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/suryasantosh5506/DSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/suryasantosh5506/DSA/tree/master/0307-range-sum-query-mutable) |
 | [0347-top-k-frequent-elements](https://github.com/suryasantosh5506/DSA/tree/master/0347-top-k-frequent-elements) |
 | [1649-create-sorted-array-through-instructions](https://github.com/suryasantosh5506/DSA/tree/master/1649-create-sorted-array-through-instructions) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/suryasantosh5506/DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/suryasantosh5506/DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/suryasantosh5506/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
@@ -632,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/suryasantosh5506/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [1833-maximum-ice-cream-bars](https://github.com/suryasantosh5506/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/suryasantosh5506/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/suryasantosh5506/DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/suryasantosh5506/DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2126-destroying-asteroids](https://github.com/suryasantosh5506/DSA/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/suryasantosh5506/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -706,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-path-with-maximum-probability](https://github.com/suryasantosh5506/DSA/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/suryasantosh5506/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/suryasantosh5506/DSA/tree/master/1962-remove-stones-to-minimize-the-total) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/suryasantosh5506/DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/suryasantosh5506/DSA/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/suryasantosh5506/DSA/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/suryasantosh5506/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -1163,6 +1168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/suryasantosh5506/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/suryasantosh5506/DSA/tree/master/0347-top-k-frequent-elements) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/suryasantosh5506/DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Ordered Set
 |  |
 | ------- |
