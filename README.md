@@ -319,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/suryasantosh5506/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/suryasantosh5506/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3561-resulting-string-after-adjacent-removals](https://github.com/suryasantosh5506/DSA/tree/master/3561-resulting-string-after-adjacent-removals) |
+| [3597-partition-string](https://github.com/suryasantosh5506/DSA/tree/master/3597-partition-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/suryasantosh5506/DSA/tree/master/3612-process-string-with-special-operations-i) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/suryasantosh5506/DSA/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3838-weighted-word-mapping](https://github.com/suryasantosh5506/DSA/tree/master/3838-weighted-word-mapping) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/suryasantosh5506/DSA/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/suryasantosh5506/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3561-resulting-string-after-adjacent-removals](https://github.com/suryasantosh5506/DSA/tree/master/3561-resulting-string-after-adjacent-removals) |
+| [3597-partition-string](https://github.com/suryasantosh5506/DSA/tree/master/3597-partition-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/suryasantosh5506/DSA/tree/master/3612-process-string-with-special-operations-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/suryasantosh5506/DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/suryasantosh5506/DSA/tree/master/3775-reverse-words-with-same-vowel-count) |
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/suryasantosh5506/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/suryasantosh5506/DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/suryasantosh5506/DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3597-partition-string](https://github.com/suryasantosh5506/DSA/tree/master/3597-partition-string) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/suryasantosh5506/DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3731-find-missing-elements](https://github.com/suryasantosh5506/DSA/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/suryasantosh5506/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -1124,6 +1127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/suryasantosh5506/DSA/tree/master/0014-longest-common-prefix) |
 | [2261-k-divisible-elements-subarrays](https://github.com/suryasantosh5506/DSA/tree/master/2261-k-divisible-elements-subarrays) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/suryasantosh5506/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3597-partition-string](https://github.com/suryasantosh5506/DSA/tree/master/3597-partition-string) |
 ## Rolling Hash
 |  |
 | ------- |
