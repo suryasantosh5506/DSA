@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/suryasantosh5506/DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1406-stone-game-iii](https://github.com/suryasantosh5506/DSA/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/suryasantosh5506/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1441-build-an-array-with-stack-operations](https://github.com/suryasantosh5506/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/suryasantosh5506/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/suryasantosh5506/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/suryasantosh5506/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1041-robot-bounded-in-circle](https://github.com/suryasantosh5506/DSA/tree/master/1041-robot-bounded-in-circle) |
 | [1222-queens-that-can-attack-the-king](https://github.com/suryasantosh5506/DSA/tree/master/1222-queens-that-can-attack-the-king) |
 | [1324-print-words-vertically](https://github.com/suryasantosh5506/DSA/tree/master/1324-print-words-vertically) |
+| [1441-build-an-array-with-stack-operations](https://github.com/suryasantosh5506/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1914-cyclically-rotating-a-grid](https://github.com/suryasantosh5506/DSA/tree/master/1914-cyclically-rotating-a-grid) |
 | [2069-walking-robot-simulation-ii](https://github.com/suryasantosh5506/DSA/tree/master/2069-walking-robot-simulation-ii) |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/suryasantosh5506/DSA/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
@@ -1019,6 +1021,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/suryasantosh5506/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/suryasantosh5506/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/suryasantosh5506/DSA/tree/master/1021-remove-outermost-parentheses) |
+| [1441-build-an-array-with-stack-operations](https://github.com/suryasantosh5506/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [2104-sum-of-subarray-ranges](https://github.com/suryasantosh5506/DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [2334-subarray-with-elements-greater-than-varying-threshold](https://github.com/suryasantosh5506/DSA/tree/master/2334-subarray-with-elements-greater-than-varying-threshold) |
 ## Tree
