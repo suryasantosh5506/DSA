@@ -289,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/suryasantosh5506/DSA/tree/master/0796-rotate-string) |
 | [0806-number-of-lines-to-write-string](https://github.com/suryasantosh5506/DSA/tree/master/0806-number-of-lines-to-write-string) |
 | [1021-remove-outermost-parentheses](https://github.com/suryasantosh5506/DSA/tree/master/1021-remove-outermost-parentheses) |
+| [1041-robot-bounded-in-circle](https://github.com/suryasantosh5506/DSA/tree/master/1041-robot-bounded-in-circle) |
 | [1189-maximum-number-of-balloons](https://github.com/suryasantosh5506/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/suryasantosh5506/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/suryasantosh5506/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/suryasantosh5506/DSA/tree/master/0735-asteroid-collision) |
 | [0874-walking-robot-simulation](https://github.com/suryasantosh5506/DSA/tree/master/0874-walking-robot-simulation) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/suryasantosh5506/DSA/tree/master/0985-sum-of-even-numbers-after-queries) |
+| [1041-robot-bounded-in-circle](https://github.com/suryasantosh5506/DSA/tree/master/1041-robot-bounded-in-circle) |
 | [1914-cyclically-rotating-a-grid](https://github.com/suryasantosh5506/DSA/tree/master/1914-cyclically-rotating-a-grid) |
 | [2069-walking-robot-simulation-ii](https://github.com/suryasantosh5506/DSA/tree/master/2069-walking-robot-simulation-ii) |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/suryasantosh5506/DSA/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
@@ -493,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/suryasantosh5506/DSA/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/suryasantosh5506/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/suryasantosh5506/DSA/tree/master/0877-stone-game) |
+| [1041-robot-bounded-in-circle](https://github.com/suryasantosh5506/DSA/tree/master/1041-robot-bounded-in-circle) |
 | [1137-n-th-tribonacci-number](https://github.com/suryasantosh5506/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/suryasantosh5506/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/suryasantosh5506/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
