@@ -918,6 +918,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/suryasantosh5506/DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1631-path-with-minimum-effort](https://github.com/suryasantosh5506/DSA/tree/master/1631-path-with-minimum-effort) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/suryasantosh5506/DSA/tree/master/2328-number-of-increasing-paths-in-a-grid) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/suryasantosh5506/DSA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/suryasantosh5506/DSA/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/suryasantosh5506/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2596-check-knight-tour-configuration](https://github.com/suryasantosh5506/DSA/tree/master/2596-check-knight-tour-configuration) |
@@ -963,6 +964,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/suryasantosh5506/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/suryasantosh5506/DSA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/suryasantosh5506/DSA/tree/master/2328-number-of-increasing-paths-in-a-grid) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/suryasantosh5506/DSA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/suryasantosh5506/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/suryasantosh5506/DSA/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/suryasantosh5506/DSA/tree/master/2596-check-knight-tour-configuration) |
@@ -1121,6 +1123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-delete-leaves-with-a-given-value](https://github.com/suryasantosh5506/DSA/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/suryasantosh5506/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/suryasantosh5506/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/suryasantosh5506/DSA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/suryasantosh5506/DSA/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/suryasantosh5506/DSA/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [3249-count-the-number-of-good-nodes](https://github.com/suryasantosh5506/DSA/tree/master/3249-count-the-number-of-good-nodes) |
@@ -1164,6 +1167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-delete-leaves-with-a-given-value](https://github.com/suryasantosh5506/DSA/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/suryasantosh5506/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/suryasantosh5506/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/suryasantosh5506/DSA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/suryasantosh5506/DSA/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/suryasantosh5506/DSA/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Monotonic Stack
