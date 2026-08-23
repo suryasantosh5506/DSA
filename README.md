@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/suryasantosh5506/DSA/tree/master/2942-find-words-containing-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/suryasantosh5506/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/suryasantosh5506/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3040-maximum-number-of-operations-with-the-same-score-ii](https://github.com/suryasantosh5506/DSA/tree/master/3040-maximum-number-of-operations-with-the-same-score-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/suryasantosh5506/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/suryasantosh5506/DSA/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/suryasantosh5506/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -596,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2063-vowels-of-all-substrings](https://github.com/suryasantosh5506/DSA/tree/master/2063-vowels-of-all-substrings) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/suryasantosh5506/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/suryasantosh5506/DSA/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [3040-maximum-number-of-operations-with-the-same-score-ii](https://github.com/suryasantosh5506/DSA/tree/master/3040-maximum-number-of-operations-with-the-same-score-ii) |
 | [3148-maximum-difference-score-in-a-grid](https://github.com/suryasantosh5506/DSA/tree/master/3148-maximum-difference-score-in-a-grid) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/suryasantosh5506/DSA/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/suryasantosh5506/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -1012,6 +1014,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/suryasantosh5506/DSA/tree/master/0070-climbing-stairs) |
 | [0397-integer-replacement](https://github.com/suryasantosh5506/DSA/tree/master/0397-integer-replacement) |
 | [1137-n-th-tribonacci-number](https://github.com/suryasantosh5506/DSA/tree/master/1137-n-th-tribonacci-number) |
+| [3040-maximum-number-of-operations-with-the-same-score-ii](https://github.com/suryasantosh5506/DSA/tree/master/3040-maximum-number-of-operations-with-the-same-score-ii) |
 ## Stack
 |  |
 | ------- |
