@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/suryasantosh5506/DSA/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/suryasantosh5506/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/suryasantosh5506/DSA/tree/master/0435-non-overlapping-intervals) |
+| [0447-number-of-boomerangs](https://github.com/suryasantosh5506/DSA/tree/master/0447-number-of-boomerangs) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/suryasantosh5506/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0454-4sum-ii](https://github.com/suryasantosh5506/DSA/tree/master/0454-4sum-ii) |
 | [0455-assign-cookies](https://github.com/suryasantosh5506/DSA/tree/master/0455-assign-cookies) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/suryasantosh5506/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/suryasantosh5506/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0432-all-oone-data-structure](https://github.com/suryasantosh5506/DSA/tree/master/0432-all-oone-data-structure) |
+| [0447-number-of-boomerangs](https://github.com/suryasantosh5506/DSA/tree/master/0447-number-of-boomerangs) |
 | [0454-4sum-ii](https://github.com/suryasantosh5506/DSA/tree/master/0454-4sum-ii) |
 | [0496-next-greater-element-i](https://github.com/suryasantosh5506/DSA/tree/master/0496-next-greater-element-i) |
 | [0508-most-frequent-subtree-sum](https://github.com/suryasantosh5506/DSA/tree/master/0508-most-frequent-subtree-sum) |
@@ -518,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/suryasantosh5506/DSA/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/suryasantosh5506/DSA/tree/master/0343-integer-break) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/suryasantosh5506/DSA/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0447-number-of-boomerangs](https://github.com/suryasantosh5506/DSA/tree/master/0447-number-of-boomerangs) |
 | [0486-predict-the-winner](https://github.com/suryasantosh5506/DSA/tree/master/0486-predict-the-winner) |
 | [0507-perfect-number](https://github.com/suryasantosh5506/DSA/tree/master/0507-perfect-number) |
 | [0539-minimum-time-difference](https://github.com/suryasantosh5506/DSA/tree/master/0539-minimum-time-difference) |
