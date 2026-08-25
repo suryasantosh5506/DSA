@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/suryasantosh5506/DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/suryasantosh5506/DSA/tree/master/3689-maximum-total-subarray-value-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/suryasantosh5506/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/suryasantosh5506/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/suryasantosh5506/DSA/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/suryasantosh5506/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/suryasantosh5506/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3121-count-the-number-of-special-characters-ii](https://github.com/suryasantosh5506/DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3597-partition-string](https://github.com/suryasantosh5506/DSA/tree/master/3597-partition-string) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/suryasantosh5506/DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/suryasantosh5506/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/suryasantosh5506/DSA/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/suryasantosh5506/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/suryasantosh5506/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
