@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/suryasantosh5506/DSA/tree/master/0289-game-of-life) |
 | [0303-range-sum-query-immutable](https://github.com/suryasantosh5506/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/suryasantosh5506/DSA/tree/master/0307-range-sum-query-mutable) |
+| [0313-super-ugly-number](https://github.com/suryasantosh5506/DSA/tree/master/0313-super-ugly-number) |
 | [0322-coin-change](https://github.com/suryasantosh5506/DSA/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/suryasantosh5506/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/suryasantosh5506/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -521,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/suryasantosh5506/DSA/tree/master/0231-power-of-two) |
 | [0264-ugly-number-ii](https://github.com/suryasantosh5506/DSA/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/suryasantosh5506/DSA/tree/master/0268-missing-number) |
+| [0313-super-ugly-number](https://github.com/suryasantosh5506/DSA/tree/master/0313-super-ugly-number) |
 | [0326-power-of-three](https://github.com/suryasantosh5506/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/suryasantosh5506/DSA/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/suryasantosh5506/DSA/tree/master/0343-integer-break) |
@@ -582,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/suryasantosh5506/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/suryasantosh5506/DSA/tree/master/0213-house-robber-ii) |
 | [0264-ugly-number-ii](https://github.com/suryasantosh5506/DSA/tree/master/0264-ugly-number-ii) |
+| [0313-super-ugly-number](https://github.com/suryasantosh5506/DSA/tree/master/0313-super-ugly-number) |
 | [0322-coin-change](https://github.com/suryasantosh5506/DSA/tree/master/0322-coin-change) |
 | [0343-integer-break](https://github.com/suryasantosh5506/DSA/tree/master/0343-integer-break) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/suryasantosh5506/DSA/tree/master/0375-guess-number-higher-or-lower-ii) |
