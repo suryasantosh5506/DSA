@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/suryasantosh5506/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0654-maximum-binary-tree](https://github.com/suryasantosh5506/DSA/tree/master/0654-maximum-binary-tree) |
 | [0658-find-k-closest-elements](https://github.com/suryasantosh5506/DSA/tree/master/0658-find-k-closest-elements) |
+| [0695-max-area-of-island](https://github.com/suryasantosh5506/DSA/tree/master/0695-max-area-of-island) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/suryasantosh5506/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0704-binary-search](https://github.com/suryasantosh5506/DSA/tree/master/0704-binary-search) |
 | [0721-accounts-merge](https://github.com/suryasantosh5506/DSA/tree/master/0721-accounts-merge) |
@@ -928,6 +929,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0590-n-ary-tree-postorder-traversal](https://github.com/suryasantosh5506/DSA/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/suryasantosh5506/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/suryasantosh5506/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0695-max-area-of-island](https://github.com/suryasantosh5506/DSA/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/suryasantosh5506/DSA/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/suryasantosh5506/DSA/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/suryasantosh5506/DSA/tree/master/0743-network-delay-time) |
@@ -975,6 +977,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/suryasantosh5506/DSA/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/suryasantosh5506/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/suryasantosh5506/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0695-max-area-of-island](https://github.com/suryasantosh5506/DSA/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/suryasantosh5506/DSA/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/suryasantosh5506/DSA/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/suryasantosh5506/DSA/tree/master/0743-network-delay-time) |
@@ -1010,6 +1013,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/suryasantosh5506/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/suryasantosh5506/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/suryasantosh5506/DSA/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/suryasantosh5506/DSA/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/suryasantosh5506/DSA/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/suryasantosh5506/DSA/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/suryasantosh5506/DSA/tree/master/0785-is-graph-bipartite) |
@@ -1040,6 +1044,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/suryasantosh5506/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/suryasantosh5506/DSA/tree/master/0289-game-of-life) |
 | [0542-01-matrix](https://github.com/suryasantosh5506/DSA/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/suryasantosh5506/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/suryasantosh5506/DSA/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/suryasantosh5506/DSA/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/suryasantosh5506/DSA/tree/master/0994-rotting-oranges) |
