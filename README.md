@@ -312,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/suryasantosh5506/DSA/tree/master/0791-custom-sort-string) |
 | [0796-rotate-string](https://github.com/suryasantosh5506/DSA/tree/master/0796-rotate-string) |
 | [0806-number-of-lines-to-write-string](https://github.com/suryasantosh5506/DSA/tree/master/0806-number-of-lines-to-write-string) |
+| [0842-split-array-into-fibonacci-sequence](https://github.com/suryasantosh5506/DSA/tree/master/0842-split-array-into-fibonacci-sequence) |
 | [1021-remove-outermost-parentheses](https://github.com/suryasantosh5506/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1041-robot-bounded-in-circle](https://github.com/suryasantosh5506/DSA/tree/master/1041-robot-bounded-in-circle) |
 | [1189-maximum-number-of-balloons](https://github.com/suryasantosh5506/DSA/tree/master/1189-maximum-number-of-balloons) |
@@ -1296,6 +1297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/suryasantosh5506/DSA/tree/master/0494-target-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/suryasantosh5506/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0797-all-paths-from-source-to-target](https://github.com/suryasantosh5506/DSA/tree/master/0797-all-paths-from-source-to-target) |
+| [0842-split-array-into-fibonacci-sequence](https://github.com/suryasantosh5506/DSA/tree/master/0842-split-array-into-fibonacci-sequence) |
 | [1219-path-with-maximum-gold](https://github.com/suryasantosh5506/DSA/tree/master/1219-path-with-maximum-gold) |
 | [2698-find-the-punishment-number-of-an-integer](https://github.com/suryasantosh5506/DSA/tree/master/2698-find-the-punishment-number-of-an-integer) |
 | [2708-maximum-strength-of-a-group](https://github.com/suryasantosh5506/DSA/tree/master/2708-maximum-strength-of-a-group) |
