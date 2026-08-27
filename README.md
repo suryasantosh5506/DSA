@@ -535,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/suryasantosh5506/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/suryasantosh5506/DSA/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/suryasantosh5506/DSA/tree/master/0343-integer-break) |
+| [0357-count-numbers-with-unique-digits](https://github.com/suryasantosh5506/DSA/tree/master/0357-count-numbers-with-unique-digits) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/suryasantosh5506/DSA/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0447-number-of-boomerangs](https://github.com/suryasantosh5506/DSA/tree/master/0447-number-of-boomerangs) |
 | [0486-predict-the-winner](https://github.com/suryasantosh5506/DSA/tree/master/0486-predict-the-winner) |
@@ -597,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0313-super-ugly-number](https://github.com/suryasantosh5506/DSA/tree/master/0313-super-ugly-number) |
 | [0322-coin-change](https://github.com/suryasantosh5506/DSA/tree/master/0322-coin-change) |
 | [0343-integer-break](https://github.com/suryasantosh5506/DSA/tree/master/0343-integer-break) |
+| [0357-count-numbers-with-unique-digits](https://github.com/suryasantosh5506/DSA/tree/master/0357-count-numbers-with-unique-digits) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/suryasantosh5506/DSA/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0376-wiggle-subsequence](https://github.com/suryasantosh5506/DSA/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/suryasantosh5506/DSA/tree/master/0377-combination-sum-iv) |
@@ -1280,6 +1282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/suryasantosh5506/DSA/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/suryasantosh5506/DSA/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/suryasantosh5506/DSA/tree/master/0216-combination-sum-iii) |
+| [0357-count-numbers-with-unique-digits](https://github.com/suryasantosh5506/DSA/tree/master/0357-count-numbers-with-unique-digits) |
 | [0473-matchsticks-to-square](https://github.com/suryasantosh5506/DSA/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/suryasantosh5506/DSA/tree/master/0494-target-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/suryasantosh5506/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
