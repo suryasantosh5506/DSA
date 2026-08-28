@@ -27,10 +27,12 @@ public:
 
         ans[row][col]=to_string(root->val);
         if(row==h-1) return;
-        int offset=1<<(h-row-2);
+        int childheight=(h-row-1);
+        int totalchildwidth=(1<<childheight)-1;
+        int rootplace=(totalchildwidth+1)/2;
 
-        if(root->left) solution(root->left,row+1,col-offset);
-        if(root->right) solution(root->right,row+1,col+offset);
+        if(root->left) solution(root->left,row+1,col-rootplace);
+        if(root->right) solution(root->right,row+1,col+rootplace);
     }
 
     vector<vector<string>> printTree(TreeNode* root) {
