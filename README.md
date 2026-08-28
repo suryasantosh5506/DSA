@@ -427,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/suryasantosh5506/DSA/tree/master/0454-4sum-ii) |
 | [0496-next-greater-element-i](https://github.com/suryasantosh5506/DSA/tree/master/0496-next-greater-element-i) |
 | [0508-most-frequent-subtree-sum](https://github.com/suryasantosh5506/DSA/tree/master/0508-most-frequent-subtree-sum) |
+| [0519-random-flip-matrix](https://github.com/suryasantosh5506/DSA/tree/master/0519-random-flip-matrix) |
 | [0525-contiguous-array](https://github.com/suryasantosh5506/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/suryasantosh5506/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/suryasantosh5506/DSA/tree/master/0621-task-scheduler) |
@@ -554,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0447-number-of-boomerangs](https://github.com/suryasantosh5506/DSA/tree/master/0447-number-of-boomerangs) |
 | [0486-predict-the-winner](https://github.com/suryasantosh5506/DSA/tree/master/0486-predict-the-winner) |
 | [0507-perfect-number](https://github.com/suryasantosh5506/DSA/tree/master/0507-perfect-number) |
+| [0519-random-flip-matrix](https://github.com/suryasantosh5506/DSA/tree/master/0519-random-flip-matrix) |
 | [0539-minimum-time-difference](https://github.com/suryasantosh5506/DSA/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/suryasantosh5506/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/suryasantosh5506/DSA/tree/master/0877-stone-game) |
@@ -1613,4 +1615,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2101-detonate-the-maximum-bombs](https://github.com/suryasantosh5506/DSA/tree/master/2101-detonate-the-maximum-bombs) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0519-random-flip-matrix](https://github.com/suryasantosh5506/DSA/tree/master/0519-random-flip-matrix) |
+## Randomized
+|  |
+| ------- |
+| [0519-random-flip-matrix](https://github.com/suryasantosh5506/DSA/tree/master/0519-random-flip-matrix) |
 <!---LeetCode Topics End-->
