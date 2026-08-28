@@ -15,11 +15,11 @@ public:
         if(!root) return nullptr;
         if(root->val<low){
             root->left=nullptr;
-            return root->right=trimBST(root->right,low,high);
+            return trimBST(root->right,low,high);
         }
         if(root->val>high){
             root->right=nullptr;
-            return root->left=trimBST(root->left,low,high);
+            return trimBST(root->left,low,high);
         }
         root->left=trimBST(root->left,low,high);
         root->right=trimBST(root->right,low,high);
