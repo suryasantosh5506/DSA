@@ -13,23 +13,26 @@
 class Solution {
 public:
     long long kthLargestLevelSum(TreeNode* root, int k) {
-        priority_queue<ll,vector<ll>,greater<ll>>pq;
+        vector<ll>sums;
+        if(!root) return 0;
         queue<TreeNode*>q;
         q.push(root);
+
         while(!q.empty()){
             int size=q.size();
             ll sum=0;
+
             for(int i=0;i<size;i++){
-                auto node=q.front();
+                auto top=q.front();
                 q.pop();
 
-                sum+=node->val;
-                if(node->left) q.push(node->left);
-                if(node->right) q.push(node->right);
+                sum+=top->val;
+                if(top->left) q.push(top->left);
+                if(top->right) q.push(top->right);
             }
-            pq.push(sum);
-            if(pq.size()>k) pq.pop();
+            sums.emplace_back(sum);
         }
-        return (pq.size()<k)?-1:pq.top();
+        sort(sums.rbegin(),sums.rend());
+        return (k>sums.size())?-1:sums[k-1];
     }
 };
