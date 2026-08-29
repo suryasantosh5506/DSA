@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/suryasantosh5506/DSA/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/suryasantosh5506/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/suryasantosh5506/DSA/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/suryasantosh5506/DSA/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2596-check-knight-tour-configuration](https://github.com/suryasantosh5506/DSA/tree/master/2596-check-knight-tour-configuration) |
 | [2615-sum-of-distances](https://github.com/suryasantosh5506/DSA/tree/master/2615-sum-of-distances) |
 | [2643-row-with-maximum-ones](https://github.com/suryasantosh5506/DSA/tree/master/2643-row-with-maximum-ones) |
@@ -662,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/suryasantosh5506/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2318-number-of-distinct-roll-sequences](https://github.com/suryasantosh5506/DSA/tree/master/2318-number-of-distinct-roll-sequences) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/suryasantosh5506/DSA/tree/master/2328-number-of-increasing-paths-in-a-grid) |
+| [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/suryasantosh5506/DSA/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2708-maximum-strength-of-a-group](https://github.com/suryasantosh5506/DSA/tree/master/2708-maximum-strength-of-a-group) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/suryasantosh5506/DSA/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/suryasantosh5506/DSA/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
@@ -1000,6 +1002,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/suryasantosh5506/DSA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/suryasantosh5506/DSA/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/suryasantosh5506/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/suryasantosh5506/DSA/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2596-check-knight-tour-configuration](https://github.com/suryasantosh5506/DSA/tree/master/2596-check-knight-tour-configuration) |
 | [2685-count-the-number-of-complete-components](https://github.com/suryasantosh5506/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3249-count-the-number-of-good-nodes](https://github.com/suryasantosh5506/DSA/tree/master/3249-count-the-number-of-good-nodes) |
@@ -1053,6 +1056,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/suryasantosh5506/DSA/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/suryasantosh5506/DSA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/suryasantosh5506/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/suryasantosh5506/DSA/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/suryasantosh5506/DSA/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/suryasantosh5506/DSA/tree/master/2596-check-knight-tour-configuration) |
 | [2685-count-the-number-of-complete-components](https://github.com/suryasantosh5506/DSA/tree/master/2685-count-the-number-of-complete-components) |
@@ -1122,6 +1126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/suryasantosh5506/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2326-spiral-matrix-iv](https://github.com/suryasantosh5506/DSA/tree/master/2326-spiral-matrix-iv) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/suryasantosh5506/DSA/tree/master/2328-number-of-increasing-paths-in-a-grid) |
+| [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/suryasantosh5506/DSA/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2596-check-knight-tour-configuration](https://github.com/suryasantosh5506/DSA/tree/master/2596-check-knight-tour-configuration) |
 | [2643-row-with-maximum-ones](https://github.com/suryasantosh5506/DSA/tree/master/2643-row-with-maximum-ones) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/suryasantosh5506/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
