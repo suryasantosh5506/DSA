@@ -338,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/suryasantosh5506/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/suryasantosh5506/DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2063-vowels-of-all-substrings](https://github.com/suryasantosh5506/DSA/tree/master/2063-vowels-of-all-substrings) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/suryasantosh5506/DSA/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/suryasantosh5506/DSA/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/suryasantosh5506/DSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/suryasantosh5506/DSA/tree/master/2343-query-kth-smallest-trimmed-number) |
@@ -1005,6 +1006,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/suryasantosh5506/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/suryasantosh5506/DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1631-path-with-minimum-effort](https://github.com/suryasantosh5506/DSA/tree/master/1631-path-with-minimum-effort) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/suryasantosh5506/DSA/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2101-detonate-the-maximum-bombs](https://github.com/suryasantosh5506/DSA/tree/master/2101-detonate-the-maximum-bombs) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/suryasantosh5506/DSA/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/suryasantosh5506/DSA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -1236,6 +1238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/suryasantosh5506/DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/suryasantosh5506/DSA/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/suryasantosh5506/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/suryasantosh5506/DSA/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/suryasantosh5506/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/suryasantosh5506/DSA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/suryasantosh5506/DSA/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
@@ -1283,6 +1286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/suryasantosh5506/DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/suryasantosh5506/DSA/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/suryasantosh5506/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/suryasantosh5506/DSA/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/suryasantosh5506/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/suryasantosh5506/DSA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/suryasantosh5506/DSA/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
@@ -1533,11 +1537,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/suryasantosh5506/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/suryasantosh5506/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/suryasantosh5506/DSA/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Lowest Common Ancestor
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/suryasantosh5506/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/suryasantosh5506/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/suryasantosh5506/DSA/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
