@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3850-count-sequences-to-k](https://github.com/suryasantosh5506/DSA/tree/master/3850-count-sequences-to-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/suryasantosh5506/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3905-multi-source-flood-fill](https://github.com/suryasantosh5506/DSA/tree/master/3905-multi-source-flood-fill) |
+| [4020-elevator-requests-i](https://github.com/suryasantosh5506/DSA/tree/master/4020-elevator-requests-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/suryasantosh5506/DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/suryasantosh5506/DSA/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3838-weighted-word-mapping](https://github.com/suryasantosh5506/DSA/tree/master/3838-weighted-word-mapping) |
+| [4020-elevator-requests-i](https://github.com/suryasantosh5506/DSA/tree/master/4020-elevator-requests-i) |
 ## Counting
 |  |
 | ------- |
