@@ -368,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3775-reverse-words-with-same-vowel-count](https://github.com/suryasantosh5506/DSA/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3799-word-squares-ii](https://github.com/suryasantosh5506/DSA/tree/master/3799-word-squares-ii) |
 | [3838-weighted-word-mapping](https://github.com/suryasantosh5506/DSA/tree/master/3838-weighted-word-mapping) |
+| [3889-mirror-frequency-distance](https://github.com/suryasantosh5506/DSA/tree/master/3889-mirror-frequency-distance) |
 | [3894-traffic-signal-color](https://github.com/suryasantosh5506/DSA/tree/master/3894-traffic-signal-color) |
 ## Simulation
 |  |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-furthest-point-from-origin](https://github.com/suryasantosh5506/DSA/tree/master/2833-furthest-point-from-origin) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/suryasantosh5506/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/suryasantosh5506/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3889-mirror-frequency-distance](https://github.com/suryasantosh5506/DSA/tree/master/3889-mirror-frequency-distance) |
 ## Hash Table
 |  |
 | ------- |
@@ -498,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3737-count-subarrays-with-majority-element-i](https://github.com/suryasantosh5506/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/suryasantosh5506/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/suryasantosh5506/DSA/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3889-mirror-frequency-distance](https://github.com/suryasantosh5506/DSA/tree/master/3889-mirror-frequency-distance) |
 ## Design
 |  |
 | ------- |
