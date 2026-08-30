@@ -337,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/suryasantosh5506/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1041-robot-bounded-in-circle](https://github.com/suryasantosh5506/DSA/tree/master/1041-robot-bounded-in-circle) |
 | [1189-maximum-number-of-balloons](https://github.com/suryasantosh5506/DSA/tree/master/1189-maximum-number-of-balloons) |
+| [1286-iterator-for-combination](https://github.com/suryasantosh5506/DSA/tree/master/1286-iterator-for-combination) |
 | [1324-print-words-vertically](https://github.com/suryasantosh5506/DSA/tree/master/1324-print-words-vertically) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/suryasantosh5506/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/suryasantosh5506/DSA/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
@@ -526,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/suryasantosh5506/DSA/tree/master/0731-my-calendar-ii) |
 | [0901-online-stock-span](https://github.com/suryasantosh5506/DSA/tree/master/0901-online-stock-span) |
 | [0919-complete-binary-tree-inserter](https://github.com/suryasantosh5506/DSA/tree/master/0919-complete-binary-tree-inserter) |
+| [1286-iterator-for-combination](https://github.com/suryasantosh5506/DSA/tree/master/1286-iterator-for-combination) |
 | [1670-design-front-middle-back-queue](https://github.com/suryasantosh5506/DSA/tree/master/1670-design-front-middle-back-queue) |
 | [1797-design-authentication-manager](https://github.com/suryasantosh5506/DSA/tree/master/1797-design-authentication-manager) |
 | [2069-walking-robot-simulation-ii](https://github.com/suryasantosh5506/DSA/tree/master/2069-walking-robot-simulation-ii) |
@@ -1401,6 +1403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/suryasantosh5506/DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0842-split-array-into-fibonacci-sequence](https://github.com/suryasantosh5506/DSA/tree/master/0842-split-array-into-fibonacci-sequence) |
 | [1219-path-with-maximum-gold](https://github.com/suryasantosh5506/DSA/tree/master/1219-path-with-maximum-gold) |
+| [1286-iterator-for-combination](https://github.com/suryasantosh5506/DSA/tree/master/1286-iterator-for-combination) |
 | [2698-find-the-punishment-number-of-an-integer](https://github.com/suryasantosh5506/DSA/tree/master/2698-find-the-punishment-number-of-an-integer) |
 | [2708-maximum-strength-of-a-group](https://github.com/suryasantosh5506/DSA/tree/master/2708-maximum-strength-of-a-group) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/suryasantosh5506/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
@@ -1516,6 +1519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/suryasantosh5506/DSA/tree/master/0173-binary-search-tree-iterator) |
+| [1286-iterator-for-combination](https://github.com/suryasantosh5506/DSA/tree/master/1286-iterator-for-combination) |
 ## Topological Sort
 |  |
 | ------- |
