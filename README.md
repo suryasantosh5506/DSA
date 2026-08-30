@@ -335,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/suryasantosh5506/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1324-print-words-vertically](https://github.com/suryasantosh5506/DSA/tree/master/1324-print-words-vertically) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/suryasantosh5506/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/suryasantosh5506/DSA/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/suryasantosh5506/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/suryasantosh5506/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/suryasantosh5506/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -464,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/suryasantosh5506/DSA/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/suryasantosh5506/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/suryasantosh5506/DSA/tree/master/1386-cinema-seat-allocation) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/suryasantosh5506/DSA/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/suryasantosh5506/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1797-design-authentication-manager](https://github.com/suryasantosh5506/DSA/tree/master/1797-design-authentication-manager) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/suryasantosh5506/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -758,6 +760,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/suryasantosh5506/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/suryasantosh5506/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1552-magnetic-force-between-two-balls](https://github.com/suryasantosh5506/DSA/tree/master/1552-magnetic-force-between-two-balls) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/suryasantosh5506/DSA/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1833-maximum-ice-cream-bars](https://github.com/suryasantosh5506/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/suryasantosh5506/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/suryasantosh5506/DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -805,6 +808,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/suryasantosh5506/DSA/tree/master/0948-bag-of-tokens) |
 | [0954-array-of-doubled-pairs](https://github.com/suryasantosh5506/DSA/tree/master/0954-array-of-doubled-pairs) |
 | [1386-cinema-seat-allocation](https://github.com/suryasantosh5506/DSA/tree/master/1386-cinema-seat-allocation) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/suryasantosh5506/DSA/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1833-maximum-ice-cream-bars](https://github.com/suryasantosh5506/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/suryasantosh5506/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1903-largest-odd-number-in-string](https://github.com/suryasantosh5506/DSA/tree/master/1903-largest-odd-number-in-string) |
