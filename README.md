@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/suryasantosh5506/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/suryasantosh5506/DSA/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/suryasantosh5506/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/suryasantosh5506/DSA/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3148-maximum-difference-score-in-a-grid](https://github.com/suryasantosh5506/DSA/tree/master/3148-maximum-difference-score-in-a-grid) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/suryasantosh5506/DSA/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/suryasantosh5506/DSA/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
@@ -890,6 +891,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2679-sum-in-a-matrix](https://github.com/suryasantosh5506/DSA/tree/master/2679-sum-in-a-matrix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/suryasantosh5506/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/suryasantosh5506/DSA/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
+| [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/suryasantosh5506/DSA/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/suryasantosh5506/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/suryasantosh5506/DSA/tree/master/3767-maximize-points-after-choosing-k-tasks) |
 ## Binary Search
@@ -1509,6 +1511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/suryasantosh5506/DSA/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/suryasantosh5506/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/suryasantosh5506/DSA/tree/master/2685-count-the-number-of-complete-components) |
+| [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/suryasantosh5506/DSA/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/suryasantosh5506/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/suryasantosh5506/DSA/tree/master/3310-remove-methods-from-project) |
 ## Shortest Path
@@ -1520,6 +1523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/suryasantosh5506/DSA/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1514-path-with-maximum-probability](https://github.com/suryasantosh5506/DSA/tree/master/1514-path-with-maximum-probability) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/suryasantosh5506/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/suryasantosh5506/DSA/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/suryasantosh5506/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Counting Sort
 |  |
