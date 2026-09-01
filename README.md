@@ -363,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/suryasantosh5506/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/suryasantosh5506/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/suryasantosh5506/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/suryasantosh5506/DSA/tree/master/3081-replace-question-marks-in-string-to-minimize-its-value) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/suryasantosh5506/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/suryasantosh5506/DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/suryasantosh5506/DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -431,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/suryasantosh5506/DSA/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 | [2833-furthest-point-from-origin](https://github.com/suryasantosh5506/DSA/tree/master/2833-furthest-point-from-origin) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/suryasantosh5506/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/suryasantosh5506/DSA/tree/master/3081-replace-question-marks-in-string-to-minimize-its-value) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/suryasantosh5506/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3889-mirror-frequency-distance](https://github.com/suryasantosh5506/DSA/tree/master/3889-mirror-frequency-distance) |
 ## Hash Table
@@ -499,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/suryasantosh5506/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/suryasantosh5506/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/suryasantosh5506/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/suryasantosh5506/DSA/tree/master/3081-replace-question-marks-in-string-to-minimize-its-value) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/suryasantosh5506/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/suryasantosh5506/DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/suryasantosh5506/DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -805,6 +808,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2895-minimum-processing-time](https://github.com/suryasantosh5506/DSA/tree/master/2895-minimum-processing-time) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/suryasantosh5506/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/suryasantosh5506/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/suryasantosh5506/DSA/tree/master/3081-replace-question-marks-in-string-to-minimize-its-value) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/suryasantosh5506/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/suryasantosh5506/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/suryasantosh5506/DSA/tree/master/3731-find-missing-elements) |
@@ -858,6 +862,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2938-separate-black-and-white-balls](https://github.com/suryasantosh5506/DSA/tree/master/2938-separate-black-and-white-balls) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/suryasantosh5506/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/suryasantosh5506/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/suryasantosh5506/DSA/tree/master/3081-replace-question-marks-in-string-to-minimize-its-value) |
 | [3689-maximum-total-subarray-value-i](https://github.com/suryasantosh5506/DSA/tree/master/3689-maximum-total-subarray-value-i) |
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/suryasantosh5506/DSA/tree/master/3767-maximize-points-after-choosing-k-tasks) |
 ## Heap (Priority Queue)
@@ -891,6 +896,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2679-sum-in-a-matrix](https://github.com/suryasantosh5506/DSA/tree/master/2679-sum-in-a-matrix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/suryasantosh5506/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/suryasantosh5506/DSA/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
+| [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/suryasantosh5506/DSA/tree/master/3081-replace-question-marks-in-string-to-minimize-its-value) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/suryasantosh5506/DSA/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/suryasantosh5506/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/suryasantosh5506/DSA/tree/master/3767-maximize-points-after-choosing-k-tasks) |
