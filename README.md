@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2615-sum-of-distances](https://github.com/suryasantosh5506/DSA/tree/master/2615-sum-of-distances) |
 | [2643-row-with-maximum-ones](https://github.com/suryasantosh5506/DSA/tree/master/2643-row-with-maximum-ones) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/suryasantosh5506/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2679-sum-in-a-matrix](https://github.com/suryasantosh5506/DSA/tree/master/2679-sum-in-a-matrix) |
 | [2708-maximum-strength-of-a-group](https://github.com/suryasantosh5506/DSA/tree/master/2708-maximum-strength-of-a-group) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/suryasantosh5506/DSA/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/suryasantosh5506/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2326-spiral-matrix-iv](https://github.com/suryasantosh5506/DSA/tree/master/2326-spiral-matrix-iv) |
 | [2553-separate-the-digits-in-an-array](https://github.com/suryasantosh5506/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2596-check-knight-tour-configuration](https://github.com/suryasantosh5506/DSA/tree/master/2596-check-knight-tour-configuration) |
+| [2679-sum-in-a-matrix](https://github.com/suryasantosh5506/DSA/tree/master/2679-sum-in-a-matrix) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/suryasantosh5506/DSA/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/suryasantosh5506/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/suryasantosh5506/DSA/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
@@ -797,6 +799,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-query-kth-smallest-trimmed-number](https://github.com/suryasantosh5506/DSA/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/suryasantosh5506/DSA/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/suryasantosh5506/DSA/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
+| [2679-sum-in-a-matrix](https://github.com/suryasantosh5506/DSA/tree/master/2679-sum-in-a-matrix) |
 | [2708-maximum-strength-of-a-group](https://github.com/suryasantosh5506/DSA/tree/master/2708-maximum-strength-of-a-group) |
 | [2895-minimum-processing-time](https://github.com/suryasantosh5506/DSA/tree/master/2895-minimum-processing-time) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/suryasantosh5506/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -884,6 +887,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/suryasantosh5506/DSA/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/suryasantosh5506/DSA/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/suryasantosh5506/DSA/tree/master/2530-maximal-score-after-applying-k-operations) |
+| [2679-sum-in-a-matrix](https://github.com/suryasantosh5506/DSA/tree/master/2679-sum-in-a-matrix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/suryasantosh5506/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/suryasantosh5506/DSA/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/suryasantosh5506/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -1179,6 +1183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/suryasantosh5506/DSA/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2596-check-knight-tour-configuration](https://github.com/suryasantosh5506/DSA/tree/master/2596-check-knight-tour-configuration) |
 | [2643-row-with-maximum-ones](https://github.com/suryasantosh5506/DSA/tree/master/2643-row-with-maximum-ones) |
+| [2679-sum-in-a-matrix](https://github.com/suryasantosh5506/DSA/tree/master/2679-sum-in-a-matrix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/suryasantosh5506/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3148-maximum-difference-score-in-a-grid](https://github.com/suryasantosh5506/DSA/tree/master/3148-maximum-difference-score-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/suryasantosh5506/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
