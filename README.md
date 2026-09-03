@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3838-weighted-word-mapping](https://github.com/suryasantosh5506/DSA/tree/master/3838-weighted-word-mapping) |
 | [3850-count-sequences-to-k](https://github.com/suryasantosh5506/DSA/tree/master/3850-count-sequences-to-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/suryasantosh5506/DSA/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/suryasantosh5506/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/suryasantosh5506/DSA/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 | [3905-multi-source-flood-fill](https://github.com/suryasantosh5506/DSA/tree/master/3905-multi-source-flood-fill) |
 | [4020-elevator-requests-i](https://github.com/suryasantosh5506/DSA/tree/master/4020-elevator-requests-i) |
@@ -638,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/suryasantosh5506/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3850-count-sequences-to-k](https://github.com/suryasantosh5506/DSA/tree/master/3850-count-sequences-to-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/suryasantosh5506/DSA/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/suryasantosh5506/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3894-traffic-signal-color](https://github.com/suryasantosh5506/DSA/tree/master/3894-traffic-signal-color) |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/suryasantosh5506/DSA/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 ## Dynamic Programming
