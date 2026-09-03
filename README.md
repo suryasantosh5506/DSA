@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/suryasantosh5506/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/suryasantosh5506/DSA/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/suryasantosh5506/DSA/tree/master/0518-coin-change-ii) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/suryasantosh5506/DSA/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0525-contiguous-array](https://github.com/suryasantosh5506/DSA/tree/master/0525-contiguous-array) |
 | [0539-minimum-time-difference](https://github.com/suryasantosh5506/DSA/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/suryasantosh5506/DSA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/suryasantosh5506/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/suryasantosh5506/DSA/tree/master/0455-assign-cookies) |
 | [0481-magical-string](https://github.com/suryasantosh5506/DSA/tree/master/0481-magical-string) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/suryasantosh5506/DSA/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/suryasantosh5506/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/suryasantosh5506/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/suryasantosh5506/DSA/tree/master/0658-find-k-closest-elements) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/suryasantosh5506/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0449-serialize-and-deserialize-bst](https://github.com/suryasantosh5506/DSA/tree/master/0449-serialize-and-deserialize-bst) |
 | [0481-magical-string](https://github.com/suryasantosh5506/DSA/tree/master/0481-magical-string) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/suryasantosh5506/DSA/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0537-complex-number-multiplication](https://github.com/suryasantosh5506/DSA/tree/master/0537-complex-number-multiplication) |
 | [0539-minimum-time-difference](https://github.com/suryasantosh5506/DSA/tree/master/0539-minimum-time-difference) |
 | [0609-find-duplicate-file-in-system](https://github.com/suryasantosh5506/DSA/tree/master/0609-find-duplicate-file-in-system) |
@@ -777,6 +780,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/suryasantosh5506/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/suryasantosh5506/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/suryasantosh5506/DSA/tree/master/0455-assign-cookies) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/suryasantosh5506/DSA/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0539-minimum-time-difference](https://github.com/suryasantosh5506/DSA/tree/master/0539-minimum-time-difference) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/suryasantosh5506/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0621-task-scheduler](https://github.com/suryasantosh5506/DSA/tree/master/0621-task-scheduler) |
