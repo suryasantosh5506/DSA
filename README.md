@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3875-construct-uniform-parity-array-i](https://github.com/suryasantosh5506/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/suryasantosh5506/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/suryasantosh5506/DSA/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
+| [3903-smallest-stable-index-i](https://github.com/suryasantosh5506/DSA/tree/master/3903-smallest-stable-index-i) |
 | [3905-multi-source-flood-fill](https://github.com/suryasantosh5506/DSA/tree/master/3905-multi-source-flood-fill) |
 | [4020-elevator-requests-i](https://github.com/suryasantosh5506/DSA/tree/master/4020-elevator-requests-i) |
 ## Two Pointers
@@ -586,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/suryasantosh5506/DSA/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2615-sum-of-distances](https://github.com/suryasantosh5506/DSA/tree/master/2615-sum-of-distances) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/suryasantosh5506/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3903-smallest-stable-index-i](https://github.com/suryasantosh5506/DSA/tree/master/3903-smallest-stable-index-i) |
 ## Math
 |  |
 | ------- |
