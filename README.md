@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/suryasantosh5506/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2679-sum-in-a-matrix](https://github.com/suryasantosh5506/DSA/tree/master/2679-sum-in-a-matrix) |
 | [2708-maximum-strength-of-a-group](https://github.com/suryasantosh5506/DSA/tree/master/2708-maximum-strength-of-a-group) |
+| [2750-ways-to-split-array-into-good-subarrays](https://github.com/suryasantosh5506/DSA/tree/master/2750-ways-to-split-array-into-good-subarrays) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/suryasantosh5506/DSA/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/suryasantosh5506/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2874-maximum-value-of-an-ordered-triplet-ii](https://github.com/suryasantosh5506/DSA/tree/master/2874-maximum-value-of-an-ordered-triplet-ii) |
@@ -645,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-find-triangular-sum-of-an-array](https://github.com/suryasantosh5506/DSA/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/suryasantosh5506/DSA/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [2698-find-the-punishment-number-of-an-integer](https://github.com/suryasantosh5506/DSA/tree/master/2698-find-the-punishment-number-of-an-integer) |
+| [2750-ways-to-split-array-into-good-subarrays](https://github.com/suryasantosh5506/DSA/tree/master/2750-ways-to-split-array-into-good-subarrays) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/suryasantosh5506/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/suryasantosh5506/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/suryasantosh5506/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -730,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/suryasantosh5506/DSA/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/suryasantosh5506/DSA/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2708-maximum-strength-of-a-group](https://github.com/suryasantosh5506/DSA/tree/master/2708-maximum-strength-of-a-group) |
+| [2750-ways-to-split-array-into-good-subarrays](https://github.com/suryasantosh5506/DSA/tree/master/2750-ways-to-split-array-into-good-subarrays) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/suryasantosh5506/DSA/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/suryasantosh5506/DSA/tree/master/2944-minimum-number-of-coins-for-fruits) |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/suryasantosh5506/DSA/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
