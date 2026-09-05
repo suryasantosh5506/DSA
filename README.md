@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3903-smallest-stable-index-i](https://github.com/suryasantosh5506/DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/suryasantosh5506/DSA/tree/master/3904-smallest-stable-index-ii) |
 | [3905-multi-source-flood-fill](https://github.com/suryasantosh5506/DSA/tree/master/3905-multi-source-flood-fill) |
+| [3979-maximum-valid-pair-sum](https://github.com/suryasantosh5506/DSA/tree/master/3979-maximum-valid-pair-sum) |
 | [4020-elevator-requests-i](https://github.com/suryasantosh5506/DSA/tree/master/4020-elevator-requests-i) |
 ## Two Pointers
 |  |
@@ -1457,6 +1458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/suryasantosh5506/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/suryasantosh5506/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3799-word-squares-ii](https://github.com/suryasantosh5506/DSA/tree/master/3799-word-squares-ii) |
+| [3979-maximum-valid-pair-sum](https://github.com/suryasantosh5506/DSA/tree/master/3979-maximum-valid-pair-sum) |
 ## Number Theory
 |  |
 | ------- |
