@@ -350,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/suryasantosh5506/DSA/tree/master/0709-to-lower-case) |
 | [0721-accounts-merge](https://github.com/suryasantosh5506/DSA/tree/master/0721-accounts-merge) |
 | [0752-open-the-lock](https://github.com/suryasantosh5506/DSA/tree/master/0752-open-the-lock) |
+| [0767-reorganize-string](https://github.com/suryasantosh5506/DSA/tree/master/0767-reorganize-string) |
 | [0791-custom-sort-string](https://github.com/suryasantosh5506/DSA/tree/master/0791-custom-sort-string) |
 | [0796-rotate-string](https://github.com/suryasantosh5506/DSA/tree/master/0796-rotate-string) |
 | [0806-number-of-lines-to-write-string](https://github.com/suryasantosh5506/DSA/tree/master/0806-number-of-lines-to-write-string) |
@@ -444,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/suryasantosh5506/DSA/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/suryasantosh5506/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/suryasantosh5506/DSA/tree/master/0621-task-scheduler) |
+| [0767-reorganize-string](https://github.com/suryasantosh5506/DSA/tree/master/0767-reorganize-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/suryasantosh5506/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/suryasantosh5506/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1657-determine-if-two-strings-are-close](https://github.com/suryasantosh5506/DSA/tree/master/1657-determine-if-two-strings-are-close) |
@@ -493,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/suryasantosh5506/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/suryasantosh5506/DSA/tree/master/0721-accounts-merge) |
 | [0752-open-the-lock](https://github.com/suryasantosh5506/DSA/tree/master/0752-open-the-lock) |
+| [0767-reorganize-string](https://github.com/suryasantosh5506/DSA/tree/master/0767-reorganize-string) |
 | [0791-custom-sort-string](https://github.com/suryasantosh5506/DSA/tree/master/0791-custom-sort-string) |
 | [0874-walking-robot-simulation](https://github.com/suryasantosh5506/DSA/tree/master/0874-walking-robot-simulation) |
 | [0904-fruit-into-baskets](https://github.com/suryasantosh5506/DSA/tree/master/0904-fruit-into-baskets) |
@@ -810,6 +813,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/suryasantosh5506/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0658-find-k-closest-elements](https://github.com/suryasantosh5506/DSA/tree/master/0658-find-k-closest-elements) |
 | [0721-accounts-merge](https://github.com/suryasantosh5506/DSA/tree/master/0721-accounts-merge) |
+| [0767-reorganize-string](https://github.com/suryasantosh5506/DSA/tree/master/0767-reorganize-string) |
 | [0791-custom-sort-string](https://github.com/suryasantosh5506/DSA/tree/master/0791-custom-sort-string) |
 | [0826-most-profit-assigning-work](https://github.com/suryasantosh5506/DSA/tree/master/0826-most-profit-assigning-work) |
 | [0948-bag-of-tokens](https://github.com/suryasantosh5506/DSA/tree/master/0948-bag-of-tokens) |
@@ -874,6 +878,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0630-course-schedule-iii](https://github.com/suryasantosh5506/DSA/tree/master/0630-course-schedule-iii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/suryasantosh5506/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/suryasantosh5506/DSA/tree/master/0678-valid-parenthesis-string) |
+| [0767-reorganize-string](https://github.com/suryasantosh5506/DSA/tree/master/0767-reorganize-string) |
 | [0826-most-profit-assigning-work](https://github.com/suryasantosh5506/DSA/tree/master/0826-most-profit-assigning-work) |
 | [0860-lemonade-change](https://github.com/suryasantosh5506/DSA/tree/master/0860-lemonade-change) |
 | [0948-bag-of-tokens](https://github.com/suryasantosh5506/DSA/tree/master/0948-bag-of-tokens) |
@@ -918,6 +923,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/suryasantosh5506/DSA/tree/master/0658-find-k-closest-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/suryasantosh5506/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/suryasantosh5506/DSA/tree/master/0743-network-delay-time) |
+| [0767-reorganize-string](https://github.com/suryasantosh5506/DSA/tree/master/0767-reorganize-string) |
 | [0778-swim-in-rising-water](https://github.com/suryasantosh5506/DSA/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/suryasantosh5506/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/suryasantosh5506/DSA/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
