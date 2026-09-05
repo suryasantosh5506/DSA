@@ -20,7 +20,6 @@ public:
                 break;
             }
         }
-
         reverse(nums.begin()+bp+1,nums.end());
     }
 };
