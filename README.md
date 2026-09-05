@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/suryasantosh5506/DSA/tree/master/0735-asteroid-collision) |
 | [0752-open-the-lock](https://github.com/suryasantosh5506/DSA/tree/master/0752-open-the-lock) |
 | [0778-swim-in-rising-water](https://github.com/suryasantosh5506/DSA/tree/master/0778-swim-in-rising-water) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/suryasantosh5506/DSA/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0806-number-of-lines-to-write-string](https://github.com/suryasantosh5506/DSA/tree/master/0806-number-of-lines-to-write-string) |
 | [0826-most-profit-assigning-work](https://github.com/suryasantosh5506/DSA/tree/master/0826-most-profit-assigning-work) |
 | [0845-longest-mountain-in-array](https://github.com/suryasantosh5506/DSA/tree/master/0845-longest-mountain-in-array) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/suryasantosh5506/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/suryasantosh5506/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/suryasantosh5506/DSA/tree/master/0658-find-k-closest-elements) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/suryasantosh5506/DSA/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0826-most-profit-assigning-work](https://github.com/suryasantosh5506/DSA/tree/master/0826-most-profit-assigning-work) |
 | [0845-longest-mountain-in-array](https://github.com/suryasantosh5506/DSA/tree/master/0845-longest-mountain-in-array) |
 | [0948-bag-of-tokens](https://github.com/suryasantosh5506/DSA/tree/master/0948-bag-of-tokens) |
@@ -818,6 +820,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/suryasantosh5506/DSA/tree/master/0658-find-k-closest-elements) |
 | [0721-accounts-merge](https://github.com/suryasantosh5506/DSA/tree/master/0721-accounts-merge) |
 | [0767-reorganize-string](https://github.com/suryasantosh5506/DSA/tree/master/0767-reorganize-string) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/suryasantosh5506/DSA/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0791-custom-sort-string](https://github.com/suryasantosh5506/DSA/tree/master/0791-custom-sort-string) |
 | [0826-most-profit-assigning-work](https://github.com/suryasantosh5506/DSA/tree/master/0826-most-profit-assigning-work) |
 | [0948-bag-of-tokens](https://github.com/suryasantosh5506/DSA/tree/master/0948-bag-of-tokens) |
@@ -929,6 +932,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/suryasantosh5506/DSA/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/suryasantosh5506/DSA/tree/master/0767-reorganize-string) |
 | [0778-swim-in-rising-water](https://github.com/suryasantosh5506/DSA/tree/master/0778-swim-in-rising-water) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/suryasantosh5506/DSA/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/suryasantosh5506/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/suryasantosh5506/DSA/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/suryasantosh5506/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -974,6 +978,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/suryasantosh5506/DSA/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/suryasantosh5506/DSA/tree/master/0731-my-calendar-ii) |
 | [0778-swim-in-rising-water](https://github.com/suryasantosh5506/DSA/tree/master/0778-swim-in-rising-water) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/suryasantosh5506/DSA/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0826-most-profit-assigning-work](https://github.com/suryasantosh5506/DSA/tree/master/0826-most-profit-assigning-work) |
 | [0875-koko-eating-bananas](https://github.com/suryasantosh5506/DSA/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/suryasantosh5506/DSA/tree/master/1004-max-consecutive-ones-iii) |
