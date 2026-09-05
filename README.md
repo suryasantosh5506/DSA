@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/suryasantosh5506/DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1406-stone-game-iii](https://github.com/suryasantosh5506/DSA/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/suryasantosh5506/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1424-diagonal-traverse-ii](https://github.com/suryasantosh5506/DSA/tree/master/1424-diagonal-traverse-ii) |
 | [1441-build-an-array-with-stack-operations](https://github.com/suryasantosh5506/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/suryasantosh5506/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/suryasantosh5506/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -838,6 +839,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1333-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/suryasantosh5506/DSA/tree/master/1333-filter-restaurants-by-vegan-friendly-price-and-distance) |
 | [1340-jump-game-v](https://github.com/suryasantosh5506/DSA/tree/master/1340-jump-game-v) |
 | [1387-sort-integers-by-the-power-value](https://github.com/suryasantosh5506/DSA/tree/master/1387-sort-integers-by-the-power-value) |
+| [1424-diagonal-traverse-ii](https://github.com/suryasantosh5506/DSA/tree/master/1424-diagonal-traverse-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/suryasantosh5506/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/suryasantosh5506/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1552-magnetic-force-between-two-balls](https://github.com/suryasantosh5506/DSA/tree/master/1552-magnetic-force-between-two-balls) |
@@ -940,6 +942,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0786-k-th-smallest-prime-fraction](https://github.com/suryasantosh5506/DSA/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/suryasantosh5506/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/suryasantosh5506/DSA/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1424-diagonal-traverse-ii](https://github.com/suryasantosh5506/DSA/tree/master/1424-diagonal-traverse-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/suryasantosh5506/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1514-path-with-maximum-probability](https://github.com/suryasantosh5506/DSA/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/suryasantosh5506/DSA/tree/master/1631-path-with-minimum-effort) |
