@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2643-row-with-maximum-ones](https://github.com/suryasantosh5506/DSA/tree/master/2643-row-with-maximum-ones) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/suryasantosh5506/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2679-sum-in-a-matrix](https://github.com/suryasantosh5506/DSA/tree/master/2679-sum-in-a-matrix) |
+| [2684-maximum-number-of-moves-in-a-grid](https://github.com/suryasantosh5506/DSA/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2708-maximum-strength-of-a-group](https://github.com/suryasantosh5506/DSA/tree/master/2708-maximum-strength-of-a-group) |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/suryasantosh5506/DSA/tree/master/2750-ways-to-split-array-into-good-subarrays) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/suryasantosh5506/DSA/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -762,6 +763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2318-number-of-distinct-roll-sequences](https://github.com/suryasantosh5506/DSA/tree/master/2318-number-of-distinct-roll-sequences) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/suryasantosh5506/DSA/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/suryasantosh5506/DSA/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
+| [2684-maximum-number-of-moves-in-a-grid](https://github.com/suryasantosh5506/DSA/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2708-maximum-strength-of-a-group](https://github.com/suryasantosh5506/DSA/tree/master/2708-maximum-strength-of-a-group) |
 | [2745-construct-the-longest-new-string](https://github.com/suryasantosh5506/DSA/tree/master/2745-construct-the-longest-new-string) |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/suryasantosh5506/DSA/tree/master/2750-ways-to-split-array-into-good-subarrays) |
@@ -1272,6 +1274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2596-check-knight-tour-configuration](https://github.com/suryasantosh5506/DSA/tree/master/2596-check-knight-tour-configuration) |
 | [2643-row-with-maximum-ones](https://github.com/suryasantosh5506/DSA/tree/master/2643-row-with-maximum-ones) |
 | [2679-sum-in-a-matrix](https://github.com/suryasantosh5506/DSA/tree/master/2679-sum-in-a-matrix) |
+| [2684-maximum-number-of-moves-in-a-grid](https://github.com/suryasantosh5506/DSA/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/suryasantosh5506/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3044-most-frequent-prime](https://github.com/suryasantosh5506/DSA/tree/master/3044-most-frequent-prime) |
 | [3148-maximum-difference-score-in-a-grid](https://github.com/suryasantosh5506/DSA/tree/master/3148-maximum-difference-score-in-a-grid) |
