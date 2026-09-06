@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/suryasantosh5506/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/suryasantosh5506/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/suryasantosh5506/DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2008-maximum-earnings-from-taxi](https://github.com/suryasantosh5506/DSA/tree/master/2008-maximum-earnings-from-taxi) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/suryasantosh5506/DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2050-parallel-courses-iii](https://github.com/suryasantosh5506/DSA/tree/master/2050-parallel-courses-iii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/suryasantosh5506/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -527,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/suryasantosh5506/DSA/tree/master/1657-determine-if-two-strings-are-close) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/suryasantosh5506/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1797-design-authentication-manager](https://github.com/suryasantosh5506/DSA/tree/master/1797-design-authentication-manager) |
+| [2008-maximum-earnings-from-taxi](https://github.com/suryasantosh5506/DSA/tree/master/2008-maximum-earnings-from-taxi) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/suryasantosh5506/DSA/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/suryasantosh5506/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2261-k-divisible-elements-subarrays](https://github.com/suryasantosh5506/DSA/tree/master/2261-k-divisible-elements-subarrays) |
@@ -756,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1643-kth-smallest-instructions](https://github.com/suryasantosh5506/DSA/tree/master/1643-kth-smallest-instructions) |
 | [1696-jump-game-vi](https://github.com/suryasantosh5506/DSA/tree/master/1696-jump-game-vi) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/suryasantosh5506/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2008-maximum-earnings-from-taxi](https://github.com/suryasantosh5506/DSA/tree/master/2008-maximum-earnings-from-taxi) |
 | [2050-parallel-courses-iii](https://github.com/suryasantosh5506/DSA/tree/master/2050-parallel-courses-iii) |
 | [2063-vowels-of-all-substrings](https://github.com/suryasantosh5506/DSA/tree/master/2063-vowels-of-all-substrings) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/suryasantosh5506/DSA/tree/master/2100-find-good-days-to-rob-the-bank) |
@@ -865,6 +868,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/suryasantosh5506/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/suryasantosh5506/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/suryasantosh5506/DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2008-maximum-earnings-from-taxi](https://github.com/suryasantosh5506/DSA/tree/master/2008-maximum-earnings-from-taxi) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/suryasantosh5506/DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2126-destroying-asteroids](https://github.com/suryasantosh5506/DSA/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/suryasantosh5506/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -1018,6 +1022,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/suryasantosh5506/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1649-create-sorted-array-through-instructions](https://github.com/suryasantosh5506/DSA/tree/master/1649-create-sorted-array-through-instructions) |
 | [1901-find-a-peak-element-ii](https://github.com/suryasantosh5506/DSA/tree/master/1901-find-a-peak-element-ii) |
+| [2008-maximum-earnings-from-taxi](https://github.com/suryasantosh5506/DSA/tree/master/2008-maximum-earnings-from-taxi) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/suryasantosh5506/DSA/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2540-minimum-common-value](https://github.com/suryasantosh5506/DSA/tree/master/2540-minimum-common-value) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/suryasantosh5506/DSA/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
