@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/suryasantosh5506/DSA/tree/master/0454-4sum-ii) |
 | [0455-assign-cookies](https://github.com/suryasantosh5506/DSA/tree/master/0455-assign-cookies) |
 | [0473-matchsticks-to-square](https://github.com/suryasantosh5506/DSA/tree/master/0473-matchsticks-to-square) |
+| [0474-ones-and-zeroes](https://github.com/suryasantosh5506/DSA/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/suryasantosh5506/DSA/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/suryasantosh5506/DSA/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/suryasantosh5506/DSA/tree/master/0494-target-sum) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/suryasantosh5506/DSA/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/suryasantosh5506/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0449-serialize-and-deserialize-bst](https://github.com/suryasantosh5506/DSA/tree/master/0449-serialize-and-deserialize-bst) |
+| [0474-ones-and-zeroes](https://github.com/suryasantosh5506/DSA/tree/master/0474-ones-and-zeroes) |
 | [0481-magical-string](https://github.com/suryasantosh5506/DSA/tree/master/0481-magical-string) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/suryasantosh5506/DSA/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0537-complex-number-multiplication](https://github.com/suryasantosh5506/DSA/tree/master/0537-complex-number-multiplication) |
@@ -722,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/suryasantosh5506/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/suryasantosh5506/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0473-matchsticks-to-square](https://github.com/suryasantosh5506/DSA/tree/master/0473-matchsticks-to-square) |
+| [0474-ones-and-zeroes](https://github.com/suryasantosh5506/DSA/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/suryasantosh5506/DSA/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/suryasantosh5506/DSA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/suryasantosh5506/DSA/tree/master/0518-coin-change-ii) |
@@ -1736,12 +1739,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/suryasantosh5506/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/suryasantosh5506/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/suryasantosh5506/DSA/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/suryasantosh5506/DSA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/suryasantosh5506/DSA/tree/master/0518-coin-change-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/suryasantosh5506/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/suryasantosh5506/DSA/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/suryasantosh5506/DSA/tree/master/0494-target-sum) |
 ## Complete Knapsack
 |  |
