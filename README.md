@@ -694,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/suryasantosh5506/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/suryasantosh5506/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3850-count-sequences-to-k](https://github.com/suryasantosh5506/DSA/tree/master/3850-count-sequences-to-k) |
+| [3870-count-commas-in-range](https://github.com/suryasantosh5506/DSA/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/suryasantosh5506/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/suryasantosh5506/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3894-traffic-signal-color](https://github.com/suryasantosh5506/DSA/tree/master/3894-traffic-signal-color) |
