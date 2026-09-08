@@ -679,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-find-triangular-sum-of-an-array](https://github.com/suryasantosh5506/DSA/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/suryasantosh5506/DSA/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [2364-count-number-of-bad-pairs](https://github.com/suryasantosh5506/DSA/tree/master/2364-count-number-of-bad-pairs) |
+| [2443-sum-of-number-and-its-reverse](https://github.com/suryasantosh5506/DSA/tree/master/2443-sum-of-number-and-its-reverse) |
 | [2698-find-the-punishment-number-of-an-integer](https://github.com/suryasantosh5506/DSA/tree/master/2698-find-the-punishment-number-of-an-integer) |
 | [2745-construct-the-longest-new-string](https://github.com/suryasantosh5506/DSA/tree/master/2745-construct-the-longest-new-string) |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/suryasantosh5506/DSA/tree/master/2750-ways-to-split-array-into-good-subarrays) |
@@ -1489,6 +1490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1291-sequential-digits](https://github.com/suryasantosh5506/DSA/tree/master/1291-sequential-digits) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/suryasantosh5506/DSA/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [2261-k-divisible-elements-subarrays](https://github.com/suryasantosh5506/DSA/tree/master/2261-k-divisible-elements-subarrays) |
+| [2443-sum-of-number-and-its-reverse](https://github.com/suryasantosh5506/DSA/tree/master/2443-sum-of-number-and-its-reverse) |
 | [2708-maximum-strength-of-a-group](https://github.com/suryasantosh5506/DSA/tree/master/2708-maximum-strength-of-a-group) |
 | [3044-most-frequent-prime](https://github.com/suryasantosh5506/DSA/tree/master/3044-most-frequent-prime) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/suryasantosh5506/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
