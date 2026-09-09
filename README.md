@@ -399,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/suryasantosh5506/DSA/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/suryasantosh5506/DSA/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/suryasantosh5506/DSA/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
+| [2405-optimal-partition-of-string](https://github.com/suryasantosh5506/DSA/tree/master/2405-optimal-partition-of-string) |
 | [2833-furthest-point-from-origin](https://github.com/suryasantosh5506/DSA/tree/master/2833-furthest-point-from-origin) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/suryasantosh5506/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2938-separate-black-and-white-balls](https://github.com/suryasantosh5506/DSA/tree/master/2938-separate-black-and-white-balls) |
@@ -548,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2196-create-binary-tree-from-descriptions](https://github.com/suryasantosh5506/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2261-k-divisible-elements-subarrays](https://github.com/suryasantosh5506/DSA/tree/master/2261-k-divisible-elements-subarrays) |
 | [2364-count-number-of-bad-pairs](https://github.com/suryasantosh5506/DSA/tree/master/2364-count-number-of-bad-pairs) |
+| [2405-optimal-partition-of-string](https://github.com/suryasantosh5506/DSA/tree/master/2405-optimal-partition-of-string) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/suryasantosh5506/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/suryasantosh5506/DSA/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 | [2540-minimum-common-value](https://github.com/suryasantosh5506/DSA/tree/master/2540-minimum-common-value) |
@@ -967,6 +969,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/suryasantosh5506/DSA/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/suryasantosh5506/DSA/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/suryasantosh5506/DSA/tree/master/2310-sum-of-numbers-with-units-digit-k) |
+| [2405-optimal-partition-of-string](https://github.com/suryasantosh5506/DSA/tree/master/2405-optimal-partition-of-string) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/suryasantosh5506/DSA/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/suryasantosh5506/DSA/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2708-maximum-strength-of-a-group](https://github.com/suryasantosh5506/DSA/tree/master/2708-maximum-strength-of-a-group) |
