@@ -715,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/suryasantosh5506/DSA/tree/master/2750-ways-to-split-array-into-good-subarrays) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/suryasantosh5506/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3044-most-frequent-prime](https://github.com/suryasantosh5506/DSA/tree/master/3044-most-frequent-prime) |
+| [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/suryasantosh5506/DSA/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/suryasantosh5506/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/suryasantosh5506/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/suryasantosh5506/DSA/tree/master/3536-maximum-product-of-two-digits) |
@@ -817,6 +818,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/suryasantosh5506/DSA/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3040-maximum-number-of-operations-with-the-same-score-ii](https://github.com/suryasantosh5506/DSA/tree/master/3040-maximum-number-of-operations-with-the-same-score-ii) |
 | [3148-maximum-difference-score-in-a-grid](https://github.com/suryasantosh5506/DSA/tree/master/3148-maximum-difference-score-in-a-grid) |
+| [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/suryasantosh5506/DSA/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3366-minimum-array-sum](https://github.com/suryasantosh5506/DSA/tree/master/3366-minimum-array-sum) |
 | [3693-climbing-stairs-ii](https://github.com/suryasantosh5506/DSA/tree/master/3693-climbing-stairs-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/suryasantosh5506/DSA/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -829,6 +831,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1643-kth-smallest-instructions](https://github.com/suryasantosh5506/DSA/tree/master/1643-kth-smallest-instructions) |
 | [2063-vowels-of-all-substrings](https://github.com/suryasantosh5506/DSA/tree/master/2063-vowels-of-all-substrings) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/suryasantosh5506/DSA/tree/master/2221-find-triangular-sum-of-an-array) |
+| [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/suryasantosh5506/DSA/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
 ## Linked List
 |  |
 | ------- |
@@ -1103,6 +1106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/suryasantosh5506/DSA/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/suryasantosh5506/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2708-maximum-strength-of-a-group](https://github.com/suryasantosh5506/DSA/tree/master/2708-maximum-strength-of-a-group) |
+| [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/suryasantosh5506/DSA/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/suryasantosh5506/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/suryasantosh5506/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Sliding Window
@@ -1364,6 +1368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/suryasantosh5506/DSA/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/suryasantosh5506/DSA/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3040-maximum-number-of-operations-with-the-same-score-ii](https://github.com/suryasantosh5506/DSA/tree/master/3040-maximum-number-of-operations-with-the-same-score-ii) |
+| [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/suryasantosh5506/DSA/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3850-count-sequences-to-k](https://github.com/suryasantosh5506/DSA/tree/master/3850-count-sequences-to-k) |
 ## Stack
 |  |
