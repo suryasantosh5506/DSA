@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/suryasantosh5506/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0419-battleships-in-a-board](https://github.com/suryasantosh5506/DSA/tree/master/0419-battleships-in-a-board) |
 | [0435-non-overlapping-intervals](https://github.com/suryasantosh5506/DSA/tree/master/0435-non-overlapping-intervals) |
+| [0436-find-right-interval](https://github.com/suryasantosh5506/DSA/tree/master/0436-find-right-interval) |
 | [0447-number-of-boomerangs](https://github.com/suryasantosh5506/DSA/tree/master/0447-number-of-boomerangs) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/suryasantosh5506/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0454-4sum-ii](https://github.com/suryasantosh5506/DSA/tree/master/0454-4sum-ii) |
@@ -874,6 +875,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/suryasantosh5506/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/suryasantosh5506/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/suryasantosh5506/DSA/tree/master/0435-non-overlapping-intervals) |
+| [0436-find-right-interval](https://github.com/suryasantosh5506/DSA/tree/master/0436-find-right-interval) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/suryasantosh5506/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/suryasantosh5506/DSA/tree/master/0455-assign-cookies) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/suryasantosh5506/DSA/tree/master/0524-longest-word-in-dictionary-through-deleting) |
@@ -1050,6 +1052,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/suryasantosh5506/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/suryasantosh5506/DSA/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0410-split-array-largest-sum](https://github.com/suryasantosh5506/DSA/tree/master/0410-split-array-largest-sum) |
+| [0436-find-right-interval](https://github.com/suryasantosh5506/DSA/tree/master/0436-find-right-interval) |
 | [0540-single-element-in-a-sorted-array](https://github.com/suryasantosh5506/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/suryasantosh5506/DSA/tree/master/0658-find-k-closest-elements) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/suryasantosh5506/DSA/tree/master/0668-kth-smallest-number-in-multiplication-table) |
