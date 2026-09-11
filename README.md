@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/suryasantosh5506/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/suryasantosh5506/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/suryasantosh5506/DSA/tree/master/1471-the-k-strongest-values-in-an-array) |
+| [1472-design-browser-history](https://github.com/suryasantosh5506/DSA/tree/master/1472-design-browser-history) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/suryasantosh5506/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/suryasantosh5506/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/suryasantosh5506/DSA/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
@@ -604,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1032-stream-of-characters](https://github.com/suryasantosh5506/DSA/tree/master/1032-stream-of-characters) |
 | [1286-iterator-for-combination](https://github.com/suryasantosh5506/DSA/tree/master/1286-iterator-for-combination) |
 | [1352-product-of-the-last-k-numbers](https://github.com/suryasantosh5506/DSA/tree/master/1352-product-of-the-last-k-numbers) |
+| [1472-design-browser-history](https://github.com/suryasantosh5506/DSA/tree/master/1472-design-browser-history) |
 | [1670-design-front-middle-back-queue](https://github.com/suryasantosh5506/DSA/tree/master/1670-design-front-middle-back-queue) |
 | [1797-design-authentication-manager](https://github.com/suryasantosh5506/DSA/tree/master/1797-design-authentication-manager) |
 | [2034-stock-price-fluctuation](https://github.com/suryasantosh5506/DSA/tree/master/2034-stock-price-fluctuation) |
@@ -842,6 +844,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0432-all-oone-data-structure](https://github.com/suryasantosh5506/DSA/tree/master/0432-all-oone-data-structure) |
 | [0641-design-circular-deque](https://github.com/suryasantosh5506/DSA/tree/master/0641-design-circular-deque) |
 | [0707-design-linked-list](https://github.com/suryasantosh5506/DSA/tree/master/0707-design-linked-list) |
+| [1472-design-browser-history](https://github.com/suryasantosh5506/DSA/tree/master/1472-design-browser-history) |
 | [1669-merge-in-between-linked-lists](https://github.com/suryasantosh5506/DSA/tree/master/1669-merge-in-between-linked-lists) |
 | [1670-design-front-middle-back-queue](https://github.com/suryasantosh5506/DSA/tree/master/1670-design-front-middle-back-queue) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/suryasantosh5506/DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -1389,6 +1392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/suryasantosh5506/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/suryasantosh5506/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1441-build-an-array-with-stack-operations](https://github.com/suryasantosh5506/DSA/tree/master/1441-build-an-array-with-stack-operations) |
+| [1472-design-browser-history](https://github.com/suryasantosh5506/DSA/tree/master/1472-design-browser-history) |
 | [2104-sum-of-subarray-ranges](https://github.com/suryasantosh5506/DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/suryasantosh5506/DSA/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2334-subarray-with-elements-greater-than-varying-threshold](https://github.com/suryasantosh5506/DSA/tree/master/2334-subarray-with-elements-greater-than-varying-threshold) |
@@ -1650,6 +1654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/suryasantosh5506/DSA/tree/master/0901-online-stock-span) |
 | [1032-stream-of-characters](https://github.com/suryasantosh5506/DSA/tree/master/1032-stream-of-characters) |
 | [1352-product-of-the-last-k-numbers](https://github.com/suryasantosh5506/DSA/tree/master/1352-product-of-the-last-k-numbers) |
+| [1472-design-browser-history](https://github.com/suryasantosh5506/DSA/tree/master/1472-design-browser-history) |
 | [1670-design-front-middle-back-queue](https://github.com/suryasantosh5506/DSA/tree/master/1670-design-front-middle-back-queue) |
 | [2034-stock-price-fluctuation](https://github.com/suryasantosh5506/DSA/tree/master/2034-stock-price-fluctuation) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/suryasantosh5506/DSA/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
@@ -1852,6 +1857,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/suryasantosh5506/DSA/tree/master/0432-all-oone-data-structure) |
+| [1472-design-browser-history](https://github.com/suryasantosh5506/DSA/tree/master/1472-design-browser-history) |
 | [1670-design-front-middle-back-queue](https://github.com/suryasantosh5506/DSA/tree/master/1670-design-front-middle-back-queue) |
 | [1797-design-authentication-manager](https://github.com/suryasantosh5506/DSA/tree/master/1797-design-authentication-manager) |
 ## Zero-Sum Game
