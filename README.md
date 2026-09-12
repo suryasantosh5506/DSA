@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/suryasantosh5506/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/suryasantosh5506/DSA/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/suryasantosh5506/DSA/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
+| [2512-reward-top-k-students](https://github.com/suryasantosh5506/DSA/tree/master/2512-reward-top-k-students) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/suryasantosh5506/DSA/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2540-minimum-common-value](https://github.com/suryasantosh5506/DSA/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/suryasantosh5506/DSA/tree/master/2553-separate-the-digits-in-an-array) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-query-kth-smallest-trimmed-number](https://github.com/suryasantosh5506/DSA/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/suryasantosh5506/DSA/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2405-optimal-partition-of-string](https://github.com/suryasantosh5506/DSA/tree/master/2405-optimal-partition-of-string) |
+| [2512-reward-top-k-students](https://github.com/suryasantosh5506/DSA/tree/master/2512-reward-top-k-students) |
 | [2833-furthest-point-from-origin](https://github.com/suryasantosh5506/DSA/tree/master/2833-furthest-point-from-origin) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/suryasantosh5506/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2938-separate-black-and-white-balls](https://github.com/suryasantosh5506/DSA/tree/master/2938-separate-black-and-white-balls) |
@@ -558,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2364-count-number-of-bad-pairs](https://github.com/suryasantosh5506/DSA/tree/master/2364-count-number-of-bad-pairs) |
 | [2405-optimal-partition-of-string](https://github.com/suryasantosh5506/DSA/tree/master/2405-optimal-partition-of-string) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/suryasantosh5506/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2512-reward-top-k-students](https://github.com/suryasantosh5506/DSA/tree/master/2512-reward-top-k-students) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/suryasantosh5506/DSA/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 | [2540-minimum-common-value](https://github.com/suryasantosh5506/DSA/tree/master/2540-minimum-common-value) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/suryasantosh5506/DSA/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -927,6 +930,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2195-append-k-integers-with-minimal-sum](https://github.com/suryasantosh5506/DSA/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/suryasantosh5506/DSA/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/suryasantosh5506/DSA/tree/master/2343-query-kth-smallest-trimmed-number) |
+| [2512-reward-top-k-students](https://github.com/suryasantosh5506/DSA/tree/master/2512-reward-top-k-students) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/suryasantosh5506/DSA/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/suryasantosh5506/DSA/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2679-sum-in-a-matrix](https://github.com/suryasantosh5506/DSA/tree/master/2679-sum-in-a-matrix) |
@@ -1032,6 +1036,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2146-k-highest-ranked-items-within-a-price-range](https://github.com/suryasantosh5506/DSA/tree/master/2146-k-highest-ranked-items-within-a-price-range) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/suryasantosh5506/DSA/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/suryasantosh5506/DSA/tree/master/2343-query-kth-smallest-trimmed-number) |
+| [2512-reward-top-k-students](https://github.com/suryasantosh5506/DSA/tree/master/2512-reward-top-k-students) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/suryasantosh5506/DSA/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2679-sum-in-a-matrix](https://github.com/suryasantosh5506/DSA/tree/master/2679-sum-in-a-matrix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/suryasantosh5506/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
