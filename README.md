@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2104-sum-of-subarray-ranges](https://github.com/suryasantosh5506/DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [2126-destroying-asteroids](https://github.com/suryasantosh5506/DSA/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/suryasantosh5506/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2146-k-highest-ranked-items-within-a-price-range](https://github.com/suryasantosh5506/DSA/tree/master/2146-k-highest-ranked-items-within-a-price-range) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/suryasantosh5506/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/suryasantosh5506/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/suryasantosh5506/DSA/tree/master/2195-append-k-integers-with-minimal-sum) |
@@ -922,6 +923,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/suryasantosh5506/DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2126-destroying-asteroids](https://github.com/suryasantosh5506/DSA/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/suryasantosh5506/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2146-k-highest-ranked-items-within-a-price-range](https://github.com/suryasantosh5506/DSA/tree/master/2146-k-highest-ranked-items-within-a-price-range) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/suryasantosh5506/DSA/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/suryasantosh5506/DSA/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/suryasantosh5506/DSA/tree/master/2343-query-kth-smallest-trimmed-number) |
@@ -1027,6 +1029,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1962-remove-stones-to-minimize-the-total](https://github.com/suryasantosh5506/DSA/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/suryasantosh5506/DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2034-stock-price-fluctuation](https://github.com/suryasantosh5506/DSA/tree/master/2034-stock-price-fluctuation) |
+| [2146-k-highest-ranked-items-within-a-price-range](https://github.com/suryasantosh5506/DSA/tree/master/2146-k-highest-ranked-items-within-a-price-range) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/suryasantosh5506/DSA/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/suryasantosh5506/DSA/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/suryasantosh5506/DSA/tree/master/2530-maximal-score-after-applying-k-operations) |
@@ -1272,6 +1275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1765-map-of-highest-peak](https://github.com/suryasantosh5506/DSA/tree/master/1765-map-of-highest-peak) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/suryasantosh5506/DSA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2101-detonate-the-maximum-bombs](https://github.com/suryasantosh5506/DSA/tree/master/2101-detonate-the-maximum-bombs) |
+| [2146-k-highest-ranked-items-within-a-price-range](https://github.com/suryasantosh5506/DSA/tree/master/2146-k-highest-ranked-items-within-a-price-range) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/suryasantosh5506/DSA/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/suryasantosh5506/DSA/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/suryasantosh5506/DSA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -1347,6 +1351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1914-cyclically-rotating-a-grid](https://github.com/suryasantosh5506/DSA/tree/master/1914-cyclically-rotating-a-grid) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/suryasantosh5506/DSA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/suryasantosh5506/DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2146-k-highest-ranked-items-within-a-price-range](https://github.com/suryasantosh5506/DSA/tree/master/2146-k-highest-ranked-items-within-a-price-range) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/suryasantosh5506/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2326-spiral-matrix-iv](https://github.com/suryasantosh5506/DSA/tree/master/2326-spiral-matrix-iv) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/suryasantosh5506/DSA/tree/master/2328-number-of-increasing-paths-in-a-grid) |
