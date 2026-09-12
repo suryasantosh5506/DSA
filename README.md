@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/suryasantosh5506/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/suryasantosh5506/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1765-map-of-highest-peak](https://github.com/suryasantosh5506/DSA/tree/master/1765-map-of-highest-peak) |
+| [1774-closest-dessert-cost](https://github.com/suryasantosh5506/DSA/tree/master/1774-closest-dessert-cost) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/suryasantosh5506/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/suryasantosh5506/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/suryasantosh5506/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -813,6 +814,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1575-count-all-possible-routes](https://github.com/suryasantosh5506/DSA/tree/master/1575-count-all-possible-routes) |
 | [1643-kth-smallest-instructions](https://github.com/suryasantosh5506/DSA/tree/master/1643-kth-smallest-instructions) |
 | [1696-jump-game-vi](https://github.com/suryasantosh5506/DSA/tree/master/1696-jump-game-vi) |
+| [1774-closest-dessert-cost](https://github.com/suryasantosh5506/DSA/tree/master/1774-closest-dessert-cost) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/suryasantosh5506/DSA/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/suryasantosh5506/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2008-maximum-earnings-from-taxi](https://github.com/suryasantosh5506/DSA/tree/master/2008-maximum-earnings-from-taxi) |
@@ -1637,6 +1639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0842-split-array-into-fibonacci-sequence](https://github.com/suryasantosh5506/DSA/tree/master/0842-split-array-into-fibonacci-sequence) |
 | [1219-path-with-maximum-gold](https://github.com/suryasantosh5506/DSA/tree/master/1219-path-with-maximum-gold) |
 | [1286-iterator-for-combination](https://github.com/suryasantosh5506/DSA/tree/master/1286-iterator-for-combination) |
+| [1774-closest-dessert-cost](https://github.com/suryasantosh5506/DSA/tree/master/1774-closest-dessert-cost) |
 | [2698-find-the-punishment-number-of-an-integer](https://github.com/suryasantosh5506/DSA/tree/master/2698-find-the-punishment-number-of-an-integer) |
 | [2708-maximum-strength-of-a-group](https://github.com/suryasantosh5506/DSA/tree/master/2708-maximum-strength-of-a-group) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/suryasantosh5506/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
@@ -1894,6 +1897,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/suryasantosh5506/DSA/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/suryasantosh5506/DSA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/suryasantosh5506/DSA/tree/master/0518-coin-change-ii) |
+| [1774-closest-dessert-cost](https://github.com/suryasantosh5506/DSA/tree/master/1774-closest-dessert-cost) |
 ## 0-1 Knapsack
 |  |
 | ------- |
@@ -1982,4 +1986,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1032-stream-of-characters](https://github.com/suryasantosh5506/DSA/tree/master/1032-stream-of-characters) |
+## Mixed Knapsack
+|  |
+| ------- |
+| [1774-closest-dessert-cost](https://github.com/suryasantosh5506/DSA/tree/master/1774-closest-dessert-cost) |
 <!---LeetCode Topics End-->
