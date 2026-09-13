@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2101-detonate-the-maximum-bombs](https://github.com/suryasantosh5506/DSA/tree/master/2101-detonate-the-maximum-bombs) |
 | [2104-sum-of-subarray-ranges](https://github.com/suryasantosh5506/DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [2105-watering-plants-ii](https://github.com/suryasantosh5506/DSA/tree/master/2105-watering-plants-ii) |
+| [2109-adding-spaces-to-a-string](https://github.com/suryasantosh5506/DSA/tree/master/2109-adding-spaces-to-a-string) |
 | [2126-destroying-asteroids](https://github.com/suryasantosh5506/DSA/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/suryasantosh5506/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2146-k-highest-ranked-items-within-a-price-range](https://github.com/suryasantosh5506/DSA/tree/master/2146-k-highest-ranked-items-within-a-price-range) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/suryasantosh5506/DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/suryasantosh5506/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2105-watering-plants-ii](https://github.com/suryasantosh5506/DSA/tree/master/2105-watering-plants-ii) |
+| [2109-adding-spaces-to-a-string](https://github.com/suryasantosh5506/DSA/tree/master/2109-adding-spaces-to-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/suryasantosh5506/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/suryasantosh5506/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/suryasantosh5506/DSA/tree/master/2540-minimum-common-value) |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/suryasantosh5506/DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2063-vowels-of-all-substrings](https://github.com/suryasantosh5506/DSA/tree/master/2063-vowels-of-all-substrings) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/suryasantosh5506/DSA/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2109-adding-spaces-to-a-string](https://github.com/suryasantosh5506/DSA/tree/master/2109-adding-spaces-to-a-string) |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/suryasantosh5506/DSA/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/suryasantosh5506/DSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/suryasantosh5506/DSA/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
@@ -475,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2069-walking-robot-simulation-ii](https://github.com/suryasantosh5506/DSA/tree/master/2069-walking-robot-simulation-ii) |
 | [2079-watering-plants](https://github.com/suryasantosh5506/DSA/tree/master/2079-watering-plants) |
 | [2105-watering-plants-ii](https://github.com/suryasantosh5506/DSA/tree/master/2105-watering-plants-ii) |
+| [2109-adding-spaces-to-a-string](https://github.com/suryasantosh5506/DSA/tree/master/2109-adding-spaces-to-a-string) |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/suryasantosh5506/DSA/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/suryasantosh5506/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/suryasantosh5506/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
