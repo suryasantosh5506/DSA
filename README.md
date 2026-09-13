@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-number-of-lines-to-write-string](https://github.com/suryasantosh5506/DSA/tree/master/0806-number-of-lines-to-write-string) |
 | [0811-subdomain-visit-count](https://github.com/suryasantosh5506/DSA/tree/master/0811-subdomain-visit-count) |
 | [0826-most-profit-assigning-work](https://github.com/suryasantosh5506/DSA/tree/master/0826-most-profit-assigning-work) |
+| [0835-image-overlap](https://github.com/suryasantosh5506/DSA/tree/master/0835-image-overlap) |
 | [0845-longest-mountain-in-array](https://github.com/suryasantosh5506/DSA/tree/master/0845-longest-mountain-in-array) |
 | [0860-lemonade-change](https://github.com/suryasantosh5506/DSA/tree/master/0860-lemonade-change) |
 | [0874-walking-robot-simulation](https://github.com/suryasantosh5506/DSA/tree/master/0874-walking-robot-simulation) |
@@ -1360,6 +1361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/suryasantosh5506/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/suryasantosh5506/DSA/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/suryasantosh5506/DSA/tree/master/0778-swim-in-rising-water) |
+| [0835-image-overlap](https://github.com/suryasantosh5506/DSA/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/suryasantosh5506/DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/suryasantosh5506/DSA/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/suryasantosh5506/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
