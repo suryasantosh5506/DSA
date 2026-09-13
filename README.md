@@ -430,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3121-count-the-number-of-special-characters-ii](https://github.com/suryasantosh5506/DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3163-string-compression-iii](https://github.com/suryasantosh5506/DSA/tree/master/3163-string-compression-iii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/suryasantosh5506/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [3271-hash-divided-string](https://github.com/suryasantosh5506/DSA/tree/master/3271-hash-divided-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/suryasantosh5506/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/suryasantosh5506/DSA/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3561-resulting-string-after-adjacent-removals](https://github.com/suryasantosh5506/DSA/tree/master/3561-resulting-string-after-adjacent-removals) |
@@ -475,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/suryasantosh5506/DSA/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/suryasantosh5506/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/suryasantosh5506/DSA/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
+| [3271-hash-divided-string](https://github.com/suryasantosh5506/DSA/tree/master/3271-hash-divided-string) |
 | [3561-resulting-string-after-adjacent-removals](https://github.com/suryasantosh5506/DSA/tree/master/3561-resulting-string-after-adjacent-removals) |
 | [3597-partition-string](https://github.com/suryasantosh5506/DSA/tree/master/3597-partition-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/suryasantosh5506/DSA/tree/master/3612-process-string-with-special-operations-i) |
