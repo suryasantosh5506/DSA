@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1649-create-sorted-array-through-instructions](https://github.com/suryasantosh5506/DSA/tree/master/1649-create-sorted-array-through-instructions) |
 | [1670-design-front-middle-back-queue](https://github.com/suryasantosh5506/DSA/tree/master/1670-design-front-middle-back-queue) |
 | [1696-jump-game-vi](https://github.com/suryasantosh5506/DSA/tree/master/1696-jump-game-vi) |
+| [1701-average-waiting-time](https://github.com/suryasantosh5506/DSA/tree/master/1701-average-waiting-time) |
 | [1732-find-the-highest-altitude](https://github.com/suryasantosh5506/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/suryasantosh5506/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1765-map-of-highest-peak](https://github.com/suryasantosh5506/DSA/tree/master/1765-map-of-highest-peak) |
@@ -469,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/suryasantosh5506/DSA/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/suryasantosh5506/DSA/tree/master/1535-find-the-winner-of-an-array-game) |
 | [1599-maximum-profit-of-operating-a-centennial-wheel](https://github.com/suryasantosh5506/DSA/tree/master/1599-maximum-profit-of-operating-a-centennial-wheel) |
+| [1701-average-waiting-time](https://github.com/suryasantosh5506/DSA/tree/master/1701-average-waiting-time) |
 | [1914-cyclically-rotating-a-grid](https://github.com/suryasantosh5506/DSA/tree/master/1914-cyclically-rotating-a-grid) |
 | [2069-walking-robot-simulation-ii](https://github.com/suryasantosh5506/DSA/tree/master/2069-walking-robot-simulation-ii) |
 | [2079-watering-plants](https://github.com/suryasantosh5506/DSA/tree/master/2079-watering-plants) |
