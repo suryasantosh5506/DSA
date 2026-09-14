@@ -2037,4 +2037,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1774-closest-dessert-cost](https://github.com/suryasantosh5506/DSA/tree/master/1774-closest-dessert-cost) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/suryasantosh5506/DSA/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
