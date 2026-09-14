@@ -3,11 +3,12 @@ public:
     vector<int> spiralOrder(vector<vector<int>>& matrix) {
         int n=matrix.size();
         int m=matrix[0].size();
-        int left=0,right=m-1;
-        int top=0,bottom=n-1;
         vector<int>ans;
 
-        while(top<=bottom && left<=right){
+        int left=0,right=m-1;
+        int top=0,bottom=n-1;
+
+        while(left<=right && top<=bottom){
             for(int i=left;i<=right;i++){
                 ans.emplace_back(matrix[top][i]);
             }
