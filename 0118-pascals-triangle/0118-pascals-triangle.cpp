@@ -6,7 +6,7 @@ public:
         ans.emplace_back(1);
         int ele=1;
         for(int col=0;col<row;col++){
-            ele=ele*(row-col);
+            ele*=(row-col);
             ele/=(col+1);
             ans.emplace_back(ele);
         }
