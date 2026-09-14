@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/suryasantosh5506/DSA/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/suryasantosh5506/DSA/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/suryasantosh5506/DSA/tree/master/0486-predict-the-winner) |
+| [0493-reverse-pairs](https://github.com/suryasantosh5506/DSA/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/suryasantosh5506/DSA/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/suryasantosh5506/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/suryasantosh5506/DSA/tree/master/0503-next-greater-element-ii) |
@@ -675,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/suryasantosh5506/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0307-range-sum-query-mutable](https://github.com/suryasantosh5506/DSA/tree/master/0307-range-sum-query-mutable) |
 | [0347-top-k-frequent-elements](https://github.com/suryasantosh5506/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0493-reverse-pairs](https://github.com/suryasantosh5506/DSA/tree/master/0493-reverse-pairs) |
 | [0654-maximum-binary-tree](https://github.com/suryasantosh5506/DSA/tree/master/0654-maximum-binary-tree) |
 | [1649-create-sorted-array-through-instructions](https://github.com/suryasantosh5506/DSA/tree/master/1649-create-sorted-array-through-instructions) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/suryasantosh5506/DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -1120,6 +1122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0352-data-stream-as-disjoint-intervals](https://github.com/suryasantosh5506/DSA/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0410-split-array-largest-sum](https://github.com/suryasantosh5506/DSA/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/suryasantosh5506/DSA/tree/master/0436-find-right-interval) |
+| [0493-reverse-pairs](https://github.com/suryasantosh5506/DSA/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/suryasantosh5506/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/suryasantosh5506/DSA/tree/master/0658-find-k-closest-elements) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/suryasantosh5506/DSA/tree/master/0668-kth-smallest-number-in-multiplication-table) |
@@ -1716,12 +1719,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/suryasantosh5506/DSA/tree/master/0307-range-sum-query-mutable) |
 | [0406-queue-reconstruction-by-height](https://github.com/suryasantosh5506/DSA/tree/master/0406-queue-reconstruction-by-height) |
+| [0493-reverse-pairs](https://github.com/suryasantosh5506/DSA/tree/master/0493-reverse-pairs) |
 | [1649-create-sorted-array-through-instructions](https://github.com/suryasantosh5506/DSA/tree/master/1649-create-sorted-array-through-instructions) |
 ## Segment Tree
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/suryasantosh5506/DSA/tree/master/0307-range-sum-query-mutable) |
 | [0406-queue-reconstruction-by-height](https://github.com/suryasantosh5506/DSA/tree/master/0406-queue-reconstruction-by-height) |
+| [0493-reverse-pairs](https://github.com/suryasantosh5506/DSA/tree/master/0493-reverse-pairs) |
 | [0729-my-calendar-i](https://github.com/suryasantosh5506/DSA/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/suryasantosh5506/DSA/tree/master/0731-my-calendar-ii) |
 | [1649-create-sorted-array-through-instructions](https://github.com/suryasantosh5506/DSA/tree/master/1649-create-sorted-array-through-instructions) |
@@ -1739,6 +1744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/suryasantosh5506/DSA/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0493-reverse-pairs](https://github.com/suryasantosh5506/DSA/tree/master/0493-reverse-pairs) |
 | [0729-my-calendar-i](https://github.com/suryasantosh5506/DSA/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/suryasantosh5506/DSA/tree/master/0731-my-calendar-ii) |
 | [1649-create-sorted-array-through-instructions](https://github.com/suryasantosh5506/DSA/tree/master/1649-create-sorted-array-through-instructions) |
@@ -1765,6 +1771,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/suryasantosh5506/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/suryasantosh5506/DSA/tree/master/0148-sort-list) |
+| [0493-reverse-pairs](https://github.com/suryasantosh5506/DSA/tree/master/0493-reverse-pairs) |
 | [1649-create-sorted-array-through-instructions](https://github.com/suryasantosh5506/DSA/tree/master/1649-create-sorted-array-through-instructions) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/suryasantosh5506/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Graph Theory
@@ -2041,4 +2048,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/suryasantosh5506/DSA/tree/master/0229-majority-element-ii) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/suryasantosh5506/DSA/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
