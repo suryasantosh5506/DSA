@@ -5,36 +5,36 @@ public:
         int total=n+m;
         int ind1=total/2;
         int ind2=ind1-1;
-        int i=0,j=0;
         int ele1=-1,ele2=-1;
-        int cnt=0;
+        int ind=0;
+        int i=0,j=0;
 
         while(i<n && j<m){
             if(nums1[i]<=nums2[j]){
-                if(cnt==ind1) ele1=nums1[i];
-                if(cnt==ind2) ele2=nums1[i];
+                if(ind1==ind) ele1=nums1[i];
+                if(ind2==ind) ele2=nums1[i];
                 i++;
-                cnt++;
+                ind++;
             }else{
-                if(cnt==ind1) ele1=nums2[j];
-                if(cnt==ind2) ele2=nums2[j];
+                if(ind1==ind) ele1=nums2[j];
+                if(ind2==ind) ele2=nums2[j];
                 j++;
-                cnt++;
+                ind++;
             }
         }
 
         while(i<n){
-            if(cnt==ind1) ele1=nums1[i];
-            if(cnt==ind2) ele2=nums1[i];
+            if(ind1==ind) ele1=nums1[i];
+            if(ind2==ind) ele2=nums1[i];
             i++;
-            cnt++;
+            ind++;
         }
 
         while(j<m){
-            if(cnt==ind1) ele1=nums2[j];
-            if(cnt==ind2) ele2=nums2[j];
+            if(ind1==ind) ele1=nums2[j];
+            if(ind2==ind) ele2=nums2[j];
             j++;
-            cnt++;
+            ind++;
         }
 
         if(total%2==1) return ele1;
