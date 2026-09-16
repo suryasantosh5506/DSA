@@ -2,15 +2,16 @@ class Solution {
 public:
 
     bool possible(int mid,vector<int>& nums, int threshold){
-        int value=0;
-        for(auto x:nums){
-            value+=(x+mid-1)/mid;
-            if(value>threshold) return false;
+        int t=0;
+        for(int &x:nums){
+            t+=(x+mid-1)/mid;
+            if(t>threshold) return false;
         }
         return true;
     }
 
     int smallestDivisor(vector<int>& nums, int threshold) {
+        int n=nums.size();
         int low=1,high=*max_element(nums.begin(),nums.end());
         while(low<=high){
             int mid=low+(high-low)/2;
