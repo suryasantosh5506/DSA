@@ -348,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0786-k-th-smallest-prime-fraction](https://github.com/suryasantosh5506/DSA/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0826-most-profit-assigning-work](https://github.com/suryasantosh5506/DSA/tree/master/0826-most-profit-assigning-work) |
 | [0845-longest-mountain-in-array](https://github.com/suryasantosh5506/DSA/tree/master/0845-longest-mountain-in-array) |
+| [0876-middle-of-the-linked-list](https://github.com/suryasantosh5506/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0948-bag-of-tokens](https://github.com/suryasantosh5506/DSA/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/suryasantosh5506/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/suryasantosh5506/DSA/tree/master/1471-the-k-strongest-values-in-an-array) |
@@ -922,6 +923,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0432-all-oone-data-structure](https://github.com/suryasantosh5506/DSA/tree/master/0432-all-oone-data-structure) |
 | [0641-design-circular-deque](https://github.com/suryasantosh5506/DSA/tree/master/0641-design-circular-deque) |
 | [0707-design-linked-list](https://github.com/suryasantosh5506/DSA/tree/master/0707-design-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/suryasantosh5506/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [1472-design-browser-history](https://github.com/suryasantosh5506/DSA/tree/master/1472-design-browser-history) |
 | [1669-merge-in-between-linked-lists](https://github.com/suryasantosh5506/DSA/tree/master/1669-merge-in-between-linked-lists) |
 | [1670-design-front-middle-back-queue](https://github.com/suryasantosh5506/DSA/tree/master/1670-design-front-middle-back-queue) |
