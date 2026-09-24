@@ -289,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/suryasantosh5506/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3366-minimum-array-sum](https://github.com/suryasantosh5506/DSA/tree/master/3366-minimum-array-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/suryasantosh5506/DSA/tree/master/3483-unique-3-digit-even-numbers) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/suryasantosh5506/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/suryasantosh5506/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/suryasantosh5506/DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/suryasantosh5506/DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -796,6 +797,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/suryasantosh5506/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/suryasantosh5506/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/suryasantosh5506/DSA/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/suryasantosh5506/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/suryasantosh5506/DSA/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/suryasantosh5506/DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/suryasantosh5506/DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
