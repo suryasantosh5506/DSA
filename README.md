@@ -419,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1032-stream-of-characters](https://github.com/suryasantosh5506/DSA/tree/master/1032-stream-of-characters) |
 | [1041-robot-bounded-in-circle](https://github.com/suryasantosh5506/DSA/tree/master/1041-robot-bounded-in-circle) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/suryasantosh5506/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/suryasantosh5506/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/suryasantosh5506/DSA/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1189-maximum-number-of-balloons](https://github.com/suryasantosh5506/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1286-iterator-for-combination](https://github.com/suryasantosh5506/DSA/tree/master/1286-iterator-for-combination) |
@@ -1523,6 +1524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/suryasantosh5506/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/suryasantosh5506/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/suryasantosh5506/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/suryasantosh5506/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1441-build-an-array-with-stack-operations](https://github.com/suryasantosh5506/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1472-design-browser-history](https://github.com/suryasantosh5506/DSA/tree/master/1472-design-browser-history) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/suryasantosh5506/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -2101,6 +2103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/suryasantosh5506/DSA/tree/master/1021-remove-outermost-parentheses) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/suryasantosh5506/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/suryasantosh5506/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/suryasantosh5506/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Manacher
