@@ -1,26 +1,32 @@
 class Solution {
 public:
 
+    string seq="";
     vector<string>ans;
+    int n;
 
-    void solution(int open,int close,int n,string seq){
-        if(seq.size()==2*n){
-            if(open==close){
-                ans.emplace_back(seq);
-            }
+    void solution(int i,int open,int close){
+        if(i==2*n){
+            if(open==close) ans.emplace_back(seq);
             return;
         }
 
         if(open<n){
-            solution(open+1,close,n,seq+'(');
+            seq+='(';
+            solution(i+1,open+1,close);
+            seq.pop_back();
         }
+
         if(close<open){
-            solution(open,close+1,n,seq+')');
+            seq+=')';
+            solution(i+1,open,close+1);
+            seq.pop_back();
         }
     }
 
     vector<string> generateParenthesis(int n) {
-        solution(0,0,n,"");
-        return ans;    
+        this->n=n;
+        solution(0,0,0);
+        return ans;
     }
 };
