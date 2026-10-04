@@ -2,7 +2,7 @@ class Solution {
 public:
     bool checkValidString(string s) {
         int mini=0,maxi=0;
-        for(auto x:s){
+        for(char &x:s){
             if(x=='('){
                 mini++;
                 maxi++;
