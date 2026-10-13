@@ -299,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3693-climbing-stairs-ii](https://github.com/suryasantosh5506/DSA/tree/master/3693-climbing-stairs-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/suryasantosh5506/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/suryasantosh5506/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/suryasantosh5506/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/suryasantosh5506/DSA/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/suryasantosh5506/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/suryasantosh5506/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -1037,6 +1038,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/suryasantosh5506/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/suryasantosh5506/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/suryasantosh5506/DSA/tree/master/3556-sum-of-largest-prime-substrings) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/suryasantosh5506/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/suryasantosh5506/DSA/tree/master/3731-find-missing-elements) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/suryasantosh5506/DSA/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/suryasantosh5506/DSA/tree/master/3767-maximize-points-after-choosing-k-tasks) |
@@ -1098,6 +1100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/suryasantosh5506/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/suryasantosh5506/DSA/tree/master/3081-replace-question-marks-in-string-to-minimize-its-value) |
 | [3689-maximum-total-subarray-value-i](https://github.com/suryasantosh5506/DSA/tree/master/3689-maximum-total-subarray-value-i) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/suryasantosh5506/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/suryasantosh5506/DSA/tree/master/3767-maximize-points-after-choosing-k-tasks) |
 ## Heap (Priority Queue)
 |  |
