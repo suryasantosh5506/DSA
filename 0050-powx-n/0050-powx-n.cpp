@@ -2,16 +2,16 @@ typedef long long ll;
 class Solution {
 public:
     double myPow(double x, int n) {
-        bool neg=(n<0);
-        ll power=(neg)?-1ll*n:n;
         double ans=1;
-        while(power>0){
-            if(power%2==1){
-                ans*=x;
-                power--;
-            }else{
+        bool neg=(n<0);
+        ll pow=llabs(n);
+        while(pow>0){
+            if(pow%2==0){
                 x*=x;
-                power/=2;
+                pow/=2;
+            }else{
+                ans*=x;
+                pow--;
             }
         }
         return (neg)?1/ans:ans;
