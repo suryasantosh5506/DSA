@@ -10,39 +10,36 @@
  * };
  */
 
-class Node{
-    public:
+class Ans{
+public:
+
+    int sum;
     int mini;
     int maxi;
-    int sum;
 
-    Node(int min,int max,int s){
-        mini=min;
-        maxi=max;
-        sum=s;
+    Ans(int sum,int mini,int maxi){
+        this->sum=sum;
+        this->mini=mini;
+        this->maxi=maxi;
     }
 };
 
 class Solution {
 public:
 
-    int ans=0;
-
-    Node solution(TreeNode* root){
-        if(root==nullptr) return Node(INT_MAX,INT_MIN,0);
-        auto left=solution(root->left);
-        auto right=solution(root->right);
-
-        if(root->val<right.mini && root->val>left.maxi){
-            int sum=root->val+left.sum+right.sum;
-            ans=max(sum,ans);
-            return Node(min(left.mini,root->val),max(right.maxi,root->val),sum);
-        }
-        return Node(INT_MIN,INT_MAX,0);
-    }
-
     int maxSumBST(TreeNode* root) {
+        int maxi=0;
+        function<Ans(TreeNode*)> solution=[&](TreeNode* root){
+            if(!root) return Ans(0,INT_MAX,INT_MIN);
+            auto left=solution(root->left);
+            auto right=solution(root->right);
+            if(!(root->val>left.maxi && root->val<right.mini)){
+                return Ans(max(left.sum,right.sum),INT_MIN,INT_MAX);
+            }
+            maxi=max(maxi,root->val+left.sum+right.sum);
+            return Ans(root->val+left.sum+right.sum,min(root->val,left.mini),max(root->val,right.maxi));
+        };
         solution(root);
-        return ans;
+        return maxi;
     }
 };
