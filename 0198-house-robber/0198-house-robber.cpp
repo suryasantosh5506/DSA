@@ -4,20 +4,19 @@ public:
     int n;
     vector<int>dp;
 
-    int solution(int i,vector<int>&nums){
-        if(i==n-1) return nums[i];
+    int solution(int i,vector<int>&arr){
         if(i>=n) return 0;
         if(dp[i]!=-1) return dp[i];
 
-        int take=nums[i]+solution(i+2,nums);
-        int nottake=solution(i+1,nums);
-
-        return dp[i]=max(take,nottake);
+        int maxi=0;
+        maxi=max(maxi,arr[i]+solution(i+2,arr));
+        maxi=max(maxi,solution(i+1,arr));
+        return dp[i]=maxi;
     }
 
     int rob(vector<int>& nums) {
         n=nums.size();
-        dp.resize(n,-1);
+        dp.assign(n,-1);
         return solution(0,nums);
     }
 };
