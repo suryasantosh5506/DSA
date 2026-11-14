@@ -1354,6 +1354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/suryasantosh5506/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/suryasantosh5506/DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/suryasantosh5506/DSA/tree/master/0802-find-eventual-safe-states) |
+| [0897-increasing-order-search-tree](https://github.com/suryasantosh5506/DSA/tree/master/0897-increasing-order-search-tree) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/suryasantosh5506/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/suryasantosh5506/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/suryasantosh5506/DSA/tree/master/1020-number-of-enclaves) |
@@ -1576,6 +1577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/suryasantosh5506/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/suryasantosh5506/DSA/tree/master/0735-asteroid-collision) |
 | [0856-score-of-parentheses](https://github.com/suryasantosh5506/DSA/tree/master/0856-score-of-parentheses) |
+| [0897-increasing-order-search-tree](https://github.com/suryasantosh5506/DSA/tree/master/0897-increasing-order-search-tree) |
 | [0901-online-stock-span](https://github.com/suryasantosh5506/DSA/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/suryasantosh5506/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/suryasantosh5506/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -1631,6 +1633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/suryasantosh5506/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/suryasantosh5506/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/suryasantosh5506/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0897-increasing-order-search-tree](https://github.com/suryasantosh5506/DSA/tree/master/0897-increasing-order-search-tree) |
 | [0919-complete-binary-tree-inserter](https://github.com/suryasantosh5506/DSA/tree/master/0919-complete-binary-tree-inserter) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/suryasantosh5506/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/suryasantosh5506/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -1684,6 +1687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/suryasantosh5506/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/suryasantosh5506/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/suryasantosh5506/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0897-increasing-order-search-tree](https://github.com/suryasantosh5506/DSA/tree/master/0897-increasing-order-search-tree) |
 | [0919-complete-binary-tree-inserter](https://github.com/suryasantosh5506/DSA/tree/master/0919-complete-binary-tree-inserter) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/suryasantosh5506/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/suryasantosh5506/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -1812,6 +1816,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/suryasantosh5506/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/suryasantosh5506/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/suryasantosh5506/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0897-increasing-order-search-tree](https://github.com/suryasantosh5506/DSA/tree/master/0897-increasing-order-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/suryasantosh5506/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/suryasantosh5506/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/suryasantosh5506/DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
