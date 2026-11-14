@@ -388,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/suryasantosh5506/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/suryasantosh5506/DSA/tree/master/2540-minimum-common-value) |
 | [2938-separate-black-and-white-balls](https://github.com/suryasantosh5506/DSA/tree/master/2938-separate-black-and-white-balls) |
+| [3722-lexicographically-smallest-string-after-reverse](https://github.com/suryasantosh5506/DSA/tree/master/3722-lexicographically-smallest-string-after-reverse) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/suryasantosh5506/DSA/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/suryasantosh5506/DSA/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 ## String
@@ -1259,6 +1260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/suryasantosh5506/DSA/tree/master/2540-minimum-common-value) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/suryasantosh5506/DSA/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/suryasantosh5506/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3722-lexicographically-smallest-string-after-reverse](https://github.com/suryasantosh5506/DSA/tree/master/3722-lexicographically-smallest-string-after-reverse) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/suryasantosh5506/DSA/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/suryasantosh5506/DSA/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 ## Bit Manipulation
@@ -1798,6 +1800,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3044-most-frequent-prime](https://github.com/suryasantosh5506/DSA/tree/master/3044-most-frequent-prime) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/suryasantosh5506/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/suryasantosh5506/DSA/tree/master/3483-unique-3-digit-even-numbers) |
+| [3722-lexicographically-smallest-string-after-reverse](https://github.com/suryasantosh5506/DSA/tree/master/3722-lexicographically-smallest-string-after-reverse) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/suryasantosh5506/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/suryasantosh5506/DSA/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3799-word-squares-ii](https://github.com/suryasantosh5506/DSA/tree/master/3799-word-squares-ii) |
