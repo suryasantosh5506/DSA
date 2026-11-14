@@ -1334,6 +1334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/suryasantosh5506/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/suryasantosh5506/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/suryasantosh5506/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/suryasantosh5506/DSA/tree/master/0310-minimum-height-trees) |
 | [0386-lexicographical-numbers](https://github.com/suryasantosh5506/DSA/tree/master/0386-lexicographical-numbers) |
 | [0419-battleships-in-a-board](https://github.com/suryasantosh5506/DSA/tree/master/0419-battleships-in-a-board) |
 | [0449-serialize-and-deserialize-bst](https://github.com/suryasantosh5506/DSA/tree/master/0449-serialize-and-deserialize-bst) |
@@ -1404,6 +1405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/suryasantosh5506/DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/suryasantosh5506/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/suryasantosh5506/DSA/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/suryasantosh5506/DSA/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/suryasantosh5506/DSA/tree/master/0322-coin-change) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/suryasantosh5506/DSA/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0449-serialize-and-deserialize-bst](https://github.com/suryasantosh5506/DSA/tree/master/0449-serialize-and-deserialize-bst) |
@@ -1903,6 +1905,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/suryasantosh5506/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/suryasantosh5506/DSA/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/suryasantosh5506/DSA/tree/master/0310-minimum-height-trees) |
 | [0547-number-of-provinces](https://github.com/suryasantosh5506/DSA/tree/master/0547-number-of-provinces) |
 | [0685-redundant-connection-ii](https://github.com/suryasantosh5506/DSA/tree/master/0685-redundant-connection-ii) |
 | [0743-network-delay-time](https://github.com/suryasantosh5506/DSA/tree/master/0743-network-delay-time) |
@@ -1956,6 +1959,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/suryasantosh5506/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/suryasantosh5506/DSA/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/suryasantosh5506/DSA/tree/master/0310-minimum-height-trees) |
 | [0802-find-eventual-safe-states](https://github.com/suryasantosh5506/DSA/tree/master/0802-find-eventual-safe-states) |
 | [1462-course-schedule-iv](https://github.com/suryasantosh5506/DSA/tree/master/1462-course-schedule-iv) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/suryasantosh5506/DSA/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
