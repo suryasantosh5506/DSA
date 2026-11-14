@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/suryasantosh5506/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/suryasantosh5506/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/suryasantosh5506/DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [1992-find-all-groups-of-farmland](https://github.com/suryasantosh5506/DSA/tree/master/1992-find-all-groups-of-farmland) |
 | [1993-operations-on-tree](https://github.com/suryasantosh5506/DSA/tree/master/1993-operations-on-tree) |
 | [2008-maximum-earnings-from-taxi](https://github.com/suryasantosh5506/DSA/tree/master/2008-maximum-earnings-from-taxi) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/suryasantosh5506/DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -1381,6 +1382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/suryasantosh5506/DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1462-course-schedule-iv](https://github.com/suryasantosh5506/DSA/tree/master/1462-course-schedule-iv) |
 | [1631-path-with-minimum-effort](https://github.com/suryasantosh5506/DSA/tree/master/1631-path-with-minimum-effort) |
+| [1992-find-all-groups-of-farmland](https://github.com/suryasantosh5506/DSA/tree/master/1992-find-all-groups-of-farmland) |
 | [1993-operations-on-tree](https://github.com/suryasantosh5506/DSA/tree/master/1993-operations-on-tree) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/suryasantosh5506/DSA/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2101-detonate-the-maximum-bombs](https://github.com/suryasantosh5506/DSA/tree/master/2101-detonate-the-maximum-bombs) |
@@ -1448,6 +1450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/suryasantosh5506/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/suryasantosh5506/DSA/tree/master/1765-map-of-highest-peak) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/suryasantosh5506/DSA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [1992-find-all-groups-of-farmland](https://github.com/suryasantosh5506/DSA/tree/master/1992-find-all-groups-of-farmland) |
 | [1993-operations-on-tree](https://github.com/suryasantosh5506/DSA/tree/master/1993-operations-on-tree) |
 | [2101-detonate-the-maximum-bombs](https://github.com/suryasantosh5506/DSA/tree/master/2101-detonate-the-maximum-bombs) |
 | [2146-k-highest-ranked-items-within-a-price-range](https://github.com/suryasantosh5506/DSA/tree/master/2146-k-highest-ranked-items-within-a-price-range) |
@@ -1529,6 +1532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/suryasantosh5506/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [1914-cyclically-rotating-a-grid](https://github.com/suryasantosh5506/DSA/tree/master/1914-cyclically-rotating-a-grid) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/suryasantosh5506/DSA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [1992-find-all-groups-of-farmland](https://github.com/suryasantosh5506/DSA/tree/master/1992-find-all-groups-of-farmland) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/suryasantosh5506/DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2146-k-highest-ranked-items-within-a-price-range](https://github.com/suryasantosh5506/DSA/tree/master/2146-k-highest-ranked-items-within-a-price-range) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/suryasantosh5506/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
