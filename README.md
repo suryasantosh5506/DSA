@@ -433,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/suryasantosh5506/DSA/tree/master/0796-rotate-string) |
 | [0806-number-of-lines-to-write-string](https://github.com/suryasantosh5506/DSA/tree/master/0806-number-of-lines-to-write-string) |
 | [0811-subdomain-visit-count](https://github.com/suryasantosh5506/DSA/tree/master/0811-subdomain-visit-count) |
+| [0831-masking-personal-information](https://github.com/suryasantosh5506/DSA/tree/master/0831-masking-personal-information) |
 | [0842-split-array-into-fibonacci-sequence](https://github.com/suryasantosh5506/DSA/tree/master/0842-split-array-into-fibonacci-sequence) |
 | [0856-score-of-parentheses](https://github.com/suryasantosh5506/DSA/tree/master/0856-score-of-parentheses) |
 | [0890-find-and-replace-pattern](https://github.com/suryasantosh5506/DSA/tree/master/0890-find-and-replace-pattern) |
