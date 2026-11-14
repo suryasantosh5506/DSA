@@ -455,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/suryasantosh5506/DSA/tree/master/1657-determine-if-two-strings-are-close) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/suryasantosh5506/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/suryasantosh5506/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/suryasantosh5506/DSA/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
 | [1903-largest-odd-number-in-string](https://github.com/suryasantosh5506/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/suryasantosh5506/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/suryasantosh5506/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -1780,6 +1781,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/suryasantosh5506/DSA/tree/master/0204-count-primes) |
 | [0845-longest-mountain-in-array](https://github.com/suryasantosh5506/DSA/tree/master/0845-longest-mountain-in-array) |
 | [1291-sequential-digits](https://github.com/suryasantosh5506/DSA/tree/master/1291-sequential-digits) |
+| [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/suryasantosh5506/DSA/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/suryasantosh5506/DSA/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [2261-k-divisible-elements-subarrays](https://github.com/suryasantosh5506/DSA/tree/master/2261-k-divisible-elements-subarrays) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/suryasantosh5506/DSA/tree/master/2310-sum-of-numbers-with-units-digit-k) |
@@ -1831,6 +1833,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1219-path-with-maximum-gold](https://github.com/suryasantosh5506/DSA/tree/master/1219-path-with-maximum-gold) |
 | [1286-iterator-for-combination](https://github.com/suryasantosh5506/DSA/tree/master/1286-iterator-for-combination) |
 | [1774-closest-dessert-cost](https://github.com/suryasantosh5506/DSA/tree/master/1774-closest-dessert-cost) |
+| [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/suryasantosh5506/DSA/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
 | [2698-find-the-punishment-number-of-an-integer](https://github.com/suryasantosh5506/DSA/tree/master/2698-find-the-punishment-number-of-an-integer) |
 | [2708-maximum-strength-of-a-group](https://github.com/suryasantosh5506/DSA/tree/master/2708-maximum-strength-of-a-group) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/suryasantosh5506/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
