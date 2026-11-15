@@ -842,6 +842,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/suryasantosh5506/DSA/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [2364-count-number-of-bad-pairs](https://github.com/suryasantosh5506/DSA/tree/master/2364-count-number-of-bad-pairs) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/suryasantosh5506/DSA/tree/master/2443-sum-of-number-and-its-reverse) |
+| [2457-minimum-addition-to-make-integer-beautiful](https://github.com/suryasantosh5506/DSA/tree/master/2457-minimum-addition-to-make-integer-beautiful) |
 | [2698-find-the-punishment-number-of-an-integer](https://github.com/suryasantosh5506/DSA/tree/master/2698-find-the-punishment-number-of-an-integer) |
 | [2745-construct-the-longest-new-string](https://github.com/suryasantosh5506/DSA/tree/master/2745-construct-the-longest-new-string) |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/suryasantosh5506/DSA/tree/master/2750-ways-to-split-array-into-good-subarrays) |
@@ -1151,6 +1152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/suryasantosh5506/DSA/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/suryasantosh5506/DSA/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [2405-optimal-partition-of-string](https://github.com/suryasantosh5506/DSA/tree/master/2405-optimal-partition-of-string) |
+| [2457-minimum-addition-to-make-integer-beautiful](https://github.com/suryasantosh5506/DSA/tree/master/2457-minimum-addition-to-make-integer-beautiful) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/suryasantosh5506/DSA/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/suryasantosh5506/DSA/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2708-maximum-strength-of-a-group](https://github.com/suryasantosh5506/DSA/tree/master/2708-maximum-strength-of-a-group) |
