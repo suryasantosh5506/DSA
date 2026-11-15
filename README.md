@@ -828,6 +828,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0640-solve-the-equation](https://github.com/suryasantosh5506/DSA/tree/master/0640-solve-the-equation) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/suryasantosh5506/DSA/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0877-stone-game](https://github.com/suryasantosh5506/DSA/tree/master/0877-stone-game) |
+| [0991-broken-calculator](https://github.com/suryasantosh5506/DSA/tree/master/0991-broken-calculator) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/suryasantosh5506/DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1041-robot-bounded-in-circle](https://github.com/suryasantosh5506/DSA/tree/master/1041-robot-bounded-in-circle) |
 | [1137-n-th-tribonacci-number](https://github.com/suryasantosh5506/DSA/tree/master/1137-n-th-tribonacci-number) |
@@ -1147,6 +1148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/suryasantosh5506/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0948-bag-of-tokens](https://github.com/suryasantosh5506/DSA/tree/master/0948-bag-of-tokens) |
 | [0954-array-of-doubled-pairs](https://github.com/suryasantosh5506/DSA/tree/master/0954-array-of-doubled-pairs) |
+| [0991-broken-calculator](https://github.com/suryasantosh5506/DSA/tree/master/0991-broken-calculator) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/suryasantosh5506/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/suryasantosh5506/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1386-cinema-seat-allocation](https://github.com/suryasantosh5506/DSA/tree/master/1386-cinema-seat-allocation) |
