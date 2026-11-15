@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1472-design-browser-history](https://github.com/suryasantosh5506/DSA/tree/master/1472-design-browser-history) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/suryasantosh5506/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/suryasantosh5506/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1488-avoid-flood-in-the-city](https://github.com/suryasantosh5506/DSA/tree/master/1488-avoid-flood-in-the-city) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/suryasantosh5506/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/suryasantosh5506/DSA/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1514-path-with-maximum-probability](https://github.com/suryasantosh5506/DSA/tree/master/1514-path-with-maximum-probability) |
@@ -657,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/suryasantosh5506/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/suryasantosh5506/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/suryasantosh5506/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1488-avoid-flood-in-the-city](https://github.com/suryasantosh5506/DSA/tree/master/1488-avoid-flood-in-the-city) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/suryasantosh5506/DSA/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1657-determine-if-two-strings-are-close](https://github.com/suryasantosh5506/DSA/tree/master/1657-determine-if-two-strings-are-close) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/suryasantosh5506/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -1154,6 +1156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/suryasantosh5506/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/suryasantosh5506/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1386-cinema-seat-allocation](https://github.com/suryasantosh5506/DSA/tree/master/1386-cinema-seat-allocation) |
+| [1488-avoid-flood-in-the-city](https://github.com/suryasantosh5506/DSA/tree/master/1488-avoid-flood-in-the-city) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/suryasantosh5506/DSA/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1753-maximum-score-from-removing-stones](https://github.com/suryasantosh5506/DSA/tree/master/1753-maximum-score-from-removing-stones) |
 | [1833-maximum-ice-cream-bars](https://github.com/suryasantosh5506/DSA/tree/master/1833-maximum-ice-cream-bars) |
@@ -1208,6 +1211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/suryasantosh5506/DSA/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1424-diagonal-traverse-ii](https://github.com/suryasantosh5506/DSA/tree/master/1424-diagonal-traverse-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/suryasantosh5506/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1488-avoid-flood-in-the-city](https://github.com/suryasantosh5506/DSA/tree/master/1488-avoid-flood-in-the-city) |
 | [1514-path-with-maximum-probability](https://github.com/suryasantosh5506/DSA/tree/master/1514-path-with-maximum-probability) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/suryasantosh5506/DSA/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1631-path-with-minimum-effort](https://github.com/suryasantosh5506/DSA/tree/master/1631-path-with-minimum-effort) |
@@ -1272,6 +1276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/suryasantosh5506/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/suryasantosh5506/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/suryasantosh5506/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1488-avoid-flood-in-the-city](https://github.com/suryasantosh5506/DSA/tree/master/1488-avoid-flood-in-the-city) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/suryasantosh5506/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1539-kth-missing-positive-number](https://github.com/suryasantosh5506/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/suryasantosh5506/DSA/tree/master/1552-magnetic-force-between-two-balls) |
