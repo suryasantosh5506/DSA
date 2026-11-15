@@ -415,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/suryasantosh5506/DSA/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/suryasantosh5506/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/suryasantosh5506/DSA/tree/master/0205-isomorphic-strings) |
+| [0227-basic-calculator-ii](https://github.com/suryasantosh5506/DSA/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/suryasantosh5506/DSA/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/suryasantosh5506/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/suryasantosh5506/DSA/tree/master/0394-decode-string) |
@@ -797,6 +798,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/suryasantosh5506/DSA/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/suryasantosh5506/DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/suryasantosh5506/DSA/tree/master/0204-count-primes) |
+| [0227-basic-calculator-ii](https://github.com/suryasantosh5506/DSA/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/suryasantosh5506/DSA/tree/master/0231-power-of-two) |
 | [0264-ugly-number-ii](https://github.com/suryasantosh5506/DSA/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/suryasantosh5506/DSA/tree/master/0268-missing-number) |
@@ -1610,6 +1612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/suryasantosh5506/DSA/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/suryasantosh5506/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/suryasantosh5506/DSA/tree/master/0225-implement-stack-using-queues) |
+| [0227-basic-calculator-ii](https://github.com/suryasantosh5506/DSA/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/suryasantosh5506/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/suryasantosh5506/DSA/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/suryasantosh5506/DSA/tree/master/0316-remove-duplicate-letters) |
