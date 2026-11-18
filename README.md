@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/suryasantosh5506/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [0946-validate-stack-sequences](https://github.com/suryasantosh5506/DSA/tree/master/0946-validate-stack-sequences) |
 | [0948-bag-of-tokens](https://github.com/suryasantosh5506/DSA/tree/master/0948-bag-of-tokens) |
+| [0949-largest-time-for-given-digits](https://github.com/suryasantosh5506/DSA/tree/master/0949-largest-time-for-given-digits) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/suryasantosh5506/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0954-array-of-doubled-pairs](https://github.com/suryasantosh5506/DSA/tree/master/0954-array-of-doubled-pairs) |
 | [0977-squares-of-a-sorted-array](https://github.com/suryasantosh5506/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -456,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/suryasantosh5506/DSA/tree/master/0856-score-of-parentheses) |
 | [0890-find-and-replace-pattern](https://github.com/suryasantosh5506/DSA/tree/master/0890-find-and-replace-pattern) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/suryasantosh5506/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0949-largest-time-for-given-digits](https://github.com/suryasantosh5506/DSA/tree/master/0949-largest-time-for-given-digits) |
 | [0981-time-based-key-value-store](https://github.com/suryasantosh5506/DSA/tree/master/0981-time-based-key-value-store) |
 | [0984-string-without-aaa-or-bbb](https://github.com/suryasantosh5506/DSA/tree/master/0984-string-without-aaa-or-bbb) |
 | [1021-remove-outermost-parentheses](https://github.com/suryasantosh5506/DSA/tree/master/1021-remove-outermost-parentheses) |
@@ -1859,6 +1861,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/suryasantosh5506/DSA/tree/master/0204-count-primes) |
 | [0845-longest-mountain-in-array](https://github.com/suryasantosh5506/DSA/tree/master/0845-longest-mountain-in-array) |
+| [0949-largest-time-for-given-digits](https://github.com/suryasantosh5506/DSA/tree/master/0949-largest-time-for-given-digits) |
 | [1291-sequential-digits](https://github.com/suryasantosh5506/DSA/tree/master/1291-sequential-digits) |
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/suryasantosh5506/DSA/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/suryasantosh5506/DSA/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
@@ -1914,6 +1917,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/suryasantosh5506/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0797-all-paths-from-source-to-target](https://github.com/suryasantosh5506/DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0842-split-array-into-fibonacci-sequence](https://github.com/suryasantosh5506/DSA/tree/master/0842-split-array-into-fibonacci-sequence) |
+| [0949-largest-time-for-given-digits](https://github.com/suryasantosh5506/DSA/tree/master/0949-largest-time-for-given-digits) |
 | [1219-path-with-maximum-gold](https://github.com/suryasantosh5506/DSA/tree/master/1219-path-with-maximum-gold) |
 | [1286-iterator-for-combination](https://github.com/suryasantosh5506/DSA/tree/master/1286-iterator-for-combination) |
 | [1774-closest-dessert-cost](https://github.com/suryasantosh5506/DSA/tree/master/1774-closest-dessert-cost) |
