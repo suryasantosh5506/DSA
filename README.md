@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1670-design-front-middle-back-queue](https://github.com/suryasantosh5506/DSA/tree/master/1670-design-front-middle-back-queue) |
 | [1696-jump-game-vi](https://github.com/suryasantosh5506/DSA/tree/master/1696-jump-game-vi) |
 | [1701-average-waiting-time](https://github.com/suryasantosh5506/DSA/tree/master/1701-average-waiting-time) |
+| [1718-construct-the-lexicographically-largest-valid-sequence](https://github.com/suryasantosh5506/DSA/tree/master/1718-construct-the-lexicographically-largest-valid-sequence) |
 | [1732-find-the-highest-altitude](https://github.com/suryasantosh5506/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/suryasantosh5506/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1765-map-of-highest-peak](https://github.com/suryasantosh5506/DSA/tree/master/1765-map-of-highest-peak) |
@@ -1920,6 +1921,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0949-largest-time-for-given-digits](https://github.com/suryasantosh5506/DSA/tree/master/0949-largest-time-for-given-digits) |
 | [1219-path-with-maximum-gold](https://github.com/suryasantosh5506/DSA/tree/master/1219-path-with-maximum-gold) |
 | [1286-iterator-for-combination](https://github.com/suryasantosh5506/DSA/tree/master/1286-iterator-for-combination) |
+| [1718-construct-the-lexicographically-largest-valid-sequence](https://github.com/suryasantosh5506/DSA/tree/master/1718-construct-the-lexicographically-largest-valid-sequence) |
 | [1774-closest-dessert-cost](https://github.com/suryasantosh5506/DSA/tree/master/1774-closest-dessert-cost) |
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/suryasantosh5506/DSA/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
 | [2698-find-the-punishment-number-of-an-integer](https://github.com/suryasantosh5506/DSA/tree/master/2698-find-the-punishment-number-of-an-integer) |
