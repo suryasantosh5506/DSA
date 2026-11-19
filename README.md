@@ -342,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/suryasantosh5506/DSA/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/suryasantosh5506/DSA/tree/master/3767-maximize-points-after-choosing-k-tasks) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/suryasantosh5506/DSA/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
+| [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/suryasantosh5506/DSA/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3799-word-squares-ii](https://github.com/suryasantosh5506/DSA/tree/master/3799-word-squares-ii) |
 | [3838-weighted-word-mapping](https://github.com/suryasantosh5506/DSA/tree/master/3838-weighted-word-mapping) |
 | [3850-count-sequences-to-k](https://github.com/suryasantosh5506/DSA/tree/master/3850-count-sequences-to-k) |
@@ -736,6 +737,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/suryasantosh5506/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/suryasantosh5506/DSA/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/suryasantosh5506/DSA/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
+| [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/suryasantosh5506/DSA/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3889-mirror-frequency-distance](https://github.com/suryasantosh5506/DSA/tree/master/3889-mirror-frequency-distance) |
 ## Design
 |  |
@@ -1383,6 +1385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/suryasantosh5506/DSA/tree/master/3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/suryasantosh5506/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3679-minimum-discards-to-balance-inventory](https://github.com/suryasantosh5506/DSA/tree/master/3679-minimum-discards-to-balance-inventory) |
+| [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/suryasantosh5506/DSA/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 ## Recursion
 |  |
 | ------- |
