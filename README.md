@@ -502,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-query-kth-smallest-trimmed-number](https://github.com/suryasantosh5506/DSA/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/suryasantosh5506/DSA/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2405-optimal-partition-of-string](https://github.com/suryasantosh5506/DSA/tree/master/2405-optimal-partition-of-string) |
+| [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/suryasantosh5506/DSA/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/suryasantosh5506/DSA/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [2512-reward-top-k-students](https://github.com/suryasantosh5506/DSA/tree/master/2512-reward-top-k-students) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/suryasantosh5506/DSA/tree/master/2559-count-vowel-strings-in-ranges) |
