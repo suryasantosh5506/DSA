@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/suryasantosh5506/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1333-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/suryasantosh5506/DSA/tree/master/1333-filter-restaurants-by-vegan-friendly-price-and-distance) |
 | [1340-jump-game-v](https://github.com/suryasantosh5506/DSA/tree/master/1340-jump-game-v) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/suryasantosh5506/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1345-jump-game-iv](https://github.com/suryasantosh5506/DSA/tree/master/1345-jump-game-iv) |
 | [1352-product-of-the-last-k-numbers](https://github.com/suryasantosh5506/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/suryasantosh5506/DSA/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -1387,6 +1388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/suryasantosh5506/DSA/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1208-get-equal-substrings-within-budget](https://github.com/suryasantosh5506/DSA/tree/master/1208-get-equal-substrings-within-budget) |
 | [1248-count-number-of-nice-subarrays](https://github.com/suryasantosh5506/DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/suryasantosh5506/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/suryasantosh5506/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/suryasantosh5506/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/suryasantosh5506/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
