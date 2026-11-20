@@ -527,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3271-hash-divided-string](https://github.com/suryasantosh5506/DSA/tree/master/3271-hash-divided-string) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/suryasantosh5506/DSA/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 | [3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/suryasantosh5506/DSA/tree/master/3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
+| [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/suryasantosh5506/DSA/tree/master/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3412-find-mirror-score-of-a-string](https://github.com/suryasantosh5506/DSA/tree/master/3412-find-mirror-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/suryasantosh5506/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/suryasantosh5506/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -734,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/suryasantosh5506/DSA/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/suryasantosh5506/DSA/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 | [3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/suryasantosh5506/DSA/tree/master/3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
+| [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/suryasantosh5506/DSA/tree/master/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3412-find-mirror-score-of-a-string](https://github.com/suryasantosh5506/DSA/tree/master/3412-find-mirror-score-of-a-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/suryasantosh5506/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/suryasantosh5506/DSA/tree/master/3556-sum-of-largest-prime-substrings) |
@@ -1404,6 +1406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/suryasantosh5506/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3208-alternating-groups-ii](https://github.com/suryasantosh5506/DSA/tree/master/3208-alternating-groups-ii) |
 | [3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/suryasantosh5506/DSA/tree/master/3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
+| [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/suryasantosh5506/DSA/tree/master/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/suryasantosh5506/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3679-minimum-discards-to-balance-inventory](https://github.com/suryasantosh5506/DSA/tree/master/3679-minimum-discards-to-balance-inventory) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/suryasantosh5506/DSA/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
