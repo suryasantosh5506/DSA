@@ -436,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/suryasantosh5506/DSA/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/suryasantosh5506/DSA/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/suryasantosh5506/DSA/tree/master/0316-remove-duplicate-letters) |
+| [0385-mini-parser](https://github.com/suryasantosh5506/DSA/tree/master/0385-mini-parser) |
 | [0394-decode-string](https://github.com/suryasantosh5506/DSA/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/suryasantosh5506/DSA/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/suryasantosh5506/DSA/tree/master/0424-longest-repeating-character-replacement) |
@@ -1450,6 +1451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/suryasantosh5506/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/suryasantosh5506/DSA/tree/master/0310-minimum-height-trees) |
 | [0365-water-and-jug-problem](https://github.com/suryasantosh5506/DSA/tree/master/0365-water-and-jug-problem) |
+| [0385-mini-parser](https://github.com/suryasantosh5506/DSA/tree/master/0385-mini-parser) |
 | [0386-lexicographical-numbers](https://github.com/suryasantosh5506/DSA/tree/master/0386-lexicographical-numbers) |
 | [0417-pacific-atlantic-water-flow](https://github.com/suryasantosh5506/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/suryasantosh5506/DSA/tree/master/0419-battleships-in-a-board) |
@@ -1700,6 +1702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/suryasantosh5506/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/suryasantosh5506/DSA/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/suryasantosh5506/DSA/tree/master/0316-remove-duplicate-letters) |
+| [0385-mini-parser](https://github.com/suryasantosh5506/DSA/tree/master/0385-mini-parser) |
 | [0394-decode-string](https://github.com/suryasantosh5506/DSA/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/suryasantosh5506/DSA/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/suryasantosh5506/DSA/tree/master/0496-next-greater-element-i) |
