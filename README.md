@@ -489,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/suryasantosh5506/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/suryasantosh5506/DSA/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1657-determine-if-two-strings-are-close](https://github.com/suryasantosh5506/DSA/tree/master/1657-determine-if-two-strings-are-close) |
+| [1759-count-number-of-homogenous-substrings](https://github.com/suryasantosh5506/DSA/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/suryasantosh5506/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/suryasantosh5506/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/suryasantosh5506/DSA/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
@@ -888,6 +889,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/suryasantosh5506/DSA/tree/master/1563-stone-game-v) |
 | [1643-kth-smallest-instructions](https://github.com/suryasantosh5506/DSA/tree/master/1643-kth-smallest-instructions) |
 | [1753-maximum-score-from-removing-stones](https://github.com/suryasantosh5506/DSA/tree/master/1753-maximum-score-from-removing-stones) |
+| [1759-count-number-of-homogenous-substrings](https://github.com/suryasantosh5506/DSA/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/suryasantosh5506/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/suryasantosh5506/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/suryasantosh5506/DSA/tree/master/1922-count-good-numbers) |
