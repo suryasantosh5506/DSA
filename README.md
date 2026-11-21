@@ -722,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2196-create-binary-tree-from-descriptions](https://github.com/suryasantosh5506/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/suryasantosh5506/DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2261-k-divisible-elements-subarrays](https://github.com/suryasantosh5506/DSA/tree/master/2261-k-divisible-elements-subarrays) |
+| [2336-smallest-number-in-infinite-set](https://github.com/suryasantosh5506/DSA/tree/master/2336-smallest-number-in-infinite-set) |
 | [2364-count-number-of-bad-pairs](https://github.com/suryasantosh5506/DSA/tree/master/2364-count-number-of-bad-pairs) |
 | [2405-optimal-partition-of-string](https://github.com/suryasantosh5506/DSA/tree/master/2405-optimal-partition-of-string) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/suryasantosh5506/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -795,6 +796,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2034-stock-price-fluctuation](https://github.com/suryasantosh5506/DSA/tree/master/2034-stock-price-fluctuation) |
 | [2069-walking-robot-simulation-ii](https://github.com/suryasantosh5506/DSA/tree/master/2069-walking-robot-simulation-ii) |
 | [2080-range-frequency-queries](https://github.com/suryasantosh5506/DSA/tree/master/2080-range-frequency-queries) |
+| [2336-smallest-number-in-infinite-set](https://github.com/suryasantosh5506/DSA/tree/master/2336-smallest-number-in-infinite-set) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/suryasantosh5506/DSA/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Divide and Conquer
 |  |
@@ -1295,6 +1297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2034-stock-price-fluctuation](https://github.com/suryasantosh5506/DSA/tree/master/2034-stock-price-fluctuation) |
 | [2146-k-highest-ranked-items-within-a-price-range](https://github.com/suryasantosh5506/DSA/tree/master/2146-k-highest-ranked-items-within-a-price-range) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/suryasantosh5506/DSA/tree/master/2208-minimum-operations-to-halve-array-sum) |
+| [2336-smallest-number-in-infinite-set](https://github.com/suryasantosh5506/DSA/tree/master/2336-smallest-number-in-infinite-set) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/suryasantosh5506/DSA/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2512-reward-top-k-students](https://github.com/suryasantosh5506/DSA/tree/master/2512-reward-top-k-students) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/suryasantosh5506/DSA/tree/master/2530-maximal-score-after-applying-k-operations) |
@@ -2054,6 +2057,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/suryasantosh5506/DSA/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1649-create-sorted-array-through-instructions](https://github.com/suryasantosh5506/DSA/tree/master/1649-create-sorted-array-through-instructions) |
 | [2034-stock-price-fluctuation](https://github.com/suryasantosh5506/DSA/tree/master/2034-stock-price-fluctuation) |
+| [2336-smallest-number-in-infinite-set](https://github.com/suryasantosh5506/DSA/tree/master/2336-smallest-number-in-infinite-set) |
 ## Data Stream
 |  |
 | ------- |
