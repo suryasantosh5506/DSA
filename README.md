@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0949-largest-time-for-given-digits](https://github.com/suryasantosh5506/DSA/tree/master/0949-largest-time-for-given-digits) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/suryasantosh5506/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0954-array-of-doubled-pairs](https://github.com/suryasantosh5506/DSA/tree/master/0954-array-of-doubled-pairs) |
+| [0966-vowel-spellchecker](https://github.com/suryasantosh5506/DSA/tree/master/0966-vowel-spellchecker) |
 | [0977-squares-of-a-sorted-array](https://github.com/suryasantosh5506/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0978-longest-turbulent-subarray](https://github.com/suryasantosh5506/DSA/tree/master/0978-longest-turbulent-subarray) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/suryasantosh5506/DSA/tree/master/0985-sum-of-even-numbers-after-queries) |
@@ -469,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-find-and-replace-pattern](https://github.com/suryasantosh5506/DSA/tree/master/0890-find-and-replace-pattern) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/suryasantosh5506/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0949-largest-time-for-given-digits](https://github.com/suryasantosh5506/DSA/tree/master/0949-largest-time-for-given-digits) |
+| [0966-vowel-spellchecker](https://github.com/suryasantosh5506/DSA/tree/master/0966-vowel-spellchecker) |
 | [0981-time-based-key-value-store](https://github.com/suryasantosh5506/DSA/tree/master/0981-time-based-key-value-store) |
 | [0984-string-without-aaa-or-bbb](https://github.com/suryasantosh5506/DSA/tree/master/0984-string-without-aaa-or-bbb) |
 | [1021-remove-outermost-parentheses](https://github.com/suryasantosh5506/DSA/tree/master/1021-remove-outermost-parentheses) |
@@ -688,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/suryasantosh5506/DSA/tree/master/0904-fruit-into-baskets) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/suryasantosh5506/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0954-array-of-doubled-pairs](https://github.com/suryasantosh5506/DSA/tree/master/0954-array-of-doubled-pairs) |
+| [0966-vowel-spellchecker](https://github.com/suryasantosh5506/DSA/tree/master/0966-vowel-spellchecker) |
 | [0981-time-based-key-value-store](https://github.com/suryasantosh5506/DSA/tree/master/0981-time-based-key-value-store) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/suryasantosh5506/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/suryasantosh5506/DSA/tree/master/0992-subarrays-with-k-different-integers) |
