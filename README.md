@@ -327,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/suryasantosh5506/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/suryasantosh5506/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3366-minimum-array-sum](https://github.com/suryasantosh5506/DSA/tree/master/3366-minimum-array-sum) |
+| [3462-maximum-sum-with-at-most-k-elements](https://github.com/suryasantosh5506/DSA/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/suryasantosh5506/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/suryasantosh5506/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/suryasantosh5506/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -1180,6 +1181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/suryasantosh5506/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/suryasantosh5506/DSA/tree/master/3081-replace-question-marks-in-string-to-minimize-its-value) |
 | [3169-count-days-without-meetings](https://github.com/suryasantosh5506/DSA/tree/master/3169-count-days-without-meetings) |
+| [3462-maximum-sum-with-at-most-k-elements](https://github.com/suryasantosh5506/DSA/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/suryasantosh5506/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/suryasantosh5506/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/suryasantosh5506/DSA/tree/master/3556-sum-of-largest-prime-substrings) |
@@ -1253,6 +1255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/suryasantosh5506/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/suryasantosh5506/DSA/tree/master/3081-replace-question-marks-in-string-to-minimize-its-value) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/suryasantosh5506/DSA/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
+| [3462-maximum-sum-with-at-most-k-elements](https://github.com/suryasantosh5506/DSA/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3689-maximum-total-subarray-value-i](https://github.com/suryasantosh5506/DSA/tree/master/3689-maximum-total-subarray-value-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/suryasantosh5506/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/suryasantosh5506/DSA/tree/master/3767-maximize-points-after-choosing-k-tasks) |
@@ -1308,6 +1311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/suryasantosh5506/DSA/tree/master/3081-replace-question-marks-in-string-to-minimize-its-value) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/suryasantosh5506/DSA/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/suryasantosh5506/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3462-maximum-sum-with-at-most-k-elements](https://github.com/suryasantosh5506/DSA/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/suryasantosh5506/DSA/tree/master/3767-maximize-points-after-choosing-k-tasks) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/suryasantosh5506/DSA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Binary Search
@@ -1689,6 +1693,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3044-most-frequent-prime](https://github.com/suryasantosh5506/DSA/tree/master/3044-most-frequent-prime) |
 | [3148-maximum-difference-score-in-a-grid](https://github.com/suryasantosh5506/DSA/tree/master/3148-maximum-difference-score-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/suryasantosh5506/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3462-maximum-sum-with-at-most-k-elements](https://github.com/suryasantosh5506/DSA/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/suryasantosh5506/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/suryasantosh5506/DSA/tree/master/3665-twisted-mirror-path-count) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/suryasantosh5506/DSA/tree/master/3742-maximum-path-score-in-a-grid) |
