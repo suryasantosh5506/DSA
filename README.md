@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/suryasantosh5506/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [1563-stone-game-v](https://github.com/suryasantosh5506/DSA/tree/master/1563-stone-game-v) |
 | [1575-count-all-possible-routes](https://github.com/suryasantosh5506/DSA/tree/master/1575-count-all-possible-routes) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/suryasantosh5506/DSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1599-maximum-profit-of-operating-a-centennial-wheel](https://github.com/suryasantosh5506/DSA/tree/master/1599-maximum-profit-of-operating-a-centennial-wheel) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/suryasantosh5506/DSA/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1631-path-with-minimum-effort](https://github.com/suryasantosh5506/DSA/tree/master/1631-path-with-minimum-effort) |
@@ -486,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/suryasantosh5506/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/suryasantosh5506/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/suryasantosh5506/DSA/tree/master/1513-number-of-substrings-with-only-1s) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/suryasantosh5506/DSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/suryasantosh5506/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/suryasantosh5506/DSA/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1657-determine-if-two-strings-are-close](https://github.com/suryasantosh5506/DSA/tree/master/1657-determine-if-two-strings-are-close) |
@@ -1006,6 +1008,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/suryasantosh5506/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/suryasantosh5506/DSA/tree/master/1563-stone-game-v) |
 | [1575-count-all-possible-routes](https://github.com/suryasantosh5506/DSA/tree/master/1575-count-all-possible-routes) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/suryasantosh5506/DSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1643-kth-smallest-instructions](https://github.com/suryasantosh5506/DSA/tree/master/1643-kth-smallest-instructions) |
 | [1696-jump-game-vi](https://github.com/suryasantosh5506/DSA/tree/master/1696-jump-game-vi) |
 | [1774-closest-dessert-cost](https://github.com/suryasantosh5506/DSA/tree/master/1774-closest-dessert-cost) |
@@ -1208,6 +1211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/suryasantosh5506/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1386-cinema-seat-allocation](https://github.com/suryasantosh5506/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1488-avoid-flood-in-the-city](https://github.com/suryasantosh5506/DSA/tree/master/1488-avoid-flood-in-the-city) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/suryasantosh5506/DSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/suryasantosh5506/DSA/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1753-maximum-score-from-removing-stones](https://github.com/suryasantosh5506/DSA/tree/master/1753-maximum-score-from-removing-stones) |
 | [1833-maximum-ice-cream-bars](https://github.com/suryasantosh5506/DSA/tree/master/1833-maximum-ice-cream-bars) |
