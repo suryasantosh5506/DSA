@@ -464,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/suryasantosh5506/DSA/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/suryasantosh5506/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/suryasantosh5506/DSA/tree/master/0709-to-lower-case) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/suryasantosh5506/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0721-accounts-merge](https://github.com/suryasantosh5506/DSA/tree/master/0721-accounts-merge) |
 | [0745-prefix-and-suffix-search](https://github.com/suryasantosh5506/DSA/tree/master/0745-prefix-and-suffix-search) |
 | [0752-open-the-lock](https://github.com/suryasantosh5506/DSA/tree/master/0752-open-the-lock) |
@@ -1020,6 +1021,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/suryasantosh5506/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/suryasantosh5506/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/suryasantosh5506/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/suryasantosh5506/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/suryasantosh5506/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/suryasantosh5506/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0845-longest-mountain-in-array](https://github.com/suryasantosh5506/DSA/tree/master/0845-longest-mountain-in-array) |
@@ -2449,6 +2451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Longest Common Subsequence
 |  |
 | ------- |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/suryasantosh5506/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1092-shortest-common-supersequence](https://github.com/suryasantosh5506/DSA/tree/master/1092-shortest-common-supersequence) |
 ## Bézout's Lemma
 |  |
