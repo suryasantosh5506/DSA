@@ -541,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/suryasantosh5506/DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/suryasantosh5506/DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3163-string-compression-iii](https://github.com/suryasantosh5506/DSA/tree/master/3163-string-compression-iii) |
+| [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/suryasantosh5506/DSA/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/suryasantosh5506/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3271-hash-divided-string](https://github.com/suryasantosh5506/DSA/tree/master/3271-hash-divided-string) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/suryasantosh5506/DSA/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
@@ -759,6 +760,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3121-count-the-number-of-special-characters-ii](https://github.com/suryasantosh5506/DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/suryasantosh5506/DSA/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/suryasantosh5506/DSA/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
+| [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/suryasantosh5506/DSA/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 | [3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/suryasantosh5506/DSA/tree/master/3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
 | [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/suryasantosh5506/DSA/tree/master/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3412-find-mirror-score-of-a-string](https://github.com/suryasantosh5506/DSA/tree/master/3412-find-mirror-score-of-a-string) |
@@ -1271,6 +1273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/suryasantosh5506/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/suryasantosh5506/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/suryasantosh5506/DSA/tree/master/3081-replace-question-marks-in-string-to-minimize-its-value) |
+| [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/suryasantosh5506/DSA/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/suryasantosh5506/DSA/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/suryasantosh5506/DSA/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3689-maximum-total-subarray-value-i](https://github.com/suryasantosh5506/DSA/tree/master/3689-maximum-total-subarray-value-i) |
@@ -1329,6 +1332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/suryasantosh5506/DSA/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/suryasantosh5506/DSA/tree/master/3081-replace-question-marks-in-string-to-minimize-its-value) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/suryasantosh5506/DSA/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
+| [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/suryasantosh5506/DSA/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/suryasantosh5506/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/suryasantosh5506/DSA/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3604-minimum-time-to-reach-destination-in-directed-graph](https://github.com/suryasantosh5506/DSA/tree/master/3604-minimum-time-to-reach-destination-in-directed-graph) |
@@ -1786,6 +1790,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2104-sum-of-subarray-ranges](https://github.com/suryasantosh5506/DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/suryasantosh5506/DSA/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2334-subarray-with-elements-greater-than-varying-threshold](https://github.com/suryasantosh5506/DSA/tree/master/2334-subarray-with-elements-greater-than-varying-threshold) |
+| [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/suryasantosh5506/DSA/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 | [3412-find-mirror-score-of-a-string](https://github.com/suryasantosh5506/DSA/tree/master/3412-find-mirror-score-of-a-string) |
 | [3561-resulting-string-after-adjacent-removals](https://github.com/suryasantosh5506/DSA/tree/master/3561-resulting-string-after-adjacent-removals) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/suryasantosh5506/DSA/tree/master/3746-minimum-string-length-after-balanced-removals) |
