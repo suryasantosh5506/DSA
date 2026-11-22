@@ -456,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/suryasantosh5506/DSA/tree/master/0474-ones-and-zeroes) |
 | [0481-magical-string](https://github.com/suryasantosh5506/DSA/tree/master/0481-magical-string) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/suryasantosh5506/DSA/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0535-encode-and-decode-tinyurl](https://github.com/suryasantosh5506/DSA/tree/master/0535-encode-and-decode-tinyurl) |
 | [0537-complex-number-multiplication](https://github.com/suryasantosh5506/DSA/tree/master/0537-complex-number-multiplication) |
 | [0539-minimum-time-difference](https://github.com/suryasantosh5506/DSA/tree/master/0539-minimum-time-difference) |
 | [0609-find-duplicate-file-in-system](https://github.com/suryasantosh5506/DSA/tree/master/0609-find-duplicate-file-in-system) |
@@ -690,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0508-most-frequent-subtree-sum](https://github.com/suryasantosh5506/DSA/tree/master/0508-most-frequent-subtree-sum) |
 | [0519-random-flip-matrix](https://github.com/suryasantosh5506/DSA/tree/master/0519-random-flip-matrix) |
 | [0525-contiguous-array](https://github.com/suryasantosh5506/DSA/tree/master/0525-contiguous-array) |
+| [0535-encode-and-decode-tinyurl](https://github.com/suryasantosh5506/DSA/tree/master/0535-encode-and-decode-tinyurl) |
 | [0560-subarray-sum-equals-k](https://github.com/suryasantosh5506/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0609-find-duplicate-file-in-system](https://github.com/suryasantosh5506/DSA/tree/master/0609-find-duplicate-file-in-system) |
 | [0621-task-scheduler](https://github.com/suryasantosh5506/DSA/tree/master/0621-task-scheduler) |
@@ -795,6 +797,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0384-shuffle-an-array](https://github.com/suryasantosh5506/DSA/tree/master/0384-shuffle-an-array) |
 | [0432-all-oone-data-structure](https://github.com/suryasantosh5506/DSA/tree/master/0432-all-oone-data-structure) |
 | [0449-serialize-and-deserialize-bst](https://github.com/suryasantosh5506/DSA/tree/master/0449-serialize-and-deserialize-bst) |
+| [0535-encode-and-decode-tinyurl](https://github.com/suryasantosh5506/DSA/tree/master/0535-encode-and-decode-tinyurl) |
 | [0641-design-circular-deque](https://github.com/suryasantosh5506/DSA/tree/master/0641-design-circular-deque) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/suryasantosh5506/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0707-design-linked-list](https://github.com/suryasantosh5506/DSA/tree/master/0707-design-linked-list) |
@@ -1966,6 +1969,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/suryasantosh5506/DSA/tree/master/0535-encode-and-decode-tinyurl) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/suryasantosh5506/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [2261-k-divisible-elements-subarrays](https://github.com/suryasantosh5506/DSA/tree/master/2261-k-divisible-elements-subarrays) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/suryasantosh5506/DSA/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
