@@ -549,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3561-resulting-string-after-adjacent-removals](https://github.com/suryasantosh5506/DSA/tree/master/3561-resulting-string-after-adjacent-removals) |
 | [3597-partition-string](https://github.com/suryasantosh5506/DSA/tree/master/3597-partition-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/suryasantosh5506/DSA/tree/master/3612-process-string-with-special-operations-i) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/suryasantosh5506/DSA/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/suryasantosh5506/DSA/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/suryasantosh5506/DSA/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3799-word-squares-ii](https://github.com/suryasantosh5506/DSA/tree/master/3799-word-squares-ii) |
@@ -641,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/suryasantosh5506/DSA/tree/master/3081-replace-question-marks-in-string-to-minimize-its-value) |
 | [3679-minimum-discards-to-balance-inventory](https://github.com/suryasantosh5506/DSA/tree/master/3679-minimum-discards-to-balance-inventory) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/suryasantosh5506/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/suryasantosh5506/DSA/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3889-mirror-frequency-distance](https://github.com/suryasantosh5506/DSA/tree/master/3889-mirror-frequency-distance) |
 ## Hash Table
 |  |
@@ -1775,6 +1777,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2334-subarray-with-elements-greater-than-varying-threshold](https://github.com/suryasantosh5506/DSA/tree/master/2334-subarray-with-elements-greater-than-varying-threshold) |
 | [3412-find-mirror-score-of-a-string](https://github.com/suryasantosh5506/DSA/tree/master/3412-find-mirror-score-of-a-string) |
 | [3561-resulting-string-after-adjacent-removals](https://github.com/suryasantosh5506/DSA/tree/master/3561-resulting-string-after-adjacent-removals) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/suryasantosh5506/DSA/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [4103-remove-elements-by-type-and-color](https://github.com/suryasantosh5506/DSA/tree/master/4103-remove-elements-by-type-and-color) |
 ## Tree
 |  |
