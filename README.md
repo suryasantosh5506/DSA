@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2008-maximum-earnings-from-taxi](https://github.com/suryasantosh5506/DSA/tree/master/2008-maximum-earnings-from-taxi) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/suryasantosh5506/DSA/tree/master/2019-the-score-of-students-solving-math-expression) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/suryasantosh5506/DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2043-simple-bank-system](https://github.com/suryasantosh5506/DSA/tree/master/2043-simple-bank-system) |
 | [2050-parallel-courses-iii](https://github.com/suryasantosh5506/DSA/tree/master/2050-parallel-courses-iii) |
 | [2079-watering-plants](https://github.com/suryasantosh5506/DSA/tree/master/2079-watering-plants) |
 | [2080-range-frequency-queries](https://github.com/suryasantosh5506/DSA/tree/master/2080-range-frequency-queries) |
@@ -594,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1701-average-waiting-time](https://github.com/suryasantosh5506/DSA/tree/master/1701-average-waiting-time) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/suryasantosh5506/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1914-cyclically-rotating-a-grid](https://github.com/suryasantosh5506/DSA/tree/master/1914-cyclically-rotating-a-grid) |
+| [2043-simple-bank-system](https://github.com/suryasantosh5506/DSA/tree/master/2043-simple-bank-system) |
 | [2069-walking-robot-simulation-ii](https://github.com/suryasantosh5506/DSA/tree/master/2069-walking-robot-simulation-ii) |
 | [2079-watering-plants](https://github.com/suryasantosh5506/DSA/tree/master/2079-watering-plants) |
 | [2105-watering-plants-ii](https://github.com/suryasantosh5506/DSA/tree/master/2105-watering-plants-ii) |
@@ -736,6 +738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2008-maximum-earnings-from-taxi](https://github.com/suryasantosh5506/DSA/tree/master/2008-maximum-earnings-from-taxi) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/suryasantosh5506/DSA/tree/master/2019-the-score-of-students-solving-math-expression) |
 | [2034-stock-price-fluctuation](https://github.com/suryasantosh5506/DSA/tree/master/2034-stock-price-fluctuation) |
+| [2043-simple-bank-system](https://github.com/suryasantosh5506/DSA/tree/master/2043-simple-bank-system) |
 | [2080-range-frequency-queries](https://github.com/suryasantosh5506/DSA/tree/master/2080-range-frequency-queries) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/suryasantosh5506/DSA/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/suryasantosh5506/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -817,6 +820,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1797-design-authentication-manager](https://github.com/suryasantosh5506/DSA/tree/master/1797-design-authentication-manager) |
 | [1993-operations-on-tree](https://github.com/suryasantosh5506/DSA/tree/master/1993-operations-on-tree) |
 | [2034-stock-price-fluctuation](https://github.com/suryasantosh5506/DSA/tree/master/2034-stock-price-fluctuation) |
+| [2043-simple-bank-system](https://github.com/suryasantosh5506/DSA/tree/master/2043-simple-bank-system) |
 | [2069-walking-robot-simulation-ii](https://github.com/suryasantosh5506/DSA/tree/master/2069-walking-robot-simulation-ii) |
 | [2080-range-frequency-queries](https://github.com/suryasantosh5506/DSA/tree/master/2080-range-frequency-queries) |
 | [2336-smallest-number-in-infinite-set](https://github.com/suryasantosh5506/DSA/tree/master/2336-smallest-number-in-infinite-set) |
