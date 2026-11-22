@@ -363,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3905-multi-source-flood-fill](https://github.com/suryasantosh5506/DSA/tree/master/3905-multi-source-flood-fill) |
 | [3979-maximum-valid-pair-sum](https://github.com/suryasantosh5506/DSA/tree/master/3979-maximum-valid-pair-sum) |
 | [4020-elevator-requests-i](https://github.com/suryasantosh5506/DSA/tree/master/4020-elevator-requests-i) |
+| [4103-remove-elements-by-type-and-color](https://github.com/suryasantosh5506/DSA/tree/master/4103-remove-elements-by-type-and-color) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1774,6 +1775,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2334-subarray-with-elements-greater-than-varying-threshold](https://github.com/suryasantosh5506/DSA/tree/master/2334-subarray-with-elements-greater-than-varying-threshold) |
 | [3412-find-mirror-score-of-a-string](https://github.com/suryasantosh5506/DSA/tree/master/3412-find-mirror-score-of-a-string) |
 | [3561-resulting-string-after-adjacent-removals](https://github.com/suryasantosh5506/DSA/tree/master/3561-resulting-string-after-adjacent-removals) |
+| [4103-remove-elements-by-type-and-color](https://github.com/suryasantosh5506/DSA/tree/master/4103-remove-elements-by-type-and-color) |
 ## Tree
 |  |
 | ------- |
