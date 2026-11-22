@@ -489,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/suryasantosh5506/DSA/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1189-maximum-number-of-balloons](https://github.com/suryasantosh5506/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1208-get-equal-substrings-within-budget](https://github.com/suryasantosh5506/DSA/tree/master/1208-get-equal-substrings-within-budget) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/suryasantosh5506/DSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1268-search-suggestions-system](https://github.com/suryasantosh5506/DSA/tree/master/1268-search-suggestions-system) |
 | [1286-iterator-for-combination](https://github.com/suryasantosh5506/DSA/tree/master/1286-iterator-for-combination) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/suryasantosh5506/DSA/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
@@ -1775,6 +1776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/suryasantosh5506/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/suryasantosh5506/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/suryasantosh5506/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/suryasantosh5506/DSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1441-build-an-array-with-stack-operations](https://github.com/suryasantosh5506/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1472-design-browser-history](https://github.com/suryasantosh5506/DSA/tree/master/1472-design-browser-history) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/suryasantosh5506/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
