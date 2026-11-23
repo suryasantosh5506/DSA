@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0769-max-chunks-to-make-sorted](https://github.com/suryasantosh5506/DSA/tree/master/0769-max-chunks-to-make-sorted) |
 | [0778-swim-in-rising-water](https://github.com/suryasantosh5506/DSA/tree/master/0778-swim-in-rising-water) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/suryasantosh5506/DSA/tree/master/0786-k-th-smallest-prime-fraction) |
+| [0792-number-of-matching-subsequences](https://github.com/suryasantosh5506/DSA/tree/master/0792-number-of-matching-subsequences) |
 | [0806-number-of-lines-to-write-string](https://github.com/suryasantosh5506/DSA/tree/master/0806-number-of-lines-to-write-string) |
 | [0811-subdomain-visit-count](https://github.com/suryasantosh5506/DSA/tree/master/0811-subdomain-visit-count) |
 | [0820-short-encoding-of-words](https://github.com/suryasantosh5506/DSA/tree/master/0820-short-encoding-of-words) |
@@ -471,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0752-open-the-lock](https://github.com/suryasantosh5506/DSA/tree/master/0752-open-the-lock) |
 | [0767-reorganize-string](https://github.com/suryasantosh5506/DSA/tree/master/0767-reorganize-string) |
 | [0791-custom-sort-string](https://github.com/suryasantosh5506/DSA/tree/master/0791-custom-sort-string) |
+| [0792-number-of-matching-subsequences](https://github.com/suryasantosh5506/DSA/tree/master/0792-number-of-matching-subsequences) |
 | [0796-rotate-string](https://github.com/suryasantosh5506/DSA/tree/master/0796-rotate-string) |
 | [0806-number-of-lines-to-write-string](https://github.com/suryasantosh5506/DSA/tree/master/0806-number-of-lines-to-write-string) |
 | [0811-subdomain-visit-count](https://github.com/suryasantosh5506/DSA/tree/master/0811-subdomain-visit-count) |
@@ -707,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0752-open-the-lock](https://github.com/suryasantosh5506/DSA/tree/master/0752-open-the-lock) |
 | [0767-reorganize-string](https://github.com/suryasantosh5506/DSA/tree/master/0767-reorganize-string) |
 | [0791-custom-sort-string](https://github.com/suryasantosh5506/DSA/tree/master/0791-custom-sort-string) |
+| [0792-number-of-matching-subsequences](https://github.com/suryasantosh5506/DSA/tree/master/0792-number-of-matching-subsequences) |
 | [0811-subdomain-visit-count](https://github.com/suryasantosh5506/DSA/tree/master/0811-subdomain-visit-count) |
 | [0820-short-encoding-of-words](https://github.com/suryasantosh5506/DSA/tree/master/0820-short-encoding-of-words) |
 | [0874-walking-robot-simulation](https://github.com/suryasantosh5506/DSA/tree/master/0874-walking-robot-simulation) |
@@ -1031,6 +1034,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/suryasantosh5506/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/suryasantosh5506/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/suryasantosh5506/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0792-number-of-matching-subsequences](https://github.com/suryasantosh5506/DSA/tree/master/0792-number-of-matching-subsequences) |
 | [0845-longest-mountain-in-array](https://github.com/suryasantosh5506/DSA/tree/master/0845-longest-mountain-in-array) |
 | [0877-stone-game](https://github.com/suryasantosh5506/DSA/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/suryasantosh5506/DSA/tree/master/0907-sum-of-subarray-minimums) |
@@ -1166,6 +1170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0769-max-chunks-to-make-sorted](https://github.com/suryasantosh5506/DSA/tree/master/0769-max-chunks-to-make-sorted) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/suryasantosh5506/DSA/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0791-custom-sort-string](https://github.com/suryasantosh5506/DSA/tree/master/0791-custom-sort-string) |
+| [0792-number-of-matching-subsequences](https://github.com/suryasantosh5506/DSA/tree/master/0792-number-of-matching-subsequences) |
 | [0826-most-profit-assigning-work](https://github.com/suryasantosh5506/DSA/tree/master/0826-most-profit-assigning-work) |
 | [0948-bag-of-tokens](https://github.com/suryasantosh5506/DSA/tree/master/0948-bag-of-tokens) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/suryasantosh5506/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
@@ -1389,6 +1394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/suryasantosh5506/DSA/tree/master/0731-my-calendar-ii) |
 | [0778-swim-in-rising-water](https://github.com/suryasantosh5506/DSA/tree/master/0778-swim-in-rising-water) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/suryasantosh5506/DSA/tree/master/0786-k-th-smallest-prime-fraction) |
+| [0792-number-of-matching-subsequences](https://github.com/suryasantosh5506/DSA/tree/master/0792-number-of-matching-subsequences) |
 | [0826-most-profit-assigning-work](https://github.com/suryasantosh5506/DSA/tree/master/0826-most-profit-assigning-work) |
 | [0875-koko-eating-bananas](https://github.com/suryasantosh5506/DSA/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/suryasantosh5506/DSA/tree/master/0981-time-based-key-value-store) |
@@ -1961,6 +1967,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/suryasantosh5506/DSA/tree/master/0386-lexicographical-numbers) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/suryasantosh5506/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0745-prefix-and-suffix-search](https://github.com/suryasantosh5506/DSA/tree/master/0745-prefix-and-suffix-search) |
+| [0792-number-of-matching-subsequences](https://github.com/suryasantosh5506/DSA/tree/master/0792-number-of-matching-subsequences) |
 | [0820-short-encoding-of-words](https://github.com/suryasantosh5506/DSA/tree/master/0820-short-encoding-of-words) |
 | [1032-stream-of-characters](https://github.com/suryasantosh5506/DSA/tree/master/1032-stream-of-characters) |
 | [1268-search-suggestions-system](https://github.com/suryasantosh5506/DSA/tree/master/1268-search-suggestions-system) |
