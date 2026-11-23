@@ -20,7 +20,6 @@ public:
     int getProduct(int k) {
         int n=arr.size();
         if(k>=n) return 0;
-        if(arr[n-k]==0) return 0;
         return arr[n-1]/arr[n-(k+1)];
     }
 };
