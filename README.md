@@ -524,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1759-count-number-of-homogenous-substrings](https://github.com/suryasantosh5506/DSA/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/suryasantosh5506/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/suryasantosh5506/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1839-longest-substring-of-all-vowels-in-order](https://github.com/suryasantosh5506/DSA/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/suryasantosh5506/DSA/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
 | [1903-largest-odd-number-in-string](https://github.com/suryasantosh5506/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/suryasantosh5506/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -1496,6 +1497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/suryasantosh5506/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/suryasantosh5506/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/suryasantosh5506/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1839-longest-substring-of-all-vowels-in-order](https://github.com/suryasantosh5506/DSA/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/suryasantosh5506/DSA/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/suryasantosh5506/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/suryasantosh5506/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
