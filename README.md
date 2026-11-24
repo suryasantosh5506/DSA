@@ -741,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/suryasantosh5506/DSA/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1189-maximum-number-of-balloons](https://github.com/suryasantosh5506/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1248-count-number-of-nice-subarrays](https://github.com/suryasantosh5506/DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/suryasantosh5506/DSA/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/suryasantosh5506/DSA/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1331-rank-transform-of-an-array](https://github.com/suryasantosh5506/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/suryasantosh5506/DSA/tree/master/1345-jump-game-iv) |
@@ -833,6 +834,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0919-complete-binary-tree-inserter](https://github.com/suryasantosh5506/DSA/tree/master/0919-complete-binary-tree-inserter) |
 | [0981-time-based-key-value-store](https://github.com/suryasantosh5506/DSA/tree/master/0981-time-based-key-value-store) |
 | [1032-stream-of-characters](https://github.com/suryasantosh5506/DSA/tree/master/1032-stream-of-characters) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/suryasantosh5506/DSA/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1286-iterator-for-combination](https://github.com/suryasantosh5506/DSA/tree/master/1286-iterator-for-combination) |
 | [1352-product-of-the-last-k-numbers](https://github.com/suryasantosh5506/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1472-design-browser-history](https://github.com/suryasantosh5506/DSA/tree/master/1472-design-browser-history) |
@@ -1587,6 +1589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/suryasantosh5506/DSA/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/suryasantosh5506/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/suryasantosh5506/DSA/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/suryasantosh5506/DSA/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1267-count-servers-that-communicate](https://github.com/suryasantosh5506/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/suryasantosh5506/DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1306-jump-game-iii](https://github.com/suryasantosh5506/DSA/tree/master/1306-jump-game-iii) |
@@ -1658,6 +1661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/suryasantosh5506/DSA/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/suryasantosh5506/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/suryasantosh5506/DSA/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/suryasantosh5506/DSA/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1267-count-servers-that-communicate](https://github.com/suryasantosh5506/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1306-jump-game-iii](https://github.com/suryasantosh5506/DSA/tree/master/1306-jump-game-iii) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/suryasantosh5506/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -1894,6 +1898,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/suryasantosh5506/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/suryasantosh5506/DSA/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/suryasantosh5506/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/suryasantosh5506/DSA/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/suryasantosh5506/DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/suryasantosh5506/DSA/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1367-linked-list-in-binary-tree](https://github.com/suryasantosh5506/DSA/tree/master/1367-linked-list-in-binary-tree) |
@@ -1953,6 +1958,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/suryasantosh5506/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/suryasantosh5506/DSA/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/suryasantosh5506/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/suryasantosh5506/DSA/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/suryasantosh5506/DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/suryasantosh5506/DSA/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1367-linked-list-in-binary-tree](https://github.com/suryasantosh5506/DSA/tree/master/1367-linked-list-in-binary-tree) |
