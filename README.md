@@ -339,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/suryasantosh5506/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/suryasantosh5506/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3366-minimum-array-sum](https://github.com/suryasantosh5506/DSA/tree/master/3366-minimum-array-sum) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/suryasantosh5506/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/suryasantosh5506/DSA/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/suryasantosh5506/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/suryasantosh5506/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -974,6 +975,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/suryasantosh5506/DSA/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/suryasantosh5506/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/suryasantosh5506/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/suryasantosh5506/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3536-maximum-product-of-two-digits](https://github.com/suryasantosh5506/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/suryasantosh5506/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/suryasantosh5506/DSA/tree/master/3556-sum-of-largest-prime-substrings) |
@@ -1508,6 +1510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/suryasantosh5506/DSA/tree/master/3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
 | [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/suryasantosh5506/DSA/tree/master/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/suryasantosh5506/DSA/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/suryasantosh5506/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3679-minimum-discards-to-balance-inventory](https://github.com/suryasantosh5506/DSA/tree/master/3679-minimum-discards-to-balance-inventory) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/suryasantosh5506/DSA/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 ## Recursion
@@ -2026,6 +2029,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2708-maximum-strength-of-a-group](https://github.com/suryasantosh5506/DSA/tree/master/2708-maximum-strength-of-a-group) |
 | [3044-most-frequent-prime](https://github.com/suryasantosh5506/DSA/tree/master/3044-most-frequent-prime) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/suryasantosh5506/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/suryasantosh5506/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/suryasantosh5506/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3722-lexicographically-smallest-string-after-reverse](https://github.com/suryasantosh5506/DSA/tree/master/3722-lexicographically-smallest-string-after-reverse) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/suryasantosh5506/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -2040,6 +2044,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/suryasantosh5506/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/suryasantosh5506/DSA/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3044-most-frequent-prime](https://github.com/suryasantosh5506/DSA/tree/master/3044-most-frequent-prime) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/suryasantosh5506/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/suryasantosh5506/DSA/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/suryasantosh5506/DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/suryasantosh5506/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
