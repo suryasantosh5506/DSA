@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/suryasantosh5506/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1267-count-servers-that-communicate](https://github.com/suryasantosh5506/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1268-search-suggestions-system](https://github.com/suryasantosh5506/DSA/tree/master/1268-search-suggestions-system) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/suryasantosh5506/DSA/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/suryasantosh5506/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/suryasantosh5506/DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/suryasantosh5506/DSA/tree/master/1301-number-of-paths-with-max-score) |
@@ -742,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/suryasantosh5506/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1248-count-number-of-nice-subarrays](https://github.com/suryasantosh5506/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/suryasantosh5506/DSA/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/suryasantosh5506/DSA/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/suryasantosh5506/DSA/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1331-rank-transform-of-an-array](https://github.com/suryasantosh5506/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/suryasantosh5506/DSA/tree/master/1345-jump-game-iv) |
@@ -1285,6 +1287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1054-distant-barcodes](https://github.com/suryasantosh5506/DSA/tree/master/1054-distant-barcodes) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/suryasantosh5506/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/suryasantosh5506/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/suryasantosh5506/DSA/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1386-cinema-seat-allocation](https://github.com/suryasantosh5506/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1488-avoid-flood-in-the-city](https://github.com/suryasantosh5506/DSA/tree/master/1488-avoid-flood-in-the-city) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/suryasantosh5506/DSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
