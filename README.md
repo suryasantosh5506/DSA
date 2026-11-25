@@ -837,6 +837,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/suryasantosh5506/DSA/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/suryasantosh5506/DSA/tree/master/0731-my-calendar-ii) |
 | [0745-prefix-and-suffix-search](https://github.com/suryasantosh5506/DSA/tree/master/0745-prefix-and-suffix-search) |
+| [0855-exam-room](https://github.com/suryasantosh5506/DSA/tree/master/0855-exam-room) |
 | [0901-online-stock-span](https://github.com/suryasantosh5506/DSA/tree/master/0901-online-stock-span) |
 | [0919-complete-binary-tree-inserter](https://github.com/suryasantosh5506/DSA/tree/master/0919-complete-binary-tree-inserter) |
 | [0981-time-based-key-value-store](https://github.com/suryasantosh5506/DSA/tree/master/0981-time-based-key-value-store) |
@@ -1357,6 +1358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/suryasantosh5506/DSA/tree/master/0778-swim-in-rising-water) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/suryasantosh5506/DSA/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/suryasantosh5506/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0855-exam-room](https://github.com/suryasantosh5506/DSA/tree/master/0855-exam-room) |
 | [1054-distant-barcodes](https://github.com/suryasantosh5506/DSA/tree/master/1054-distant-barcodes) |
 | [1094-car-pooling](https://github.com/suryasantosh5506/DSA/tree/master/1094-car-pooling) |
 | [1268-search-suggestions-system](https://github.com/suryasantosh5506/DSA/tree/master/1268-search-suggestions-system) |
@@ -2167,6 +2169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/suryasantosh5506/DSA/tree/master/0493-reverse-pairs) |
 | [0729-my-calendar-i](https://github.com/suryasantosh5506/DSA/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/suryasantosh5506/DSA/tree/master/0731-my-calendar-ii) |
+| [0855-exam-room](https://github.com/suryasantosh5506/DSA/tree/master/0855-exam-room) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/suryasantosh5506/DSA/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1649-create-sorted-array-through-instructions](https://github.com/suryasantosh5506/DSA/tree/master/1649-create-sorted-array-through-instructions) |
 | [2034-stock-price-fluctuation](https://github.com/suryasantosh5506/DSA/tree/master/2034-stock-price-fluctuation) |
