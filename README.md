@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1696-jump-game-vi](https://github.com/suryasantosh5506/DSA/tree/master/1696-jump-game-vi) |
 | [1701-average-waiting-time](https://github.com/suryasantosh5506/DSA/tree/master/1701-average-waiting-time) |
 | [1718-construct-the-lexicographically-largest-valid-sequence](https://github.com/suryasantosh5506/DSA/tree/master/1718-construct-the-lexicographically-largest-valid-sequence) |
+| [1726-tuple-with-same-product](https://github.com/suryasantosh5506/DSA/tree/master/1726-tuple-with-same-product) |
 | [1732-find-the-highest-altitude](https://github.com/suryasantosh5506/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/suryasantosh5506/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1765-map-of-highest-peak](https://github.com/suryasantosh5506/DSA/tree/master/1765-map-of-highest-peak) |
@@ -665,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/suryasantosh5506/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1267-count-servers-that-communicate](https://github.com/suryasantosh5506/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1657-determine-if-two-strings-are-close](https://github.com/suryasantosh5506/DSA/tree/master/1657-determine-if-two-strings-are-close) |
+| [1726-tuple-with-same-product](https://github.com/suryasantosh5506/DSA/tree/master/1726-tuple-with-same-product) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/suryasantosh5506/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/suryasantosh5506/DSA/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/suryasantosh5506/DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -765,6 +767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/suryasantosh5506/DSA/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1657-determine-if-two-strings-are-close](https://github.com/suryasantosh5506/DSA/tree/master/1657-determine-if-two-strings-are-close) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/suryasantosh5506/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1726-tuple-with-same-product](https://github.com/suryasantosh5506/DSA/tree/master/1726-tuple-with-same-product) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/suryasantosh5506/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1797-design-authentication-manager](https://github.com/suryasantosh5506/DSA/tree/master/1797-design-authentication-manager) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/suryasantosh5506/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
