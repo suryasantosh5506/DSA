@@ -7,6 +7,7 @@ public:
         for(int i=0;i<n;i++){
             for(int j=i+1;j<n;j++){
                 int prod=nums[i]*nums[j];
+                // there are 8 ways to arrange 4 numbers
                 cnt+=8*mpp[prod];
                 mpp[prod]++;
             }
