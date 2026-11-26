@@ -337,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/suryasantosh5506/DSA/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/suryasantosh5506/DSA/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 | [3169-count-days-without-meetings](https://github.com/suryasantosh5506/DSA/tree/master/3169-count-days-without-meetings) |
+| [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/suryasantosh5506/DSA/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 | [3208-alternating-groups-ii](https://github.com/suryasantosh5506/DSA/tree/master/3208-alternating-groups-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/suryasantosh5506/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/suryasantosh5506/DSA/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
@@ -675,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/suryasantosh5506/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3044-most-frequent-prime](https://github.com/suryasantosh5506/DSA/tree/master/3044-most-frequent-prime) |
 | [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/suryasantosh5506/DSA/tree/master/3081-replace-question-marks-in-string-to-minimize-its-value) |
+| [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/suryasantosh5506/DSA/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 | [3679-minimum-discards-to-balance-inventory](https://github.com/suryasantosh5506/DSA/tree/master/3679-minimum-discards-to-balance-inventory) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/suryasantosh5506/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/suryasantosh5506/DSA/tree/master/3746-minimum-string-length-after-balanced-removals) |
@@ -803,6 +805,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/suryasantosh5506/DSA/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/suryasantosh5506/DSA/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/suryasantosh5506/DSA/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
+| [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/suryasantosh5506/DSA/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 | [3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/suryasantosh5506/DSA/tree/master/3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
 | [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/suryasantosh5506/DSA/tree/master/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3412-find-mirror-score-of-a-string](https://github.com/suryasantosh5506/DSA/tree/master/3412-find-mirror-score-of-a-string) |
