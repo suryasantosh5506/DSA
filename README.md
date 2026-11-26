@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/suryasantosh5506/DSA/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/suryasantosh5506/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/suryasantosh5506/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/suryasantosh5506/DSA/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/suryasantosh5506/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1020-number-of-enclaves](https://github.com/suryasantosh5506/DSA/tree/master/1020-number-of-enclaves) |
 | [1032-stream-of-characters](https://github.com/suryasantosh5506/DSA/tree/master/1032-stream-of-characters) |
@@ -657,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/suryasantosh5506/DSA/tree/master/0767-reorganize-string) |
 | [0811-subdomain-visit-count](https://github.com/suryasantosh5506/DSA/tree/master/0811-subdomain-visit-count) |
 | [0992-subarrays-with-k-different-integers](https://github.com/suryasantosh5506/DSA/tree/master/0992-subarrays-with-k-different-integers) |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/suryasantosh5506/DSA/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1054-distant-barcodes](https://github.com/suryasantosh5506/DSA/tree/master/1054-distant-barcodes) |
 | [1079-letter-tile-possibilities](https://github.com/suryasantosh5506/DSA/tree/master/1079-letter-tile-possibilities) |
 | [1189-maximum-number-of-balloons](https://github.com/suryasantosh5506/DSA/tree/master/1189-maximum-number-of-balloons) |
@@ -739,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-time-based-key-value-store](https://github.com/suryasantosh5506/DSA/tree/master/0981-time-based-key-value-store) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/suryasantosh5506/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/suryasantosh5506/DSA/tree/master/0992-subarrays-with-k-different-integers) |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/suryasantosh5506/DSA/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/suryasantosh5506/DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1054-distant-barcodes](https://github.com/suryasantosh5506/DSA/tree/master/1054-distant-barcodes) |
 | [1079-letter-tile-possibilities](https://github.com/suryasantosh5506/DSA/tree/master/1079-letter-tile-possibilities) |
